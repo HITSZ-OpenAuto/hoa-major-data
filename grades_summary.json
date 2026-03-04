@@ -558,7 +558,7 @@
     ]
   },
   "COMP1011": {
-    "default": [
+    "2024_default": [
       {
         "name": "作业",
         "percent": "10%"
@@ -570,6 +570,20 @@
       {
         "name": "期末考试",
         "percent": "60%"
+      }
+    ],
+    "default": [
+      {
+        "name": "作业",
+        "percent": "10%"
+      },
+      {
+        "name": "实验",
+        "percent": "40%"
+      },
+      {
+        "name": "期末考试",
+        "percent": "50%"
       }
     ]
   },
