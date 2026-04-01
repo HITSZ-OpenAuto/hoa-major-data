@@ -600,6 +600,20 @@
     ]
   },
   "COMP2008": {
+    "2024_default": [
+      {
+        "name": "作业",
+        "percent": "20%"
+      },
+      {
+        "name": "实验",
+        "percent": "30%"
+      },
+      {
+        "name": "期末考试",
+        "percent": "50%"
+      }
+    ],
     "default": [
       {
         "name": "作业",
@@ -1090,6 +1104,20 @@
     ]
   },
   "COMP3059": {
+    "2024_default": [
+      {
+        "name": "作业",
+        "percent": "10%"
+      },
+      {
+        "name": "上机实验",
+        "percent": "30%"
+      },
+      {
+        "name": "期末考试",
+        "percent": "60%"
+      }
+    ],
     "default": [
       {
         "name": "作业",
