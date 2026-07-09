@@ -1437,6 +1437,40 @@
         "percent": "30%"
       }
     ],
+    "2024_default": [
+      {
+        "name": "元器件识别",
+        "percent": "7%"
+      },
+      {
+        "name": "电子封装",
+        "percent": "7%"
+      },
+      {
+        "name": "电子可靠性",
+        "percent": "5%"
+      },
+      {
+        "name": "硬件设计",
+        "percent": "11%"
+      },
+      {
+        "name": "PCB设计",
+        "percent": "11%"
+      },
+      {
+        "name": "软件设计",
+        "percent": "18%"
+      },
+      {
+        "name": "焊接调试",
+        "percent": "11%"
+      },
+      {
+        "name": "项目制作",
+        "percent": "30%"
+      }
+    ],
     "default": [
       {
         "name": "实验",
