@@ -5,7 +5,7 @@ no_course_info_repo_ids = ["GeneralKnowledge", "CrossSpecialty"]
 [[categories]]
 id = "cross-specialty"
 title = "跨专业选修"
-repo_ids = ["CrossSpecialty", "Cross-ECON","Cross-SPST","Cross-Science","Cross-CEEV","Cross-EIE","Cross-ARCH"]
+repo_ids = ["CrossSpecialty", "Cross-ECON","Cross-SPST","Cross-Science","Cross-ENER","Cross-CEEV","Cross-EIE","Cross-ARCH"]
 
 [[categories]]
 id = "general-knowledge"
