@@ -11,3 +11,8 @@ repo_ids = ["CrossSpecialty", "Cross-ECON","Cross-SPST","Cross-Science","Cross-C
 id = "general-knowledge"
 title = "文理通识与 MOOC"
 repo_ids = ["GeneralKnowledge", "MOOC"]
+
+[[categories]]
+id = "innovation-and-proctice"
+title = "创新创业与社会实践"
+repo_ids = ["Innovation", "SocialPractice"]
