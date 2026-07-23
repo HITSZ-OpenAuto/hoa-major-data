@@ -1,9 +1,11 @@
 [info]
-year = "2019"
 major_code = "060101"
 major_name = "建筑学"
-school_name = "建筑学院"
+parent_major_code = "0601"
+parent_major_name = "建筑类"
 plan_ID = "A23569E1A8EC856DE0530C18F80A7A4F"
+school_name = "建筑学院"
+year = "2019"
 
 [[courses]]
 course_code = "ARCH2101"

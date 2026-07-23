@@ -1,9 +1,9 @@
 [info]
-year = "2022"
 major_code = "0301"
 major_name = "机械类"
-school_name = "机器人与先进制造学院"
 plan_ID = "E4AD0B843BB2D57FE0530B18F80A2D50"
+school_name = "机器人与先进制造学院"
+year = "2022"
 
 [[courses]]
 course_code = "CHEM1007"

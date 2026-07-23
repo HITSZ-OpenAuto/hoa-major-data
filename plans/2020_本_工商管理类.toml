@@ -1,0 +1,1050 @@
+[info]
+major_code = "0702"
+major_name = "工商管理类"
+plan_ID = "A0F20D6BD832163BE0530C18F80A224B"
+school_name = "经济管理学院"
+year = "2020"
+
+[[courses]]
+course_code = "ACCT2001"
+credit = 1.0
+assessment_method = "考查"
+course_name = "会计专业导论"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ECON2018A"
+credit = 3.0
+assessment_method = "考试"
+course_name = "经济学原理A"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1007"
+credit = 2.0
+assessment_method = "考查"
+course_name = "思想道德修养与法律基础"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1012"
+credit = 1.0
+assessment_method = "考查"
+course_name = "思想道德修养与法律基础实践课"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 16
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG1002"
+credit = 2.0
+assessment_method = "考查"
+course_name = "英语听说"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "英语"
+offering_college = "人文与社会科学学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH1001A"
+credit = 5.0
+assessment_method = "考试"
+course_name = "高等数学A"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 80
+
+[courses.hours]
+theory = 80
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH1002"
+credit = 4.0
+assessment_method = "考试"
+course_name = "代数与几何"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 64
+
+[courses.hours]
+theory = 64
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MILT1002"
+credit = 2.0
+assessment_method = "考查"
+course_name = "军事理论"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）（基础学部）｜团委｜武装部"
+total_hours = 36
+
+[courses.hours]
+theory = 36
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MILT1003"
+credit = 2.0
+assessment_method = "考查"
+course_name = "军事技能"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）（基础学部）｜团委｜武装部"
+total_hours = 0
+
+[courses.hours]
+theory = 80
+lab = 0
+practice = 2
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1001A"
+credit = 1.0
+assessment_method = "考查"
+course_name = "体育A"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "人文与社会科学学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ACCT2002"
+credit = 3.0
+assessment_method = "考试"
+course_name = "会计学原理"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ACCT2009"
+credit = 3.0
+assessment_method = "考查"
+course_name = "管理学原理"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP1001"
+credit = 2.0
+assessment_method = "考查"
+course_name = "大学计算机I"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP2011"
+credit = 3.0
+assessment_method = "考查"
+course_name = "计算机语言程序设计"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 48
+
+[courses.hours]
+theory = 30
+lab = 18
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ECON2018B"
+credit = 3.0
+assessment_method = "考试"
+course_name = "经济学原理B"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1008"
+credit = 3.0
+assessment_method = "考试"
+course_name = "中国近现代史纲要"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG1001"
+credit = 2.0
+assessment_method = "考查"
+course_name = "英语读写"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "英语"
+offering_college = "人文与社会科学学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH1001B"
+credit = 5.0
+assessment_method = "考试"
+course_name = "高等数学B"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 80
+
+[courses.hours]
+theory = 80
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1001B"
+credit = 1.0
+assessment_method = "考查"
+course_name = "体育B"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "人文与社会科学学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHYS1005"
+credit = 2.0
+assessment_method = "考查"
+course_name = "物理学概论"
+recommended_year_semester = "第一学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ACCT2101"
+credit = 1.0
+assessment_method = "考查"
+course_name = "企业经营仿真实训"
+recommended_year_semester = "第一学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 24
+
+[courses.hours]
+theory = 0
+lab = 24
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ACCT2003"
+credit = 4.0
+assessment_method = "考试"
+course_name = "中级财务会计"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 64
+
+[courses.hours]
+theory = 52
+lab = 12
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ACCT2007"
+credit = 2.0
+assessment_method = "考试"
+course_name = "经济法"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "BIO1001"
+credit = 2.0
+assessment_method = "考查"
+course_name = "现代生物学导论"
+recommended_year_semester = "第二学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CHEM1005"
+credit = 2.0
+assessment_method = "考查"
+course_name = "大学化学II"
+recommended_year_semester = "第二学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1011"
+credit = 3.0
+assessment_method = "考试"
+course_name = "马克思主义基本原理"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH1004"
+credit = 2.5
+assessment_method = "考试"
+course_name = "概率论与数理统计"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1001C"
+credit = 1.0
+assessment_method = "考查"
+course_name = "体育C"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "人文与社会科学学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ACCT2004"
+credit = 3.0
+assessment_method = "考试"
+course_name = "管理会计"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 48
+
+[courses.hours]
+theory = 40
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ACCT2005"
+credit = 3.0
+assessment_method = "考试"
+course_name = "财务管理"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ACCT2006"
+credit = 2.0
+assessment_method = "考查"
+course_name = "会计信息系统"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 32
+
+[courses.hours]
+theory = 12
+lab = 20
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ACCT2008A"
+credit = 0.5
+assessment_method = "考查"
+course_name = "会计与财务前沿讲座A"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 8
+
+[courses.hours]
+theory = 8
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ECON2010"
+credit = 3.0
+assessment_method = "考试"
+course_name = "基础计量经济学"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 48
+
+[courses.hours]
+theory = 36
+lab = 0
+practice = 0
+exercise = 0
+computer = 12
+tutoring = 0
+[[courses]]
+course_code = "GEIP1003"
+credit = 4.0
+assessment_method = "考试"
+course_name = "毛泽东思想和中国特色社会主义理论体系概论"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 64
+
+[courses.hours]
+theory = 64
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1013"
+credit = 1.0
+assessment_method = "考查"
+course_name = "毛泽东思想和中国特色社会主义理论体系概论实践课"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）（基础学部）｜团委｜武装部"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 16
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1001D"
+credit = 1.0
+assessment_method = "考查"
+course_name = "体育D"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "人文与社会科学学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ACCT2102"
+credit = 1.0
+assessment_method = "考查"
+course_name = "业财融合ERP系统实训"
+recommended_year_semester = "第二学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 24
+
+[courses.hours]
+theory = 0
+lab = 16
+practice = 0
+exercise = 0
+computer = 8
+tutoring = 0
+[[courses]]
+course_code = "ACCT2103"
+credit = 1.0
+assessment_method = "考查"
+course_name = "财务大数据分析决策实训"
+recommended_year_semester = "第二学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 24
+
+[courses.hours]
+theory = 0
+lab = 24
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ACCT3001"
+credit = 3.0
+assessment_method = "考试"
+course_name = "高级财务会计"
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 48
+
+[courses.hours]
+theory = 40
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ACCT3002"
+credit = 2.0
+assessment_method = "考试"
+course_name = "大数据与商务决策"
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 32
+
+[courses.hours]
+theory = 16
+lab = 16
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ACCT3011"
+credit = 2.0
+assessment_method = "考查"
+course_name = "成本会计"
+recommended_year_semester = "第三学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 32
+
+[courses.hours]
+theory = 28
+lab = 4
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ACCT3012"
+credit = 2.0
+assessment_method = "考查"
+course_name = "证券投资学"
+recommended_year_semester = "第三学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ECON5023"
+credit = 2.0
+assessment_method = "考试"
+course_name = "机器学习及财经应用"
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+offering_college = "经济管理学院"
+total_hours = 32
+
+[courses.hours]
+theory = 28
+lab = 4
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ACCT2008B"
+credit = 0.5
+assessment_method = "考查"
+course_name = "会计与财务前沿讲座B"
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 8
+
+[courses.hours]
+theory = 8
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ACCT3003"
+credit = 3.0
+assessment_method = "考试"
+course_name = "审计学"
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 48
+
+[courses.hours]
+theory = 40
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ACCT3004"
+credit = 2.0
+assessment_method = "考试"
+course_name = "商业伦理与会计职业道德"
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ACCT3005"
+credit = 2.0
+assessment_method = "考查"
+course_name = "智能财务共享"
+recommended_year_semester = "第三学年春季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ACCT3013"
+credit = 2.0
+assessment_method = "考查"
+course_name = "财务报表分析"
+recommended_year_semester = "第三学年春季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 32
+
+[courses.hours]
+theory = 24
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ACCT3014"
+credit = 2.0
+assessment_method = "考查"
+course_name = "税法"
+recommended_year_semester = "第三学年春季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ACCT3015"
+credit = 2.0
+assessment_method = "考查"
+course_name = "业绩管理"
+recommended_year_semester = "第三学年春季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1010"
+credit = 2.0
+assessment_method = "考查"
+course_name = "形势与政策"
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ACCT3104"
+credit = 1.0
+assessment_method = "考查"
+course_name = "财务共享实训"
+recommended_year_semester = "第三学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 24
+
+[courses.hours]
+theory = 0
+lab = 16
+practice = 0
+exercise = 0
+computer = 8
+tutoring = 0
+[[courses]]
+course_code = "ACCT3006"
+credit = 2.0
+assessment_method = "考试"
+course_name = "会计与财务研究方法及数据库使用"
+recommended_year_semester = "第四学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 32
+
+[courses.hours]
+theory = 16
+lab = 16
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ACCT3016"
+credit = 2.0
+assessment_method = "考查"
+course_name = "IT审计"
+recommended_year_semester = "第四学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 32
+
+[courses.hours]
+theory = 24
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ACCT3017"
+credit = 2.0
+assessment_method = "考查"
+course_name = "智能投资"
+recommended_year_semester = "第四学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ACCT3018"
+credit = 2.0
+assessment_method = "考查"
+course_name = "战略与风险管理"
+recommended_year_semester = "第四学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 32
+
+[courses.hours]
+theory = 26
+lab = 6
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ACCT3099"
+credit = 8.0
+assessment_method = "考查"
+course_name = "毕业论文"
+recommended_year_semester = "第四学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 0
+
+[courses.hours]
+theory = 480
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ACCT3105"
+credit = 3.0
+assessment_method = "考查"
+course_name = "毕业实习"
+recommended_year_semester = "第四学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 0
+
+[courses.hours]
+theory = 120
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0

@@ -1,0 +1,1243 @@
+[info]
+major_code = "020103"
+major_name = "光电信息科学与工程"
+parent_major_code = "23L01"
+parent_major_name = "工科试验班（计算机与电子通信）"
+plan_ID = "523D01EAEC779526E0630B18F80AF189"
+school_name = "信息学部"
+year = "2024"
+
+[[courses]]
+course_code = "BIO1002"
+credit = 2.0
+assessment_method = "考查"
+course_name = "生命与健康科学"
+recommended_year_semester = "第一学年秋季"
+track = "数理与自然科学基础课程-二选一课组"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "医工学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CHEM1007"
+credit = 2.0
+assessment_method = "考查"
+course_name = "大学化学II"
+recommended_year_semester = "第一学年秋季"
+track = "数理与自然科学基础课程-二选一课组"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 32
+
+[courses.hours]
+theory = 24
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP1011"
+credit = 4.0
+assessment_method = "考试"
+course_name = "程序设计思维与实践"
+recommended_year_semester = "第一学年秋季"
+track = "课组体系-计算思维与信息基础"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 64
+
+[courses.hours]
+theory = 48
+lab = 16
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1014"
+credit = 2.0
+assessment_method = "考查"
+course_name = "思想政治理论实践课"
+recommended_year_semester = "第一学年秋季"
+track = "课组体系-思想政治课程"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）（基础学部）｜团委｜武装部"
+total_hours = 32
+
+[courses.hours]
+theory = 8
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1015"
+credit = 2.5
+assessment_method = "考查"
+course_name = "思想道德与法治"
+recommended_year_semester = "第一学年秋季"
+track = "课组体系-思想政治课程"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[courses.hours]
+theory = 40
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1017"
+credit = 2.5
+assessment_method = "考试"
+course_name = "习近平新时代中国特色社会主义思想概论"
+recommended_year_semester = "第一学年秋季"
+track = "课组体系-思想政治课程"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[courses.hours]
+theory = 40
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG1006"
+credit = 1.5
+assessment_method = "考查"
+course_name = "大学英语A"
+recommended_year_semester = "第一学年秋季"
+track = "课组体系-外语"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "外语系"
+total_hours = 36
+
+[courses.hours]
+theory = 36
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH1002"
+credit = 4.0
+assessment_method = "考试"
+course_name = "代数与几何"
+recommended_year_semester = "第一学年秋季"
+track = "数理与自然科学基础课程-课组一"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 64
+
+[courses.hours]
+theory = 64
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH1015A"
+credit = 5.0
+assessment_method = "考试"
+course_name = "微积分A"
+recommended_year_semester = "第一学年秋季"
+track = "数理与自然科学基础课程-课组一"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 80
+
+[courses.hours]
+theory = 80
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MILT1002"
+credit = 2.0
+assessment_method = "考查"
+course_name = "军事理论"
+recommended_year_semester = "第一学年秋季"
+track = "课组体系-军事理论和军事技能"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）（基础学部）｜团委｜武装部"
+total_hours = 36
+
+[courses.hours]
+theory = 36
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MILT1003"
+credit = 2.0
+assessment_method = "考查"
+course_name = "军事技能"
+recommended_year_semester = "第一学年秋季"
+track = "课组体系-军事理论和军事技能"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）（基础学部）｜团委｜武装部"
+total_hours = 120
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1001A"
+credit = 1.0
+assessment_method = "考查"
+course_name = "体育A"
+recommended_year_semester = "第一学年秋季"
+track = "课组体系-体育"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PSYC1001"
+credit = 2.0
+assessment_method = "考查"
+course_name = "悦己人生—大学生心理健康"
+recommended_year_semester = "第一学年秋季"
+track = "课组体系-心理健康教育"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CAEC1001"
+credit = 1.0
+assessment_method = "考查"
+course_name = "计算机与电子通信集群专业导论"
+recommended_year_semester = "第一学年春季"
+track = "课组体系-专业集群基础课程（含实习实训课程）"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EE1018"
+credit = 4.0
+assessment_method = "考试"
+course_name = "电路与电子学I"
+recommended_year_semester = "第一学年春季"
+track = "课组体系-专业集群基础课程（含实习实训课程）"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 64
+
+[courses.hours]
+theory = 64
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EE1021"
+credit = 1.0
+assessment_method = "考查"
+course_name = "电路与电子技术实验I"
+recommended_year_semester = "第一学年春季"
+track = "课组体系-专业集群基础课程（含实习实训课程）"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 24
+
+[courses.hours]
+theory = 0
+lab = 24
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1016"
+credit = 2.5
+assessment_method = "考试"
+course_name = "中国近现代史纲要"
+recommended_year_semester = "第一学年春季"
+track = "课组体系-思想政治课程"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[courses.hours]
+theory = 40
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1019-1"
+credit = 0.5
+assessment_method = "考查"
+course_name = "形势与政策-1"
+recommended_year_semester = "第一学年春季"
+track = "课组体系-思想政治课程"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[courses.hours]
+theory = 8
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG1007"
+credit = 1.5
+assessment_method = "考查"
+course_name = "大学英语B"
+recommended_year_semester = "第一学年春季"
+track = "课组体系-外语"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "外语系"
+total_hours = 36
+
+[courses.hours]
+theory = 36
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH1015B"
+credit = 5.0
+assessment_method = "考试"
+course_name = "微积分B"
+recommended_year_semester = "第一学年春季"
+track = "数理与自然科学基础课程-课组一"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 80
+
+[courses.hours]
+theory = 80
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "NESC1001"
+credit = 1.0
+assessment_method = "考查"
+course_name = "国家安全教育"
+recommended_year_semester = "第一学年春季"
+track = "课组体系-国家安全教育"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1001B"
+credit = 1.0
+assessment_method = "考查"
+course_name = "体育B"
+recommended_year_semester = "第一学年春季"
+track = "课组体系-体育"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHYS1005A"
+credit = 5.0
+assessment_method = "考试"
+course_name = "大学物理XA"
+recommended_year_semester = "第一学年春季"
+track = "数理与自然科学基础课程-课组一"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 80
+
+[courses.hours]
+theory = 80
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHYS1006A"
+credit = 1.0
+assessment_method = "考查"
+course_name = "大学物理实验A"
+recommended_year_semester = "第一学年春季"
+track = "数理与自然科学基础课程-课组一"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 24
+
+[courses.hours]
+theory = 2
+lab = 22
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "22MX44001"
+credit = 0.0
+assessment_method = "考查"
+course_name = "劳动教育概论"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[courses.hours]
+theory = 8
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP2053"
+credit = 3.5
+assessment_method = "考试"
+course_name = "数字逻辑设计"
+recommended_year_semester = "第二学年秋季"
+track = "课组体系-大类专业基础课程（含实习实训课程）"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 56
+
+[courses.hours]
+theory = 36
+lab = 20
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1011"
+credit = 3.0
+assessment_method = "考试"
+course_name = "马克思主义基本原理"
+recommended_year_semester = "第二学年秋季"
+track = "课组体系-思想政治课程"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG1008"
+credit = 1.0
+assessment_method = "考查"
+course_name = "大学英语C"
+recommended_year_semester = "第二学年秋季"
+track = "课组体系-外语"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "外语系"
+total_hours = 24
+
+[courses.hours]
+theory = 24
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH1004"
+credit = 3.0
+assessment_method = "考试"
+course_name = "概率论与数理统计"
+recommended_year_semester = "第二学年秋季"
+track = "数理与自然科学基础课程-课组一"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH1005"
+credit = 2.0
+assessment_method = "考查"
+course_name = "复变函数与积分变换"
+recommended_year_semester = "第二学年秋季"
+track = "课组体系-大类专业基础课程（含实习实训课程）"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH2010"
+credit = 2.0
+assessment_method = "考查"
+course_name = "最优化方法"
+recommended_year_semester = "第二学年秋季"
+track = "课组体系-大类专业基础课程（含实习实训课程）"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1002C"
+credit = 0.5
+assessment_method = "考查"
+course_name = "体育C"
+recommended_year_semester = "第二学年秋季"
+track = "课组体系-体育"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 16
+[[courses]]
+course_code = "PHYS1005B"
+credit = 4.0
+assessment_method = "考试"
+course_name = "大学物理XB"
+recommended_year_semester = "第二学年秋季"
+track = "数理与自然科学基础课程-课组一"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 64
+
+[courses.hours]
+theory = 64
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHYS1006B"
+credit = 1.0
+assessment_method = "考查"
+course_name = "大学物理实验B"
+recommended_year_semester = "第二学年秋季"
+track = "数理与自然科学基础课程-课组一"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 24
+
+[courses.hours]
+theory = 0
+lab = 24
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP2052"
+credit = 3.5
+assessment_method = "考试"
+course_name = "数据结构与算法"
+recommended_year_semester = "第二学年春季"
+track = "课组体系-大类专业基础课程（含实习实训课程）"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 56
+
+[courses.hours]
+theory = 40
+lab = 16
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP2054"
+credit = 3.0
+assessment_method = "考查"
+course_name = "机器学习"
+recommended_year_semester = "第二学年春季"
+track = "课组体系-大类专业基础课程（含实习实训课程）"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 48
+
+[courses.hours]
+theory = 36
+lab = 12
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ELEC2014"
+credit = 2.5
+assessment_method = "考查"
+course_name = "应用光学"
+recommended_year_semester = "第二学年春季"
+track = "课组体系-大类专业基础课程（含实习实训课程）"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "信息科学与技术学院"
+total_hours = 40
+
+[courses.hours]
+theory = 32
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ELEC2017"
+credit = 1.0
+assessment_method = "考查"
+course_name = "信息论导论"
+recommended_year_semester = "第二学年春季"
+track = "课组体系-专业集群基础课程（含实习实训课程）"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "信息科学与技术学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ELEC2018"
+credit = 3.5
+assessment_method = "考查"
+course_name = "信号与系统"
+recommended_year_semester = "第二学年春季"
+track = "课组体系-大类专业基础课程（含实习实训课程）"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "信息科学与技术学院"
+total_hours = 64
+
+[courses.hours]
+theory = 48
+lab = 8
+practice = 8
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ELEC3059"
+credit = 3.5
+assessment_method = "考查"
+course_name = "电磁场与电磁波"
+recommended_year_semester = "第二学年春季"
+track = "课组体系-大类专业基础课程（含实习实训课程）"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "信息科学与技术学院"
+total_hours = 56
+
+[courses.hours]
+theory = 40
+lab = 16
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENGG1003"
+credit = 2.0
+assessment_method = "考查"
+course_name = "工程训练（电子工艺实习）"
+recommended_year_semester = "第二学年春季"
+track = "课组体系-专业集群基础课程（含实习实训课程）"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "实验与创新实践教育中心（分析测试中心）"
+total_hours = 0
+
+[courses.hours]
+theory = 80
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1018"
+credit = 2.5
+assessment_method = "考试"
+course_name = "毛泽东思想和中国特色社会主义理论体系概论"
+recommended_year_semester = "第二学年春季"
+track = "课组体系-思想政治课程"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[courses.hours]
+theory = 40
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1019-2"
+credit = 1.0
+assessment_method = "考查"
+course_name = "形势与政策-2"
+recommended_year_semester = "第二学年春季"
+track = "课组体系-思想政治课程"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1002D"
+credit = 0.5
+assessment_method = "考查"
+course_name = "体育D"
+recommended_year_semester = "第二学年春季"
+track = "课组体系-体育"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 16
+[[courses]]
+course_code = "WRIT0001"
+credit = 1.0
+assessment_method = "考查"
+course_name = "写作与沟通"
+recommended_year_semester = "第二学年春季"
+track = "课组体系-写作与沟通"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文艺术学系"
+total_hours = 24
+
+[courses.hours]
+theory = 24
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ICDS3004"
+credit = 3.0
+assessment_method = "考查"
+course_name = "FPGA设计与应用"
+recommended_year_semester = "第二学年夏季"
+track = "课组体系-专业方向核心课程（含实习实训课程）"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "集成电路学院"
+total_hours = 48
+
+[courses.hours]
+theory = 24
+lab = 24
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ELEC2013"
+credit = 3.0
+assessment_method = "考试"
+course_name = "物理光学"
+recommended_year_semester = "第三学年秋季"
+track = "课组体系-专业方向核心课程（含实习实训课程）"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "信息科学与技术学院"
+total_hours = 48
+
+[courses.hours]
+theory = 40
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ELEC3040"
+credit = 2.0
+assessment_method = "考查"
+course_name = "光学设计实验"
+recommended_year_semester = "第三学年秋季"
+track = "课组体系-专业方向核心课程（含实习实训课程）"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "信息科学与技术学院"
+total_hours = 48
+
+[courses.hours]
+theory = 0
+lab = 48
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ELEC3061"
+credit = 3.5
+assessment_method = "考试"
+course_name = "激光原理"
+recommended_year_semester = "第三学年秋季"
+track = "课组体系-专业方向核心课程（含实习实训课程）"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "信息科学与技术学院"
+total_hours = 56
+
+[courses.hours]
+theory = 56
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1002E"
+credit = 0.5
+assessment_method = "考查"
+course_name = "体育E"
+recommended_year_semester = "第三学年秋季"
+track = "课组体系-体育"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 16
+[[courses]]
+course_code = "ELEC3041"
+credit = 2.0
+assessment_method = "考查"
+course_name = "导波光学"
+recommended_year_semester = "第三学年春季"
+track = "课组体系-专业方向选修课程（含研究生课程）"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "信息科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ELEC3045"
+credit = 2.0
+assessment_method = "考试"
+course_name = "光电检测技术"
+recommended_year_semester = "第三学年春季"
+track = "课组体系-专业方向核心课程（含实习实训课程）"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "信息科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ELEC3046"
+credit = 2.5
+assessment_method = "考试"
+course_name = "光通信技术"
+recommended_year_semester = "第三学年春季"
+track = "课组体系-专业方向核心课程（含实习实训课程）"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "信息科学与技术学院"
+total_hours = 40
+
+[courses.hours]
+theory = 32
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ELEC3047"
+credit = 2.0
+assessment_method = "考查"
+course_name = "光电子器件与技术"
+recommended_year_semester = "第三学年春季"
+track = "课组体系-专业方向选修课程（含研究生课程）"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "信息科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ELEC3049"
+credit = 2.0
+assessment_method = "考查"
+course_name = "光纤传感技术"
+recommended_year_semester = "第三学年春季"
+track = "课组体系-专业方向选修课程（含研究生课程）"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "信息科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ELEC3050"
+credit = 2.0
+assessment_method = "考查"
+course_name = "光电芯片工艺"
+recommended_year_semester = "第三学年春季"
+track = "课组体系-专业方向选修课程（含研究生课程）"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "信息科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ELEC3051"
+credit = 2.0
+assessment_method = "考查"
+course_name = "量子力学"
+recommended_year_semester = "第三学年春季"
+track = "课组体系-专业方向选修课程（含研究生课程）"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "信息科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ELEC3056"
+credit = 2.0
+assessment_method = "考查"
+course_name = "光精密测量技术"
+recommended_year_semester = "第三学年春季"
+track = "课组体系-专业方向选修课程（含研究生课程）"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "信息科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 28
+lab = 4
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1019-3"
+credit = 0.5
+assessment_method = "考查"
+course_name = "形势与政策-3"
+recommended_year_semester = "第三学年春季"
+track = "课组体系-思想政治课程"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[courses.hours]
+theory = 8
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1002F"
+credit = 0.5
+assessment_method = "考查"
+course_name = "体育F"
+recommended_year_semester = "第三学年春季"
+track = "课组体系-体育"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 16
+[[courses]]
+course_code = "ELEC3058"
+credit = 2.0
+assessment_method = "考查"
+course_name = "课程设计C：光电信息创新设计"
+recommended_year_semester = "第三学年夏季"
+track = "课组体系-专业方向核心课程（含实习实训课程）"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "信息科学与技术学院"
+total_hours = 80
+
+[courses.hours]
+theory = 0
+lab = 80
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ELEC3052"
+credit = 2.0
+assessment_method = "考查"
+course_name = "光网络技术"
+recommended_year_semester = "第四学年秋季"
+track = "课组体系-专业方向选修课程（含研究生课程）"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "信息科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ELEC3054"
+credit = 2.0
+assessment_method = "考查"
+course_name = "集成光学"
+recommended_year_semester = "第四学年秋季"
+track = "课组体系-专业方向选修课程（含研究生课程）"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "信息科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ELEC3055"
+credit = 2.0
+assessment_method = "考查"
+course_name = "智能光学成像技术"
+recommended_year_semester = "第四学年秋季"
+track = "课组体系-专业方向选修课程（含研究生课程）"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "信息科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 16
+lab = 8
+practice = 0
+exercise = 0
+computer = 8
+tutoring = 0
+[[courses]]
+course_code = "ELEC3199"
+credit = 10.0
+assessment_method = "考查"
+course_name = "毕业论文（设计）"
+recommended_year_semester = "第四学年春季"
+track = "课组体系-毕业论文（设计）"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "信息科学与技术学院"
+total_hours = 0
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 16
+exercise = 0
+computer = 0
+tutoring = 0

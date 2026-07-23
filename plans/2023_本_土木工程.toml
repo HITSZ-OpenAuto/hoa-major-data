@@ -1,11 +1,11 @@
 [info]
-year = "2023"
-parent_major_code = "23L07"
-parent_major_name = "工科试验班（智能土木类）"
 major_code = "040101"
 major_name = "土木工程"
-school_name = "智能土木与海洋工程学院"
+parent_major_code = "23L07"
+parent_major_name = "工科试验班（智能土木类）"
 plan_ID = "31271C400DADCF79E0630C18F80A6D91"
+school_name = "智能土木与海洋工程学院"
+year = "2023"
 
 [[courses]]
 course_code = "CIVL2001"
@@ -195,7 +195,7 @@ course_name = "悦己人生—大学生心理健康"
 recommended_year_semester = "第一学年秋季"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "大学生心理健康教育与咨询中心"
+offering_college = "大学生心理健康教育与发展中心"
 total_hours = 32
 
 [courses.hours]
@@ -843,7 +843,7 @@ assessment_method = "考查"
 course_name = "写作与沟通"
 recommended_year_semester = "第二学年春季"
 course_nature = "必修"
-course_category = "世界文明与对话"
+course_category = "其他"
 offering_college = "人文与社会科学学院"
 total_hours = 24
 
@@ -1062,6 +1062,7 @@ credit = 1.5
 assessment_method = "考查"
 course_name = "智能土木工程"
 recommended_year_semester = "第三学年秋季,第四学年春季"
+track = "专业选修课"
 course_nature = "限选"
 course_category = "其他"
 offering_college = "智能土木与海洋工程学院"
@@ -1331,48 +1332,29 @@ exercise = 0
 computer = 0
 tutoring = 0
 [[courses]]
-course_code = "CIVL3020"
-credit = 1.5
-assessment_method = "考查"
-course_name = "结构健康监测"
-recommended_year_semester = "第四学年秋季"
-track = "专业选修课"
-course_nature = "限选"
-course_category = "其他"
-offering_college = "智能土木与海洋工程学院"
-total_hours = 24
-
-[courses.hours]
-theory = 24
-lab = 0
-practice = 0
-exercise = 0
-computer = 0
-tutoring = 0
-[[courses]]
-course_code = "CIVL3027"
-credit = 1.5
-assessment_method = "考查"
-course_name = "结构振动控制"
-recommended_year_semester = "第四学年秋季"
-track = "专业选修课"
-course_nature = "限选"
-course_category = "其他"
-offering_college = "智能土木与海洋工程学院"
-total_hours = 24
-
-[courses.hours]
-theory = 24
-lab = 0
-practice = 0
-exercise = 0
-computer = 0
-tutoring = 0
-[[courses]]
-course_code = "CIVL3029"
+course_code = "CIVL3034"
 credit = 1.0
 assessment_method = "考查"
-course_name = "交流专家专题课程"
+course_name = "钢结构稳定原理"
+recommended_year_semester = "第四学年秋季"
+track = "专业选修课"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3037"
+credit = 1.0
+assessment_method = "考查"
+course_name = "建筑结构检测、鉴定与加固"
 recommended_year_semester = "第四学年秋季"
 track = "专业选修课"
 course_nature = "限选"
@@ -1426,25 +1408,6 @@ exercise = 0
 computer = 0
 tutoring = 0
 [[courses]]
-course_code = "CIVL3044"
-credit = 1.5
-assessment_method = "考查"
-course_name = "结构概念与体系"
-recommended_year_semester = "第四学年秋季"
-track = "专业选修课"
-course_nature = "限选"
-course_category = "其他"
-offering_college = "智能土木与海洋工程学院"
-total_hours = 24
-
-[courses.hours]
-theory = 24
-lab = 0
-practice = 0
-exercise = 0
-computer = 0
-tutoring = 0
-[[courses]]
 course_code = "CIVL3046"
 credit = 1.5
 assessment_method = "考查"
@@ -1483,29 +1446,10 @@ exercise = 0
 computer = 0
 tutoring = 0
 [[courses]]
-course_code = "CIVL3048"
-credit = 1.5
-assessment_method = "考查"
-course_name = "大跨空间结构"
-recommended_year_semester = "第四学年秋季"
-track = "专业选修课"
-course_nature = "限选"
-course_category = "其他"
-offering_college = "智能土木与海洋工程学院"
-total_hours = 24
-
-[courses.hours]
-theory = 24
-lab = 0
-practice = 0
-exercise = 0
-computer = 0
-tutoring = 0
-[[courses]]
 course_code = "CIVL3049"
 credit = 1.5
 assessment_method = "考查"
-course_name = "模态分析与测试"
+course_name = "试验结构动力学"
 recommended_year_semester = "第四学年秋季"
 track = "专业选修课"
 course_nature = "限选"
@@ -1516,82 +1460,6 @@ total_hours = 24
 [courses.hours]
 theory = 20
 lab = 4
-practice = 0
-exercise = 0
-computer = 0
-tutoring = 0
-[[courses]]
-course_code = "CIVL3050"
-credit = 1.5
-assessment_method = "考查"
-course_name = "工程项目管理"
-recommended_year_semester = "第四学年秋季"
-track = "专业选修课"
-course_nature = "限选"
-course_category = "其他"
-offering_college = "智能土木与海洋工程学院"
-total_hours = 24
-
-[courses.hours]
-theory = 24
-lab = 0
-practice = 0
-exercise = 0
-computer = 0
-tutoring = 0
-[[courses]]
-course_code = "CIVL3058"
-credit = 1.5
-assessment_method = "考查"
-course_name = "工程结构数字孪生"
-recommended_year_semester = "第四学年秋季"
-track = "专业选修课"
-course_nature = "限选"
-course_category = "其他"
-offering_college = "智能土木与海洋工程学院"
-total_hours = 24
-
-[courses.hours]
-theory = 20
-lab = 0
-practice = 0
-exercise = 0
-computer = 4
-tutoring = 0
-[[courses]]
-course_code = "CIVL3059"
-credit = 1.5
-assessment_method = "考查"
-course_name = "弹性力学与有限元法"
-recommended_year_semester = "第四学年秋季"
-track = "专业选修课"
-course_nature = "限选"
-course_category = "其他"
-offering_college = "智能土木与海洋工程学院"
-total_hours = 24
-
-[courses.hours]
-theory = 18
-lab = 0
-practice = 0
-exercise = 0
-computer = 6
-tutoring = 0
-[[courses]]
-course_code = "CIVL3060"
-credit = 2.0
-assessment_method = "考查"
-course_name = "钢结构稳定原理和鉴定加固"
-recommended_year_semester = "第四学年秋季"
-track = "专业选修课"
-course_nature = "限选"
-course_category = "其他"
-offering_college = "智能土木与海洋工程学院"
-total_hours = 32
-
-[courses.hours]
-theory = 32
-lab = 0
 practice = 0
 exercise = 0
 computer = 0

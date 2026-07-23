@@ -1,11 +1,11 @@
 [info]
-year = "2023"
-parent_major_code = "23L02"
-parent_major_name = "工科试验班（自动化与电气工程）"
 major_code = "030301"
 major_name = "电气工程及其自动化"
-school_name = "机器人与先进制造学院"
+parent_major_code = "23L01"
+parent_major_name = "工科试验班（计算机与电子通信）"
 plan_ID = "314E5AC10520BCF2E0630C18F80A461F"
+school_name = "基础学部"
+year = "2023"
 
 [[courses]]
 course_code = "COMP2021"
@@ -195,7 +195,7 @@ course_name = "悦己人生—大学生心理健康"
 recommended_year_semester = "第一学年秋季"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "大学生心理健康教育与咨询中心"
+offering_college = "大学生心理健康教育与发展中心"
 total_hours = 32
 
 [courses.hours]
@@ -626,7 +626,7 @@ assessment_method = "考查"
 course_name = "写作与沟通"
 recommended_year_semester = "第二学年秋季"
 course_nature = "必修"
-course_category = "世界文明与对话"
+course_category = "其他"
 offering_college = "人文与社会科学学院"
 total_hours = 24
 
@@ -1139,7 +1139,7 @@ course_code = "EE3007"
 credit = 2.0
 assessment_method = "考查"
 course_name = "生产实习"
-recommended_year_semester = "第三学年夏季"
+recommended_year_semester = "第四学年秋季"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "机器人与先进制造学院"
@@ -1248,25 +1248,6 @@ exercise = 0
 computer = 0
 tutoring = 0
 [[courses]]
-course_code = "EE3028"
-credit = 1.0
-assessment_method = "考查"
-course_name = "电能质量分析"
-recommended_year_semester = "第四学年秋季"
-track = "专业选修课"
-course_nature = "限选"
-course_category = "其他"
-offering_college = "机器人与先进制造学院"
-total_hours = 16
-
-[courses.hours]
-theory = 12
-lab = 4
-practice = 0
-exercise = 0
-computer = 0
-tutoring = 0
-[[courses]]
 course_code = "EE3029"
 credit = 1.0
 assessment_method = "考查"
@@ -1300,63 +1281,6 @@ total_hours = 16
 [courses.hours]
 theory = 12
 lab = 4
-practice = 0
-exercise = 0
-computer = 0
-tutoring = 0
-[[courses]]
-course_code = "EE3032"
-credit = 1.0
-assessment_method = "考查"
-course_name = "高压直流输电技术"
-recommended_year_semester = "第四学年秋季"
-track = "专业选修课"
-course_nature = "限选"
-course_category = "其他"
-offering_college = "机器人与先进制造学院"
-total_hours = 16
-
-[courses.hours]
-theory = 16
-lab = 0
-practice = 0
-exercise = 0
-computer = 0
-tutoring = 0
-[[courses]]
-course_code = "EE3037"
-credit = 1.0
-assessment_method = "考查"
-course_name = "新型电机原理与应用"
-recommended_year_semester = "第四学年秋季"
-track = "专业选修课"
-course_nature = "限选"
-course_category = "其他"
-offering_college = "机器人与先进制造学院"
-total_hours = 16
-
-[courses.hours]
-theory = 8
-lab = 0
-practice = 0
-exercise = 0
-computer = 8
-tutoring = 0
-[[courses]]
-course_code = "EE3039"
-credit = 2.0
-assessment_method = "考查"
-course_name = "先进储能系统"
-recommended_year_semester = "第四学年秋季"
-track = "专业选修课"
-course_nature = "限选"
-course_category = "其他"
-offering_college = "机器人与先进制造学院"
-total_hours = 32
-
-[courses.hours]
-theory = 22
-lab = 10
 practice = 0
 exercise = 0
 computer = 0
@@ -1403,7 +1327,7 @@ tutoring = 0
 course_code = "EE3099"
 credit = 8.0
 assessment_method = "考查"
-course_name = "毕业设计"
+course_name = "毕业（论文）设计"
 recommended_year_semester = "第四学年春季"
 course_nature = "必修"
 course_category = "其他"

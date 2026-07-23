@@ -1,0 +1,905 @@
+[info]
+major_code = "0601"
+major_name = "建筑类"
+plan_ID = "960C2575ECA0DA48E050007F010046A4"
+school_name = "建筑学院"
+year = "2019"
+
+[[courses]]
+course_code = "ARCH2101"
+credit = 2.0
+assessment_method = "考试"
+course_name = "建筑空间形体表达基础"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH2102"
+credit = 1.0
+assessment_method = "考查"
+course_name = "专业导论"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH2301A"
+credit = 3.0
+assessment_method = "考试"
+course_name = "造型艺术基础A"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 48
+
+[courses.hours]
+theory = 40
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH2302A"
+credit = 6.0
+assessment_method = "考试"
+course_name = "建筑设计基础A"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 96
+
+[courses.hours]
+theory = 80
+lab = 16
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1007"
+credit = 2.0
+assessment_method = "考查"
+course_name = "思想道德与法治"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1012"
+credit = 1.0
+assessment_method = "考查"
+course_name = "思想道德与法治实践课"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG1002"
+credit = 2.0
+assessment_method = "考查"
+course_name = "英语听说"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文与社会科学学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH1012A"
+credit = 3.0
+assessment_method = "考试"
+course_name = "高等数学IIA"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MILT1002"
+credit = 2.0
+assessment_method = "考查"
+course_name = "军事理论"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+total_hours = 36
+
+[courses.hours]
+theory = 36
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MILT1003"
+credit = 2.0
+assessment_method = "考查"
+course_name = "军事技能"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+total_hours = 0
+
+[courses.hours]
+theory = 80
+lab = 0
+practice = 2
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1001A"
+credit = 1.0
+assessment_method = "考查"
+course_name = "体育A"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "人文与社会科学学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH2103"
+credit = 2.0
+assessment_method = "考试"
+course_name = "外国古代建筑史"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH2301B"
+credit = 3.0
+assessment_method = "考试"
+course_name = "造型艺术基础B"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 48
+
+[courses.hours]
+theory = 40
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH2302B"
+credit = 6.0
+assessment_method = "考试"
+course_name = "建筑设计基础B"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 96
+
+[courses.hours]
+theory = 80
+lab = 16
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH2702"
+credit = 2.0
+assessment_method = "考查"
+course_name = "绘画实习"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 0
+
+[courses.hours]
+theory = 80
+lab = 0
+practice = 2
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP1001"
+credit = 2.0
+assessment_method = "考查"
+course_name = "大学计算机I"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1008"
+credit = 3.0
+assessment_method = "考查"
+course_name = "中国近现代史纲要"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG1001"
+credit = 2.0
+assessment_method = "考查"
+course_name = "英语读写"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "英语"
+offering_college = "人文与社会科学学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH1012B"
+credit = 2.0
+assessment_method = "考试"
+course_name = "高等数学IIB"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1001B"
+credit = 1.0
+assessment_method = "考查"
+course_name = "体育B"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "人文与社会科学学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH2701"
+credit = 2.0
+assessment_method = "考查"
+course_name = "建筑与城市认知"
+recommended_year_semester = "第一学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 0
+
+[courses.hours]
+theory = 80
+lab = 0
+practice = 2
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH2104"
+credit = 2.0
+assessment_method = "考查"
+course_name = "计算机辅助设计方法"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 32
+
+[courses.hours]
+theory = 8
+lab = 24
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH2105"
+credit = 3.0
+assessment_method = "考试"
+course_name = "建筑力学"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH2106"
+credit = 1.0
+assessment_method = "考试"
+course_name = "建筑设计原理"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH2107"
+credit = 2.0
+assessment_method = "考试"
+course_name = "外国近现代建筑史"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH2303A"
+credit = 7.0
+assessment_method = "考试"
+course_name = "建筑设计A"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 112
+
+[courses.hours]
+theory = 88
+lab = 24
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1011"
+credit = 3.0
+assessment_method = "考查"
+course_name = "马克思主义基本原理"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG1003"
+credit = 2.0
+assessment_method = "考查"
+course_name = "大学语文"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文与社会科学学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1001C"
+credit = 1.0
+assessment_method = "考查"
+course_name = "体育C"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "人文与社会科学学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "URBP2601"
+credit = 2.0
+assessment_method = "考查"
+course_name = "城市概论"
+recommended_year_semester = "第二学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH2108"
+credit = 2.0
+assessment_method = "考试"
+course_name = "建筑构造"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH2109"
+credit = 1.5
+assessment_method = "考试"
+course_name = "环境心理学"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 24
+
+[courses.hours]
+theory = 24
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH2110"
+credit = 1.5
+assessment_method = "考试"
+course_name = "中国古代建筑与园林纲要"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 24
+
+[courses.hours]
+theory = 24
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH2303B"
+credit = 7.0
+assessment_method = "考试"
+course_name = "建筑设计B"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 112
+
+[courses.hours]
+theory = 88
+lab = 24
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1003"
+credit = 4.0
+assessment_method = "考试"
+course_name = "毛泽东思想和中国特色社会主义理论体系概论"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 64
+
+[courses.hours]
+theory = 64
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1013"
+credit = 1.0
+assessment_method = "考查"
+course_name = "毛泽东思想和中国特色社会主义理论体系概论实践课"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）（基础学部）｜团委｜武装部"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1001D"
+credit = 1.0
+assessment_method = "考查"
+course_name = "体育D"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "人文与社会科学学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "URBP2201A"
+credit = 2.0
+assessment_method = "考试"
+course_name = "城乡规划原理A"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 32
+
+[courses.hours]
+theory = 30
+lab = 2
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "URBP2602"
+credit = 1.5
+assessment_method = "考查"
+course_name = "参数化设计技术"
+recommended_year_semester = "第二学年春季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 24
+
+[courses.hours]
+theory = 24
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH2703"
+credit = 2.0
+assessment_method = "考查"
+course_name = "构造实习"
+recommended_year_semester = "第二学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 0
+
+[courses.hours]
+theory = 80
+lab = 0
+practice = 2
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH2704"
+credit = 2.0
+assessment_method = "考查"
+course_name = "表现实习"
+recommended_year_semester = "第二学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 0
+
+[courses.hours]
+theory = 80
+lab = 0
+practice = 2
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH3111"
+credit = 1.0
+assessment_method = "考查"
+course_name = "建筑材料"
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH3112"
+credit = 3.0
+assessment_method = "考试"
+course_name = "建筑结构与选型"
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH3113"
+credit = 1.5
+assessment_method = "考试"
+course_name = "中国建筑史"
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 24
+
+[courses.hours]
+theory = 24
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH3114"
+credit = 2.0
+assessment_method = "考查"
+course_name = "住宅建筑设计原理"
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH3304"
+credit = 7.0
+assessment_method = "考试"
+course_name = "建筑设计C"
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 112
+
+[courses.hours]
+theory = 88
+lab = 24
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH3501"
+credit = 1.0
+assessment_method = "考查"
+course_name = "建筑工业化"
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH3502"
+credit = 1.0
+assessment_method = "考查"
+course_name = "室内设计原理"
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "URBP3203"
+credit = 1.5
+assessment_method = "考查"
+course_name = "城市社会学"
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 24
+
+[courses.hours]
+theory = 24
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "URBP3603"
+credit = 1.0
+assessment_method = "考查"
+course_name = "场地设计原理"
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0

@@ -1,11 +1,11 @@
 [info]
-year = "2023"
-parent_major_code = "23L03"
-parent_major_name = "工科试验班（机器人与智能装备）"
 major_code = "030401"
 major_name = "能源与动力工程"
-school_name = "机器人与先进制造学院"
+parent_major_code = "0103"
+parent_major_name = "人工智能班"
 plan_ID = "314E5AC1041CBCF2E0630C18F80A461F"
+school_name = "计算机科学与技术学院"
+year = "2023"
 
 [[courses]]
 course_code = "CHEM1007"
@@ -231,7 +231,7 @@ course_name = "悦己人生—大学生心理健康"
 recommended_year_semester = "第一学年秋季"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "大学生心理健康教育与咨询中心"
+offering_college = "大学生心理健康教育与发展中心"
 total_hours = 32
 
 [courses.hours]
@@ -608,7 +608,7 @@ assessment_method = "考查"
 course_name = "写作与沟通"
 recommended_year_semester = "第二学年秋季"
 course_nature = "必修"
-course_category = "世界文明与对话"
+course_category = "其他"
 offering_college = "人文与社会科学学院"
 total_hours = 24
 
@@ -1191,12 +1191,12 @@ tutoring = 16
 course_code = "ENER3075"
 credit = 3.0
 assessment_method = "考查"
-course_name = "生产实习"
+course_name = "生产实践"
 recommended_year_semester = "第三学年夏季"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "机器人与先进制造学院"
-total_hours = 160
+total_hours = 0
 
 [courses.hours]
 theory = 0
@@ -1358,63 +1358,6 @@ exercise = 0
 computer = 0
 tutoring = 0
 [[courses]]
-course_code = "ENER3057"
-credit = 1.5
-assessment_method = "考查"
-course_name = "风力发电及工程"
-recommended_year_semester = "第四学年秋季"
-track = "绿色能源模块-副选课程"
-course_nature = "限选"
-course_category = "其他"
-offering_college = "机器人与先进制造学院"
-total_hours = 24
-
-[courses.hours]
-theory = 16
-lab = 0
-practice = 8
-exercise = 0
-computer = 0
-tutoring = 0
-[[courses]]
-course_code = "ENER3058"
-credit = 1.5
-assessment_method = "考查"
-course_name = "太阳能发电及工程"
-recommended_year_semester = "第四学年秋季"
-track = "绿色能源模块-副选课程"
-course_nature = "限选"
-course_category = "其他"
-offering_college = "机器人与先进制造学院"
-total_hours = 24
-
-[courses.hours]
-theory = 16
-lab = 0
-practice = 8
-exercise = 0
-computer = 0
-tutoring = 0
-[[courses]]
-course_code = "ENER3059"
-credit = 1.5
-assessment_method = "考查"
-course_name = "能源互联网"
-recommended_year_semester = "第四学年秋季"
-track = "绿色能源模块-副选课程"
-course_nature = "限选"
-course_category = "其他"
-offering_college = "机器人与先进制造学院"
-total_hours = 24
-
-[courses.hours]
-theory = 16
-lab = 0
-practice = 8
-exercise = 0
-computer = 0
-tutoring = 0
-[[courses]]
 course_code = "ENER3060"
 credit = 1.5
 assessment_method = "考查"
@@ -1478,63 +1421,6 @@ assessment_method = "考查"
 course_name = "计算流体力学基础"
 recommended_year_semester = "第四学年秋季"
 track = "绿色能源模块-副选课程,智能动力模块-副选课程"
-course_nature = "限选"
-course_category = "其他"
-offering_college = "机器人与先进制造学院"
-total_hours = 24
-
-[courses.hours]
-theory = 16
-lab = 0
-practice = 8
-exercise = 0
-computer = 0
-tutoring = 0
-[[courses]]
-course_code = "ENER3065"
-credit = 1.5
-assessment_method = "考查"
-course_name = "燃烧的激光诊断"
-recommended_year_semester = "第四学年秋季"
-track = "智能动力模块-副选课程"
-course_nature = "限选"
-course_category = "其他"
-offering_college = "机器人与先进制造学院"
-total_hours = 24
-
-[courses.hours]
-theory = 16
-lab = 4
-practice = 4
-exercise = 0
-computer = 0
-tutoring = 0
-[[courses]]
-course_code = "ENER3067"
-credit = 1.5
-assessment_method = "考查"
-course_name = "航空发动机原理"
-recommended_year_semester = "第四学年秋季"
-track = "智能动力模块-副选课程"
-course_nature = "限选"
-course_category = "其他"
-offering_college = "机器人与先进制造学院"
-total_hours = 24
-
-[courses.hours]
-theory = 16
-lab = 0
-practice = 8
-exercise = 0
-computer = 0
-tutoring = 0
-[[courses]]
-course_code = "ENER3069"
-credit = 1.5
-assessment_method = "考查"
-course_name = "计算燃烧学基础"
-recommended_year_semester = "第四学年秋季"
-track = "智能动力模块-副选课程"
 course_nature = "限选"
 course_category = "其他"
 offering_college = "机器人与先进制造学院"

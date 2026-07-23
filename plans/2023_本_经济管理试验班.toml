@@ -1,9 +1,9 @@
 [info]
-year = "2023"
 major_code = "23L04"
 major_name = "经济管理试验班"
-school_name = "经济管理学院"
 plan_ID = "036B010A7B602A58E0630C18F80A99CD"
+school_name = "经济管理学院"
+year = "2023"
 
 [[courses]]
 course_code = "COMP1009"
@@ -193,7 +193,7 @@ course_name = "悦己人生—大学生心理健康"
 recommended_year_semester = "第一学年秋季"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "大学生心理健康教育与咨询中心"
+offering_college = "大学生心理健康教育与发展中心"
 total_hours = 32
 
 [courses.hours]
@@ -732,7 +732,7 @@ assessment_method = "考查"
 course_name = "写作与沟通"
 recommended_year_semester = "第二学年春季"
 course_nature = "必修"
-course_category = "世界文明与对话"
+course_category = "其他"
 offering_college = "人文与社会科学学院"
 total_hours = 24
 

@@ -1,5 +1,95 @@
 {
   "2019": {
+    "030101": {
+      "name": "机械设计制造及其自动化",
+      "plan_ID": "BEB8F47404B504B8E0530C18F80A60BF",
+      "school_name": "机器人与先进制造学院",
+      "majors": []
+    },
+    "020101": {
+      "name": "通信工程",
+      "plan_ID": "BEB8F19A15B8018DE0530C18F80AC76B",
+      "school_name": "信息科学与技术学院",
+      "majors": []
+    },
+    "050101": {
+      "name": "材料科学与工程",
+      "plan_ID": "BEB8EEB58EEB06BFE0530C18F80A19DC",
+      "school_name": "材料科学与工程学院",
+      "majors": []
+    },
+    "080101": {
+      "name": "数据科学与大数据技术",
+      "plan_ID": "BEB8D90DE30370D2E0530B18F80A2908",
+      "school_name": "理学院",
+      "majors": []
+    },
+    "070202": {
+      "name": "会计学（大数据会计方向）",
+      "plan_ID": "BEB8D90DE1C870D2E0530B18F80A2908",
+      "school_name": "经济管理学院",
+      "majors": []
+    },
+    "070101": {
+      "name": "经济学",
+      "plan_ID": "BEB8D90DE03070D2E0530B18F80A2908",
+      "school_name": "经济管理学院",
+      "majors": []
+    },
+    "030301": {
+      "name": "电气工程及其自动化",
+      "plan_ID": "BEB8D90DDE8D70D2E0530B18F80A2908",
+      "school_name": "机器人与先进制造学院",
+      "majors": []
+    },
+    "010101": {
+      "name": "计算机科学与技术",
+      "plan_ID": "BEB8D90DDD0470D2E0530B18F80A2908",
+      "school_name": "计算机科学与技术学院",
+      "majors": []
+    },
+    "040201": {
+      "name": "环境工程",
+      "plan_ID": "BE67E4353FE92E3FE0530B18F80A1BEF",
+      "school_name": "生态环境学院",
+      "majors": []
+    },
+    "040101": {
+      "name": "土木工程",
+      "plan_ID": "BE5894052B754DEBE0530C18F80A872A",
+      "school_name": "智能土木与海洋工程学院",
+      "majors": []
+    },
+    "030201": {
+      "name": "自动化",
+      "plan_ID": "BE5885A4B98B8967E0530B18F80A697B",
+      "school_name": "机器人与先进制造学院",
+      "majors": []
+    },
+    "060102": {
+      "name": "城乡规划",
+      "plan_ID": "A23569E1A949856DE0530C18F80A7A4F",
+      "school_name": "建筑学院",
+      "majors": []
+    },
+    "060101": {
+      "name": "建筑学",
+      "plan_ID": "A23569E1A8EC856DE0530C18F80A7A4F",
+      "school_name": "建筑学院",
+      "majors": []
+    },
+    "0601": {
+      "name": "建筑类",
+      "plan_ID": "960C2575ECA0DA48E050007F010046A4",
+      "school_name": "建筑学院",
+      "majors": [
+        {
+          "name": "建筑学",
+          "major_ID": "060101",
+          "plan_ID": "A23569E1A8EC856DE0530C18F80A7A4F"
+        }
+      ]
+    },
     "0801": {
       "name": "数学类",
       "plan_ID": "960C2575EC9EDA48E050007F010046A4",
@@ -131,27 +221,117 @@
           "plan_ID": "BEB8F19A15B8018DE0530C18F80AC76B"
         }
       ]
+    }
+  },
+  "2020": {
+    "010101": {
+      "name": "计算机科学与技术",
+      "plan_ID": "DC849F22CAB44F91E0530C18F80A3567",
+      "school_name": "计算机科学与技术学院",
+      "majors": []
+    },
+    "040101": {
+      "name": "土木工程",
+      "plan_ID": "DC802E6D9EFE292EE0530C18F80A464E",
+      "school_name": "智能土木与海洋工程学院",
+      "majors": []
+    },
+    "040201": {
+      "name": "环境工程",
+      "plan_ID": "DC802BD1B0D30A76E0530B18F80AF5C7",
+      "school_name": "生态环境学院",
+      "majors": []
     },
     "060102": {
       "name": "城乡规划",
-      "plan_ID": "A23569E1A949856DE0530C18F80A7A4F",
+      "plan_ID": "DC5C5E75937F59EDE0530B18F80AE259",
       "school_name": "建筑学院",
       "majors": []
     },
     "060101": {
       "name": "建筑学",
-      "plan_ID": "A23569E1A8EC856DE0530C18F80A7A4F",
+      "plan_ID": "DC49C168DA7B11F8E0530C18F80ADE63",
       "school_name": "建筑学院",
       "majors": []
     },
-    "0601": {
-      "name": "建筑类",
-      "plan_ID": "960C2575ECA0DA48E050007F010046A4",
-      "school_name": "建筑学院",
+    "050101": {
+      "name": "材料科学与工程",
+      "plan_ID": "DC2FF57AEF266403E0530B18F80ABE77",
+      "school_name": "材料科学与工程学院",
       "majors": []
-    }
-  },
-  "2020": {
+    },
+    "020103": {
+      "name": "光电信息科学与工程",
+      "plan_ID": "BFD279904EF0702BE0530C18F80A03E5",
+      "school_name": "信息科学与技术学院",
+      "majors": []
+    },
+    "020101": {
+      "name": "通信工程",
+      "plan_ID": "BFD279904EEE702BE0530C18F80A03E5",
+      "school_name": "信息科学与技术学院",
+      "majors": []
+    },
+    "070202": {
+      "name": "会计学（大数据会计方向）",
+      "plan_ID": "BEFB9D69410BF77EE0530B18F80A437F",
+      "school_name": "经济管理学院",
+      "majors": []
+    },
+    "070101": {
+      "name": "经济学",
+      "plan_ID": "BEF59D64A37443DEE0530C18F80A77A2",
+      "school_name": "经济管理学院",
+      "majors": []
+    },
+    "030201": {
+      "name": "自动化",
+      "plan_ID": "BEBED59A25B6BBB3E0530B18F80A4A7B",
+      "school_name": "机器人与先进制造学院",
+      "majors": []
+    },
+    "030401": {
+      "name": "能源与动力工程",
+      "plan_ID": "BEBE77B5D1E156A0E0530B18F80AFD4D",
+      "school_name": "机器人与先进制造学院",
+      "majors": []
+    },
+    "030301": {
+      "name": "电气工程及其自动化",
+      "plan_ID": "BEBE4CAE4E2E39DFE0530C18F80A6C8A",
+      "school_name": "机器人与先进制造学院",
+      "majors": []
+    },
+    "030101": {
+      "name": "机械设计制造及其自动化",
+      "plan_ID": "BEBD6A0D08280377E0530B18F80A452A",
+      "school_name": "机器人与先进制造学院",
+      "majors": []
+    },
+    "080101": {
+      "name": "数据科学与大数据技术",
+      "plan_ID": "BE6E26787101A0A6E0530C18F80A08B3",
+      "school_name": "理学院",
+      "majors": []
+    },
+    "030202": {
+      "name": "自动化（第二学士学位）",
+      "plan_ID": "ADB007F96DAC1B77E0530C18F80A11B8",
+      "school_name": "机器人与先进制造学院",
+      "majors": []
+    },
+    "020102": {
+      "name": "通信工程（第二学士学位）",
+      "plan_ID": "ADAFFD20C0DC6A77E0530B18F80AD7FB",
+      "school_name": "信息科学与技术学院",
+      "majors": []
+    },
+    "010102": {
+      "name": "计算机科学与技术（第二学士学位）",
+      "plan_ID": "ADAF2CFE5CC953A3E0530B18F80A5512",
+      "school_name": "计算机科学与技术学院",
+      "majors": []
+    },
     "0304": {
       "name": "能源动力类",
       "plan_ID": "AA504445BB6BDDB4E0530C18F80AE9FB",
@@ -248,6 +428,18 @@
         }
       ]
     },
+    "0601": {
+      "name": "建筑类",
+      "plan_ID": "A195E6906B1D9195E0530C18F80AA4D7",
+      "school_name": "建筑学院",
+      "majors": [
+        {
+          "name": "建筑学",
+          "major_ID": "060101",
+          "plan_ID": "DC49C168DA7B11F8E0530C18F80ADE63"
+        }
+      ]
+    },
     "0801": {
       "name": "数学类",
       "plan_ID": "A15937DD9BA6CE3EE0530C18F80A9EB7",
@@ -300,45 +492,99 @@
           "plan_ID": "BFD279904EF0702BE0530C18F80A03E5"
         }
       ]
+    }
+  },
+  "2021": {
+    "070202": {
+      "name": "会计学（大数据会计方向）",
+      "plan_ID": "F82FC57DFC261B77E0530B18F80AB761",
+      "school_name": "经济管理学院",
+      "majors": []
+    },
+    "070101": {
+      "name": "经济学",
+      "plan_ID": "F82AB7D72682AE5CE0530B18F80AE1DF",
+      "school_name": "经济管理学院",
+      "majors": []
+    },
+    "050101": {
+      "name": "材料科学与工程",
+      "plan_ID": "F7F2972D524C7875E0530B18F80ABF6B",
+      "school_name": "材料科学与工程学院",
+      "majors": []
+    },
+    "040201": {
+      "name": "环境工程",
+      "plan_ID": "F7149B0C1C37910DE0530B18F80AF235",
+      "school_name": "生态环境学院",
+      "majors": []
+    },
+    "040101": {
+      "name": "土木工程",
+      "plan_ID": "F6FC6081F78A6454E0530C18F80AAFE6",
+      "school_name": "智能土木与海洋工程学院",
+      "majors": []
+    },
+    "080101": {
+      "name": "数据科学与大数据技术",
+      "plan_ID": "E9904694CE208B86E0530B18F80AE05C",
+      "school_name": "理学院",
+      "majors": []
+    },
+    "010101": {
+      "name": "计算机科学与技术",
+      "plan_ID": "E9054EDDC6F4A0AAE0530C18F80AFD4F",
+      "school_name": "计算机科学与技术学院",
+      "majors": []
     },
     "060102": {
       "name": "城乡规划",
-      "plan_ID": "DC5C5E75937F59EDE0530B18F80AE259",
+      "plan_ID": "DC58F2A2EAEB4EB2E0530C18F80AACB9",
       "school_name": "建筑学院",
       "majors": []
     },
     "060101": {
       "name": "建筑学",
-      "plan_ID": "DC49C168DA7B11F8E0530C18F80ADE63",
+      "plan_ID": "DC58F1090BC71D30E0530B18F80AE5EA",
       "school_name": "建筑学院",
+      "majors": []
+    },
+    "020103": {
+      "name": "光电信息科学与工程",
+      "plan_ID": "CEAC074FDB835438E0530C18F80A7D17",
+      "school_name": "信息科学与技术学院",
+      "majors": []
+    },
+    "020101": {
+      "name": "通信工程",
+      "plan_ID": "CEAC068EF969BC3AE0530B18F80ADB9B",
+      "school_name": "信息科学与技术学院",
+      "majors": []
+    },
+    "0102": {
+      "name": "智能强基-计算机",
+      "plan_ID": "CB7748FB3C53E9D8E0530B18F80AA6DA",
+      "school_name": "计算机科学与技术学院",
+      "majors": []
+    },
+    "040102": {
+      "name": "土木工程（第二学士学位）",
+      "plan_ID": "C73888F17663712BE0530C18F80AED5B",
+      "school_name": "智能土木与海洋工程学院",
       "majors": []
     },
     "030202": {
       "name": "自动化（第二学士学位）",
-      "plan_ID": "ADB007F96DAC1B77E0530C18F80A11B8",
+      "plan_ID": "C6FEABD2F5737492E0530C18F80A0D42",
       "school_name": "机器人与先进制造学院",
       "majors": []
     },
     "020102": {
       "name": "通信工程（第二学士学位）",
-      "plan_ID": "ADAFFD20C0DC6A77E0530B18F80AD7FB",
+      "plan_ID": "C6FE770E18D2D0B0E0530C18F80A333C",
       "school_name": "信息科学与技术学院",
       "majors": []
     },
-    "010102": {
-      "name": "计算机科学与技术（第二学士学位）",
-      "plan_ID": "ADAF2CFE5CC953A3E0530B18F80A5512",
-      "school_name": "计算机科学与技术学院",
-      "majors": []
-    },
-    "0601": {
-      "name": "建筑类",
-      "plan_ID": "A195E6906B1D9195E0530C18F80AA4D7",
-      "school_name": "建筑学院",
-      "majors": []
-    }
-  },
-  "2021": {
     "0701": {
       "name": "经济学类",
       "plan_ID": "C049D694C4420101E0530B18F80A0D78",
@@ -380,6 +626,12 @@
         }
       ]
     },
+    "070102": {
+      "name": "经济学（新结构经济学实验班）",
+      "plan_ID": "BEF5F7006B6FDA48E0530B18F80A3DEB",
+      "school_name": "经济管理学院",
+      "majors": []
+    },
     "0304": {
       "name": "能源动力类",
       "plan_ID": "BED2BDE942DC6D5DE0530C18F80A081B",
@@ -415,6 +667,12 @@
           "plan_ID": "BEBEEBA36CBD7D3EE0530C18F80A0BC0"
         }
       ]
+    },
+    "030101": {
+      "name": "机械设计制造及其自动化",
+      "plan_ID": "BEBD48B900D38C63E0530B18F80A75FD",
+      "school_name": "机器人与先进制造学院",
+      "majors": []
     },
     "0301": {
       "name": "机械类",
@@ -488,56 +746,50 @@
         }
       ]
     },
+    "0601": {
+      "name": "建筑类",
+      "plan_ID": "BD3A22D9F8A9B1C0E0530C18F80A9CDC",
+      "school_name": "建筑学院",
+      "majors": [
+        {
+          "name": "建筑学",
+          "major_ID": "060101",
+          "plan_ID": "DC58F1090BC71D30E0530B18F80AE5EA"
+        }
+      ]
+    }
+  },
+  "2022": {
+    "020103": {
+      "name": "光电信息科学与工程",
+      "plan_ID": "F946DDA41F7911A8E0530B18F80A7D45",
+      "school_name": "信息科学与技术学院",
+      "majors": []
+    },
+    "020101": {
+      "name": "通信工程",
+      "plan_ID": "F946DBE86A9E9CFEE0530C18F80A2A93",
+      "school_name": "信息科学与技术学院",
+      "majors": []
+    },
     "060102": {
       "name": "城乡规划",
-      "plan_ID": "DC58F2A2EAEB4EB2E0530C18F80AACB9",
+      "plan_ID": "F9439A39AEA93872E0530C18F80ADB9F",
       "school_name": "建筑学院",
       "majors": []
     },
     "060101": {
       "name": "建筑学",
-      "plan_ID": "DC58F1090BC71D30E0530B18F80AE5EA",
+      "plan_ID": "F92F04764A321280E0530B18F80A9035",
       "school_name": "建筑学院",
       "majors": []
     },
-    "0102": {
-      "name": "智能强基-计算机",
-      "plan_ID": "CB7748FB3C53E9D8E0530B18F80AA6DA",
-      "school_name": "计算机科学与技术学院",
-      "majors": []
-    },
-    "040102": {
-      "name": "土木工程（第二学士学位）",
-      "plan_ID": "C73888F17663712BE0530C18F80AED5B",
-      "school_name": "智能土木与海洋工程学院",
-      "majors": []
-    },
-    "030202": {
-      "name": "自动化（第二学士学位）",
-      "plan_ID": "C6FEABD2F5737492E0530C18F80A0D42",
-      "school_name": "机器人与先进制造学院",
-      "majors": []
-    },
-    "020102": {
-      "name": "通信工程（第二学士学位）",
-      "plan_ID": "C6FE770E18D2D0B0E0530C18F80A333C",
-      "school_name": "信息科学与技术学院",
-      "majors": []
-    },
-    "070102": {
-      "name": "经济学（新结构经济学实验班）",
-      "plan_ID": "BEF5F7006B6FDA48E0530B18F80A3DEB",
+    "070103": {
+      "name": "经济学（第二学士学位）",
+      "plan_ID": "E6F80D451E035D6FE0530C18F80A94C3",
       "school_name": "经济管理学院",
       "majors": []
     },
-    "0601": {
-      "name": "建筑类",
-      "plan_ID": "BD3A22D9F8A9B1C0E0530C18F80A9CDC",
-      "school_name": "建筑学院",
-      "majors": []
-    }
-  },
-  "2022": {
     "0301": {
       "name": "机械类",
       "plan_ID": "E4AD0B843BB2D57FE0530B18F80A2D50",
@@ -566,6 +818,18 @@
           "plan_ID": "1519EBA412EFA96EE0630C18F80A1726"
         }
       ]
+    },
+    "030202": {
+      "name": "自动化（第二学士学位）",
+      "plan_ID": "E49D36EA6894AEB1E0530B18F80A832E",
+      "school_name": "机器人与先进制造学院",
+      "majors": []
+    },
+    "020102": {
+      "name": "通信工程（第二学士学位）",
+      "plan_ID": "E49C9D6218DAC812E0530B18F80A694C",
+      "school_name": "信息科学与技术学院",
+      "majors": []
     },
     "0801": {
       "name": "数学类",
@@ -600,6 +864,18 @@
           "name": "经济学",
           "major_ID": "070101",
           "plan_ID": "16E81B4EDA981738E0630C18F80ACCAF"
+        }
+      ]
+    },
+    "0601": {
+      "name": "建筑类",
+      "plan_ID": "E484FE5169F6D814E0530B18F80AB499",
+      "school_name": "建筑学院",
+      "majors": [
+        {
+          "name": "建筑学",
+          "major_ID": "060101",
+          "plan_ID": "F92F04764A321280E0530B18F80A9035"
         }
       ]
     },
@@ -692,56 +968,267 @@
         }
       ]
     },
-    "060102": {
-      "name": "城乡规划",
-      "plan_ID": "F9439A39AEA93872E0530C18F80ADB9F",
-      "school_name": "建筑学院",
-      "majors": []
-    },
-    "060101": {
-      "name": "建筑学",
-      "plan_ID": "F92F04764A321280E0530B18F80A9035",
-      "school_name": "建筑学院",
-      "majors": []
-    },
-    "070103": {
-      "name": "经济学（第二学士学位）",
-      "plan_ID": "E6F80D451E035D6FE0530C18F80A94C3",
-      "school_name": "经济管理学院",
-      "majors": []
-    },
-    "030202": {
-      "name": "自动化（第二学士学位）",
-      "plan_ID": "E49D36EA6894AEB1E0530B18F80A832E",
-      "school_name": "机器人与先进制造学院",
-      "majors": []
-    },
-    "020102": {
-      "name": "通信工程（第二学士学位）",
-      "plan_ID": "E49C9D6218DAC812E0530B18F80A694C",
-      "school_name": "信息科学与技术学院",
-      "majors": []
-    },
-    "0601": {
-      "name": "建筑类",
-      "plan_ID": "E484FE5169F6D814E0530B18F80AB499",
-      "school_name": "建筑学院",
-      "majors": []
-    },
     "130508": {
       "name": "数字媒体艺术",
       "plan_ID": "E385994EB55A2BF1E0530C18F80A22B8",
-      "school_name": "国际设计学院",
+      "school_name": "未来设计学院",
       "majors": []
     },
     "080205": {
       "name": "工业设计",
       "plan_ID": "E3855A5C02E33E31E0530C18F80A5982",
-      "school_name": "国际设计学院",
+      "school_name": "未来设计学院",
       "majors": []
     }
   },
   "2023": {
+    "080201": {
+      "name": "化学",
+      "plan_ID": "398E8C14E5DB1A2EE0630B18F80A86E6",
+      "school_name": "理学院",
+      "majors": []
+    },
+    "050102": {
+      "name": "电子封装技术",
+      "plan_ID": "3250363110037AB1E0630B18F80AD4EC",
+      "school_name": "集成电路学院",
+      "majors": []
+    },
+    "030102": {
+      "name": "机器人工程",
+      "plan_ID": "3163150628C8A349E0630B18F80A357F",
+      "school_name": "机器人与先进制造学院",
+      "majors": []
+    },
+    "030101": {
+      "name": "机械设计制造及其自动化",
+      "plan_ID": "3163150628C6A349E0630B18F80A357F",
+      "school_name": "机器人与先进制造学院",
+      "majors": []
+    },
+    "070202": {
+      "name": "会计学（大数据会计方向）",
+      "plan_ID": "315EB3BE25931199E0630B18F80A2724",
+      "school_name": "经济管理学院",
+      "majors": []
+    },
+    "070101": {
+      "name": "经济学",
+      "plan_ID": "315EB3BE24B21199E0630B18F80A2724",
+      "school_name": "经济管理学院",
+      "majors": []
+    },
+    "050101": {
+      "name": "材料科学与工程",
+      "plan_ID": "315E2D2561DB87FCE0630B18F80AD786",
+      "school_name": "材料科学与工程学院",
+      "majors": []
+    },
+    "030301": {
+      "name": "电气工程及其自动化",
+      "plan_ID": "314E5AC10520BCF2E0630C18F80A461F",
+      "school_name": "机器人与先进制造学院",
+      "majors": []
+    },
+    "030401": {
+      "name": "能源与动力工程",
+      "plan_ID": "314E5AC1041CBCF2E0630C18F80A461F",
+      "school_name": "机器人与先进制造学院",
+      "majors": []
+    },
+    "020103": {
+      "name": "光电信息科学与工程",
+      "plan_ID": "314E30153E394E98E0630C18F80A0F86",
+      "school_name": "信息科学与技术学院",
+      "majors": []
+    },
+    "020101": {
+      "name": "通信工程",
+      "plan_ID": "314E30153D2B4E98E0630C18F80A0F86",
+      "school_name": "信息科学与技术学院",
+      "majors": []
+    },
+    "010101": {
+      "name": "计算机科学与技术",
+      "plan_ID": "314E30153C1D4E98E0630C18F80A0F86",
+      "school_name": "计算机科学与技术学院",
+      "majors": []
+    },
+    "080101": {
+      "name": "数据科学与大数据技术",
+      "plan_ID": "314DD87C5DB960D8E0630B18F80AB58C",
+      "school_name": "理学院",
+      "majors": []
+    },
+    "040201": {
+      "name": "环境工程",
+      "plan_ID": "313B38A6DBB235AEE0630C18F80AE208",
+      "school_name": "生态环境学院",
+      "majors": []
+    },
+    "040101": {
+      "name": "土木工程",
+      "plan_ID": "31271C400DADCF79E0630C18F80A6D91",
+      "school_name": "智能土木与海洋工程学院",
+      "majors": []
+    },
+    "030201": {
+      "name": "自动化",
+      "plan_ID": "30ACECCE9DE1AB2AE0630B18F80AE450",
+      "school_name": "智能科学与工程学院",
+      "majors": []
+    },
+    "0103": {
+      "name": "人工智能班",
+      "plan_ID": "17D93F89463DEB95E0630C18F80A842E",
+      "school_name": "计算机科学与技术学院",
+      "majors": [
+        {
+          "name": "自动化",
+          "major_ID": "030201",
+          "plan_ID": "30ACECCE9DE1AB2AE0630B18F80AE450"
+        },
+        {
+          "name": "建筑学",
+          "major_ID": "060101",
+          "plan_ID": "15042069F1A099EBE0630B18F80A2642"
+        },
+        {
+          "name": "化学",
+          "major_ID": "080201",
+          "plan_ID": "398E8C14E5DB1A2EE0630B18F80A86E6"
+        },
+        {
+          "name": "数据科学与大数据技术",
+          "major_ID": "080101",
+          "plan_ID": "314DD87C5DB960D8E0630B18F80AB58C"
+        },
+        {
+          "name": "通信工程",
+          "major_ID": "020101",
+          "plan_ID": "314E30153D2B4E98E0630C18F80A0F86"
+        },
+        {
+          "name": "城乡规划",
+          "major_ID": "060102",
+          "plan_ID": "1504213DC3A6934CE0630C18F80AE504"
+        },
+        {
+          "name": "计算机科学与技术",
+          "major_ID": "010101",
+          "plan_ID": "314E30153C1D4E98E0630C18F80A0F86"
+        },
+        {
+          "name": "环境工程",
+          "major_ID": "040201",
+          "plan_ID": "313B38A6DBB235AEE0630C18F80AE208"
+        },
+        {
+          "name": "能源与动力工程",
+          "major_ID": "030401",
+          "plan_ID": "314E5AC1041CBCF2E0630C18F80A461F"
+        },
+        {
+          "name": "电子封装技术",
+          "major_ID": "050102",
+          "plan_ID": "3250363110037AB1E0630B18F80AD4EC"
+        },
+        {
+          "name": "经济学",
+          "major_ID": "070101",
+          "plan_ID": "315EB3BE24B21199E0630B18F80A2724"
+        },
+        {
+          "name": "电气工程及其自动化",
+          "major_ID": "030301",
+          "plan_ID": "314E5AC10520BCF2E0630C18F80A461F"
+        },
+        {
+          "name": "材料科学与工程",
+          "major_ID": "050101",
+          "plan_ID": "315E2D2561DB87FCE0630B18F80AD786"
+        },
+        {
+          "name": "光电信息科学与工程",
+          "major_ID": "020103",
+          "plan_ID": "314E30153E394E98E0630C18F80A0F86"
+        },
+        {
+          "name": "土木工程",
+          "major_ID": "040101",
+          "plan_ID": "31271C400DADCF79E0630C18F80A6D91"
+        },
+        {
+          "name": "机械设计制造及其自动化",
+          "major_ID": "030101",
+          "plan_ID": "3163150628C6A349E0630B18F80A357F"
+        },
+        {
+          "name": "机器人工程",
+          "major_ID": "030102",
+          "plan_ID": "3163150628C8A349E0630B18F80A357F"
+        },
+        {
+          "name": "会计学（大数据会计方向）",
+          "major_ID": "070202",
+          "plan_ID": "315EB3BE25931199E0630B18F80A2724"
+        }
+      ]
+    },
+    "070103": {
+      "name": "经济学（第二学士学位）",
+      "plan_ID": "03CB476E8E465A7CE0630C18F80A6784",
+      "school_name": "经济管理学院",
+      "majors": []
+    },
+    "130508": {
+      "name": "数字媒体艺术",
+      "plan_ID": "038EDA212FB643EAE0630C18F80A8E14",
+      "school_name": "未来设计学院",
+      "majors": []
+    },
+    "080205": {
+      "name": "工业设计",
+      "plan_ID": "038065B54B920D7AE0630B18F80A5362",
+      "school_name": "未来设计学院",
+      "majors": []
+    },
+    "082802": {
+      "name": "建筑学（理工）",
+      "plan_ID": "038056148B2D3902E0630C18F80A11FC",
+      "school_name": "建筑学院",
+      "majors": []
+    },
+    "070201F": {
+      "name": "工商管理",
+      "plan_ID": "037F0B9CC2442B20E0630B18F80A2FE4",
+      "school_name": "经济管理学院",
+      "majors": []
+    },
+    "070101F": {
+      "name": "经济学",
+      "plan_ID": "037F099022F4D5B6E0630C18F80A03F8",
+      "school_name": "经济管理学院",
+      "majors": []
+    },
+    "020103F": {
+      "name": "光电信息科学与工程",
+      "plan_ID": "037F099022F2D5B6E0630C18F80A03F8",
+      "school_name": "信息科学与技术学院",
+      "majors": []
+    },
+    "010101F": {
+      "name": "计算机科学与技术",
+      "plan_ID": "037F075E27C4138CE0630B18F80A5AFE",
+      "school_name": "计算机科学与技术学院",
+      "majors": []
+    },
+    "030202": {
+      "name": "自动化（第二学士学位）",
+      "plan_ID": "036EDEE75B852ABAE0630C18F80A8F46",
+      "school_name": "机器人与先进制造学院",
+      "majors": []
+    },
     "23L09": {
       "name": "化学",
       "plan_ID": "036B010A7B622A58E0630C18F80A99CD",
@@ -770,6 +1257,12 @@
           "plan_ID": "315EB3BE25931199E0630B18F80A2724"
         }
       ]
+    },
+    "23L05": {
+      "name": "建筑类/工科试验班（智慧人居类）",
+      "plan_ID": "036AFF7CBFB00D09E0630C18F80ABDAA",
+      "school_name": "建筑学院",
+      "majors": []
     },
     "23L06": {
       "name": "工科试验班（先进材料类）",
@@ -813,19 +1306,9 @@
       "school_name": "机器人与先进制造学院",
       "majors": [
         {
-          "name": "电子封装技术",
-          "major_ID": "050102",
-          "plan_ID": "3250363110037AB1E0630B18F80AD4EC"
-        },
-        {
-          "name": "能源与动力工程",
-          "major_ID": "030401",
-          "plan_ID": "314E5AC1041CBCF2E0630C18F80A461F"
-        },
-        {
-          "name": "机械设计制造及其自动化",
-          "major_ID": "030101",
-          "plan_ID": "3163150628C6A349E0630B18F80A357F"
+          "name": "自动化",
+          "major_ID": "030201",
+          "plan_ID": "30ACECCE9DE1AB2AE0630B18F80AE450"
         },
         {
           "name": "机器人工程",
@@ -857,6 +1340,11 @@
       "school_name": "基础学部",
       "majors": [
         {
+          "name": "自动化",
+          "major_ID": "030201",
+          "plan_ID": "30ACECCE9DE1AB2AE0630B18F80AE450"
+        },
+        {
           "name": "数据科学与大数据技术",
           "major_ID": "080101",
           "plan_ID": "314DD87C5DB960D8E0630B18F80AB58C"
@@ -872,155 +1360,154 @@
           "plan_ID": "314E30153C1D4E98E0630C18F80A0F86"
         },
         {
+          "name": "电子封装技术",
+          "major_ID": "050102",
+          "plan_ID": "3250363110037AB1E0630B18F80AD4EC"
+        },
+        {
+          "name": "电气工程及其自动化",
+          "major_ID": "030301",
+          "plan_ID": "314E5AC10520BCF2E0630C18F80A461F"
+        },
+        {
           "name": "光电信息科学与工程",
           "major_ID": "020103",
           "plan_ID": "314E30153E394E98E0630C18F80A0F86"
         }
       ]
-    },
-    "0103": {
-      "name": "人工智能班",
-      "plan_ID": "17D93F89463DEB95E0630C18F80A842E",
-      "school_name": "计算机科学与技术学院",
-      "majors": []
-    },
-    "060102": {
-      "name": "城乡规划",
-      "plan_ID": "1504213DC3A6934CE0630C18F80AE504",
-      "school_name": "建筑学院",
-      "majors": []
-    },
-    "060101": {
-      "name": "建筑学",
-      "plan_ID": "15042069F1A099EBE0630B18F80A2642",
-      "school_name": "建筑学院",
-      "majors": []
-    },
-    "070103": {
-      "name": "经济学（第二学士学位）",
-      "plan_ID": "03CB476E8E465A7CE0630C18F80A6784",
-      "school_name": "经济管理学院",
+    }
+  },
+  "2024": {
+    "080717T": {
+      "name": "人工智能",
+      "plan_ID": "56B73698C9629733E0630C18F80ACFB9",
+      "school_name": "智能科学与工程学院",
       "majors": []
     },
     "130508": {
       "name": "数字媒体艺术",
-      "plan_ID": "038EDA212FB643EAE0630C18F80A8E14",
-      "school_name": "国际设计学院",
+      "plan_ID": "532C781B58CEFB7CE0630C18F80A1F80",
+      "school_name": "未来设计学院",
       "majors": []
     },
-    "080205": {
-      "name": "工业设计",
-      "plan_ID": "038065B54B920D7AE0630B18F80A5362",
-      "school_name": "国际设计学院",
-      "majors": []
-    },
-    "082802": {
-      "name": "建筑学",
-      "plan_ID": "038056148B2D3902E0630C18F80A11FC",
-      "school_name": "国际设计学院",
-      "majors": []
-    },
-    "070201F": {
-      "name": "工商管理",
-      "plan_ID": "037F0B9CC2442B20E0630B18F80A2FE4",
-      "school_name": "经济管理学院",
-      "majors": []
-    },
-    "070101F": {
-      "name": "经济学",
-      "plan_ID": "037F099022F4D5B6E0630C18F80A03F8",
-      "school_name": "经济管理学院",
-      "majors": []
-    },
-    "020103F": {
-      "name": "光电信息科学与工程",
-      "plan_ID": "037F099022F2D5B6E0630C18F80A03F8",
-      "school_name": "信息科学与技术学院",
-      "majors": []
-    },
-    "010101F": {
-      "name": "计算机科学与技术",
-      "plan_ID": "037F075E27C4138CE0630B18F80A5AFE",
-      "school_name": "计算机科学与技术学院",
-      "majors": []
-    },
-    "030202": {
-      "name": "自动化（第二学士学位）",
-      "plan_ID": "036EDEE75B852ABAE0630C18F80A8F46",
-      "school_name": "机器人与先进制造学院",
-      "majors": []
-    },
-    "23L05": {
-      "name": "建筑类/工科试验班（智慧人居类）",
-      "plan_ID": "036AFF7CBFB00D09E0630C18F80ABDAA",
-      "school_name": "建筑学院",
-      "majors": []
-    }
-  },
-  "2024": {
-    "24L02": {
-      "name": "建筑类（智慧人居类）",
-      "plan_ID": "1EC4BB7596F15CA2E0630B18F80A9458",
-      "school_name": "基础学部",
-      "majors": [
-        {
-          "name": "建筑学",
-          "major_ID": "060101",
-          "plan_ID": "323FB98C6F2D2C7CE0630B18F80A232E"
-        },
-        {
-          "name": "城乡规划",
-          "major_ID": "060102",
-          "plan_ID": "323FCD506B172736E0630B18F80A1A6D"
-        }
-      ]
-    },
-    "23L06": {
-      "name": "工科试验班（先进材料类）",
-      "plan_ID": "1EC4B52419CE3D0FE0630C18F80AFCA4",
-      "school_name": "材料科学与工程学院",
-      "majors": []
-    },
-    "23L04": {
-      "name": "经济管理试验班",
-      "plan_ID": "1EC4820EA2EE4152E0630C18F80ACFB1",
-      "school_name": "经济管理学院",
-      "majors": []
-    },
-    "23L09": {
-      "name": "化学",
-      "plan_ID": "1EC473E38D2FA998E0630C18F80AE715",
-      "school_name": "理学院",
-      "majors": []
-    },
-    "23L03": {
-      "name": "工科试验班（机器人与智能装备）",
-      "plan_ID": "1EC419DA5F148A04E0630B18F80AFC15",
-      "school_name": "智能学部",
-      "majors": []
-    },
-    "23L01": {
-      "name": "工科试验班（计算机与电子通信）",
-      "plan_ID": "1EC3DE753E5DCF61E0630C18F80A57B9",
-      "school_name": "信息学部",
-      "majors": [
-        {
-          "name": "通信工程",
-          "major_ID": "020101",
-          "plan_ID": "40DE95F7990C0E32E0630C18F80A4351"
-        }
-      ]
-    },
-    "23L08": {
-      "name": "工科试验班（生态环境类）",
-      "plan_ID": "1EC3DE753E5ACF61E0630C18F80A57B9",
+    "040201": {
+      "name": "环境工程",
+      "plan_ID": "52F1DCDAE44FB7C9E0630C18F80A0A8E",
       "school_name": "生态环境学院",
       "majors": []
     },
-    "23L07": {
-      "name": "工科试验班（智能土木类）",
-      "plan_ID": "1EC3DD305C4CB28FE0630C18F80ABFAC",
+    "050102E": {
+      "name": "电子封装技术",
+      "plan_ID": "52F18A840F88F285E0630C18F80A622D",
+      "school_name": "集成电路学院",
+      "majors": []
+    },
+    "100101E": {
+      "name": "集成电路设计与集成系统",
+      "plan_ID": "52F140A01C2CBF8EE0630C18F80A94C3",
+      "school_name": "集成电路学院",
+      "majors": []
+    },
+    "050101": {
+      "name": "材料科学与工程",
+      "plan_ID": "52F0B5D3C36A7E93E0630C18F80A8C35",
+      "school_name": "材料科学与工程学院",
+      "majors": []
+    },
+    "020101E": {
+      "name": "通信工程",
+      "plan_ID": "52F09EF8421E9236E0630B18F80A06DB",
+      "school_name": "信息科学与技术学院",
+      "majors": []
+    },
+    "010101E": {
+      "name": "计算机科学与技术",
+      "plan_ID": "52EFDC9CDDB9534AE0630B18F80A89BC",
+      "school_name": "计算机科学与技术学院",
+      "majors": []
+    },
+    "040101": {
+      "name": "土木工程",
+      "plan_ID": "52EC3809451C4450E0630B18F80AF07B",
       "school_name": "智能土木与海洋工程学院",
+      "majors": []
+    },
+    "070202": {
+      "name": "会计学（大数据会计方向）",
+      "plan_ID": "52EBD6AD528584BDE0630C18F80A3169",
+      "school_name": "经济管理学院",
+      "majors": []
+    },
+    "070101": {
+      "name": "经济学",
+      "plan_ID": "52EBD6AD512A84BDE0630C18F80A3169",
+      "school_name": "经济管理学院",
+      "majors": []
+    },
+    "030401": {
+      "name": "能源与动力工程",
+      "plan_ID": "52C9DC0324D87C59E0630B18F80A5296",
+      "school_name": "机器人与先进制造学院",
+      "majors": []
+    },
+    "030102": {
+      "name": "机器人工程",
+      "plan_ID": "52C8F77ED67C36D7E0630C18F80AE216",
+      "school_name": "机器人与先进制造学院",
+      "majors": []
+    },
+    "110101": {
+      "name": "空间科学与技术",
+      "plan_ID": "52B3FE9407DEC98BE0630B18F80A9375",
+      "school_name": "空天科技学院",
+      "majors": []
+    },
+    "030201": {
+      "name": "自动化",
+      "plan_ID": "52B321270B23E690E0630B18F80ABB91",
+      "school_name": "智能科学与工程学院",
+      "majors": []
+    },
+    "080201": {
+      "name": "化学",
+      "plan_ID": "529D2CAA06E28EA4E0630B18F80A2723",
+      "school_name": "理学院",
+      "majors": []
+    },
+    "080101": {
+      "name": "数据科学与大数据技术",
+      "plan_ID": "529CD6EA1FC05DC2E0630C18F80A4DB7",
+      "school_name": "理学院",
+      "majors": []
+    },
+    "100101": {
+      "name": "集成电路设计与集成系统",
+      "plan_ID": "524ADE4AE62ED300E0630B18F80A627A",
+      "school_name": "集成电路学院",
+      "majors": []
+    },
+    "050102": {
+      "name": "电子封装技术",
+      "plan_ID": "524ADE4AE5B9D300E0630B18F80A627A",
+      "school_name": "集成电路学院",
+      "majors": []
+    },
+    "020103": {
+      "name": "光电信息科学与工程",
+      "plan_ID": "523D01EAEC779526E0630B18F80AF189",
+      "school_name": "信息科学与技术学院",
+      "majors": []
+    },
+    "020101": {
+      "name": "通信工程",
+      "plan_ID": "523CEA61BD169524E0630B18F80A2BD7",
+      "school_name": "信息科学与技术学院",
+      "majors": []
+    },
+    "010101": {
+      "name": "计算机科学与技术",
+      "plan_ID": "523CEA16A43ECFF1E0630C18F80AA41D",
+      "school_name": "计算机科学与技术学院",
       "majors": []
     },
     "24L01": {
@@ -1029,11 +1516,109 @@
       "school_name": "信息学部",
       "majors": []
     },
+    "060102": {
+      "name": "城乡规划",
+      "plan_ID": "323FCD506B172736E0630B18F80A1A6D",
+      "school_name": "建筑学院",
+      "majors": []
+    },
+    "060101": {
+      "name": "建筑学",
+      "plan_ID": "323FB98C6F2D2C7CE0630B18F80A232E",
+      "school_name": "建筑学院",
+      "majors": []
+    },
     "0103": {
       "name": "人工智能班",
       "plan_ID": "322BAA8E2BE07C64E0630B18F80A9766",
       "school_name": "计算机科学与技术学院",
-      "majors": []
+      "majors": [
+        {
+          "name": "自动化",
+          "major_ID": "030201",
+          "plan_ID": "52B321270B23E690E0630B18F80ABB91"
+        },
+        {
+          "name": "建筑学",
+          "major_ID": "060101",
+          "plan_ID": "323FB98C6F2D2C7CE0630B18F80A232E"
+        },
+        {
+          "name": "化学",
+          "major_ID": "080201",
+          "plan_ID": "529D2CAA06E28EA4E0630B18F80A2723"
+        },
+        {
+          "name": "数据科学与大数据技术",
+          "major_ID": "080101",
+          "plan_ID": "529CD6EA1FC05DC2E0630C18F80A4DB7"
+        },
+        {
+          "name": "通信工程",
+          "major_ID": "020101",
+          "plan_ID": "523CEA61BD169524E0630B18F80A2BD7"
+        },
+        {
+          "name": "城乡规划",
+          "major_ID": "060102",
+          "plan_ID": "323FCD506B172736E0630B18F80A1A6D"
+        },
+        {
+          "name": "计算机科学与技术",
+          "major_ID": "010101",
+          "plan_ID": "523CEA16A43ECFF1E0630C18F80AA41D"
+        },
+        {
+          "name": "环境工程",
+          "major_ID": "040201",
+          "plan_ID": "52F1DCDAE44FB7C9E0630C18F80A0A8E"
+        },
+        {
+          "name": "能源与动力工程",
+          "major_ID": "030401",
+          "plan_ID": "52C9DC0324D87C59E0630B18F80A5296"
+        },
+        {
+          "name": "电子封装技术",
+          "major_ID": "050102",
+          "plan_ID": "524ADE4AE5B9D300E0630B18F80A627A"
+        },
+        {
+          "name": "经济学",
+          "major_ID": "070101",
+          "plan_ID": "52EBD6AD512A84BDE0630C18F80A3169"
+        },
+        {
+          "name": "电气工程及其自动化",
+          "major_ID": "030301",
+          "plan_ID": "1EC44D6CAFF5BEB1E0630C18F80A45FD"
+        },
+        {
+          "name": "材料科学与工程",
+          "major_ID": "050101",
+          "plan_ID": "52F0B5D3C36A7E93E0630C18F80A8C35"
+        },
+        {
+          "name": "光电信息科学与工程",
+          "major_ID": "020103",
+          "plan_ID": "523D01EAEC779526E0630B18F80AF189"
+        },
+        {
+          "name": "土木工程",
+          "major_ID": "040101",
+          "plan_ID": "52EC3809451C4450E0630B18F80AF07B"
+        },
+        {
+          "name": "机器人工程",
+          "major_ID": "030102",
+          "plan_ID": "52C8F77ED67C36D7E0630C18F80AE216"
+        },
+        {
+          "name": "会计学（大数据会计方向）",
+          "major_ID": "070202",
+          "plan_ID": "52EBD6AD528584BDE0630C18F80A3169"
+        }
+      ]
     },
     "24L03": {
       "name": "数字媒体艺术",
@@ -1065,17 +1650,152 @@
       "school_name": "空天科技学院",
       "majors": []
     },
+    "24L02": {
+      "name": "建筑类（智慧人居类）",
+      "plan_ID": "1EC4BB7596F15CA2E0630B18F80A9458",
+      "school_name": "基础学部",
+      "majors": [
+        {
+          "name": "建筑学",
+          "major_ID": "060101",
+          "plan_ID": "323FB98C6F2D2C7CE0630B18F80A232E"
+        },
+        {
+          "name": "城乡规划",
+          "major_ID": "060102",
+          "plan_ID": "323FCD506B172736E0630B18F80A1A6D"
+        }
+      ]
+    },
+    "23L06": {
+      "name": "工科试验班（先进材料类）",
+      "plan_ID": "1EC4B52419CE3D0FE0630C18F80AFCA4",
+      "school_name": "材料科学与工程学院",
+      "majors": [
+        {
+          "name": "材料科学与工程",
+          "major_ID": "050101",
+          "plan_ID": "52F0B5D3C36A7E93E0630C18F80A8C35"
+        }
+      ]
+    },
+    "23L04": {
+      "name": "经济管理试验班",
+      "plan_ID": "1EC4820EA2EE4152E0630C18F80ACFB1",
+      "school_name": "经济管理学院",
+      "majors": [
+        {
+          "name": "经济学",
+          "major_ID": "070101",
+          "plan_ID": "52EBD6AD512A84BDE0630C18F80A3169"
+        },
+        {
+          "name": "会计学（大数据会计方向）",
+          "major_ID": "070202",
+          "plan_ID": "52EBD6AD528584BDE0630C18F80A3169"
+        }
+      ]
+    },
+    "23L09": {
+      "name": "化学",
+      "plan_ID": "1EC473E38D2FA998E0630C18F80AE715",
+      "school_name": "理学院",
+      "majors": [
+        {
+          "name": "化学",
+          "major_ID": "080201",
+          "plan_ID": "529D2CAA06E28EA4E0630B18F80A2723"
+        }
+      ]
+    },
     "24L04": {
       "name": "工科试验班（智慧能源与低空动力）",
       "plan_ID": "1EC44D6CB048BEB1E0630C18F80A45FD",
       "school_name": "机器人与先进制造学院",
       "majors": []
     },
-    "030301": {
-      "name": "电气工程及其自动化",
-      "plan_ID": "1EC44D6CAFF5BEB1E0630C18F80A45FD",
-      "school_name": "机器人与先进制造学院",
-      "majors": []
+    "23L03": {
+      "name": "工科试验班（机器人与智能装备）",
+      "plan_ID": "1EC419DA5F148A04E0630B18F80AFC15",
+      "school_name": "智能学部",
+      "majors": [
+        {
+          "name": "自动化",
+          "major_ID": "030201",
+          "plan_ID": "52B321270B23E690E0630B18F80ABB91"
+        },
+        {
+          "name": "机器人工程",
+          "major_ID": "030102",
+          "plan_ID": "52C8F77ED67C36D7E0630C18F80AE216"
+        }
+      ]
+    },
+    "23L01": {
+      "name": "工科试验班（计算机与电子通信）",
+      "plan_ID": "1EC3DE753E5DCF61E0630C18F80A57B9",
+      "school_name": "信息学部",
+      "majors": [
+        {
+          "name": "自动化",
+          "major_ID": "030201",
+          "plan_ID": "52B321270B23E690E0630B18F80ABB91"
+        },
+        {
+          "name": "数据科学与大数据技术",
+          "major_ID": "080101",
+          "plan_ID": "529CD6EA1FC05DC2E0630C18F80A4DB7"
+        },
+        {
+          "name": "通信工程",
+          "major_ID": "020101",
+          "plan_ID": "523CEA61BD169524E0630B18F80A2BD7"
+        },
+        {
+          "name": "计算机科学与技术",
+          "major_ID": "010101",
+          "plan_ID": "523CEA16A43ECFF1E0630C18F80AA41D"
+        },
+        {
+          "name": "电子封装技术",
+          "major_ID": "050102",
+          "plan_ID": "524ADE4AE5B9D300E0630B18F80A627A"
+        },
+        {
+          "name": "电气工程及其自动化",
+          "major_ID": "030301",
+          "plan_ID": "1EC44D6CAFF5BEB1E0630C18F80A45FD"
+        },
+        {
+          "name": "光电信息科学与工程",
+          "major_ID": "020103",
+          "plan_ID": "523D01EAEC779526E0630B18F80AF189"
+        }
+      ]
+    },
+    "23L08": {
+      "name": "工科试验班（生态环境类）",
+      "plan_ID": "1EC3DE753E5ACF61E0630C18F80A57B9",
+      "school_name": "生态环境学院",
+      "majors": [
+        {
+          "name": "环境工程",
+          "major_ID": "040201",
+          "plan_ID": "52F1DCDAE44FB7C9E0630C18F80A0A8E"
+        }
+      ]
+    },
+    "23L07": {
+      "name": "工科试验班（智能土木类）",
+      "plan_ID": "1EC3DD305C4CB28FE0630C18F80ABFAC",
+      "school_name": "智能土木与海洋工程学院",
+      "majors": [
+        {
+          "name": "土木工程",
+          "major_ID": "040101",
+          "plan_ID": "52EC3809451C4450E0630B18F80AF07B"
+        }
+      ]
     },
     "030102F": {
       "name": "机器人工程",
@@ -1121,22 +1841,120 @@
     }
   },
   "2025": {
+    "25L51": {
+      "name": "通信工程（中外合作办学）",
+      "plan_ID": "3C2A991E44AC3CBFE0630C18F80AF9B9",
+      "school_name": "基础学部",
+      "majors": []
+    },
     "23L04": {
       "name": "经济管理试验班",
       "plan_ID": "3C2A7275B2B40A88E0630C18F80A63C5",
       "school_name": "基础学部",
       "majors": []
     },
-    "25L21": {
-      "name": "工科试验班（卓越优才计划）",
-      "plan_ID": "3C2A57135AFD02C6E0630B18F80AFFEB",
+    "25AY05": {
+      "name": "工科试验班（AI加先进技术领军班深圳拔尖班）（预电气）",
+      "plan_ID": "5716C27E0A5C8F62E0630C18F80A4779",
+      "school_name": "机器人与先进制造学院",
+      "majors": []
+    },
+    "25AY01": {
+      "name": "工科试验班（AI加先进技术领军班深圳拔尖班）（预计算机）",
+      "plan_ID": "5716C27E09998F62E0630C18F80A4779",
+      "school_name": "计算机科学与技术学院",
+      "majors": []
+    },
+    "25Y03": {
+      "name": "工科试验班（计算机与电子通信）（预集成）",
+      "plan_ID": "5716C27E08C08F62E0630C18F80A4779",
+      "school_name": "集成电路学院",
+      "majors": []
+    },
+    "25Y05": {
+      "name": "工科试验班（计算机与电子通信）（预电气）",
+      "plan_ID": "5716C27E07E48F62E0630C18F80A4779",
+      "school_name": "机器人与先进制造学院",
+      "majors": []
+    },
+    "25Y04": {
+      "name": "工科试验班（计算机与电子通信）（预自动化）",
+      "plan_ID": "5716C27E070B8F62E0630C18F80A4779",
+      "school_name": "智能科学与工程学院",
+      "majors": []
+    },
+    "25Y02": {
+      "name": "工科试验班（计算机与电子通信）（预通信）",
+      "plan_ID": "5716C27E06328F62E0630C18F80A4779",
+      "school_name": "信息科学与技术学院",
+      "majors": []
+    },
+    "25Y01": {
+      "name": "工科试验班（计算机与电子通信）（预计算机）",
+      "plan_ID": "5716BEF9E7B2B092E0630B18F80A458D",
+      "school_name": "计算机科学与技术学院",
+      "majors": []
+    },
+    "0103": {
+      "name": "人工智能班",
+      "plan_ID": "52ECE7C97E114C42E0630C18F80A029C",
+      "school_name": "计算机科学与技术学院",
+      "majors": [
+        {
+          "name": "建筑学",
+          "major_ID": "060101",
+          "plan_ID": "52B5B5343B667923E0630C18F80A085E"
+        },
+        {
+          "name": "化学",
+          "major_ID": "080201",
+          "plan_ID": "52A03E1041823B3AE0630B18F80A4569"
+        },
+        {
+          "name": "环境工程",
+          "major_ID": "040201",
+          "plan_ID": "52D96BC2A1484371E0630B18F80A7757"
+        },
+        {
+          "name": "能源与动力工程",
+          "major_ID": "030401",
+          "plan_ID": "52B45EE196C0DE2CE0630C18F80A2ED3"
+        },
+        {
+          "name": "材料科学与工程",
+          "major_ID": "050101",
+          "plan_ID": "52D96A27A1812D88E0630B18F80A12FA"
+        }
+      ]
+    },
+    "070401": {
+      "name": "数字经济",
+      "plan_ID": "52D96E48AB6854B7E0630B18F80A35EE",
+      "school_name": "经济管理学院",
+      "majors": []
+    },
+    "25L31": {
+      "name": "工科试验班（卓越联培班）",
+      "plan_ID": "52D82C676890E23CE0630B18F80AAB4F",
       "school_name": "基础学部",
       "majors": []
     },
-    "23L01": {
-      "name": "工科试验班（计算机与电子通信）",
-      "plan_ID": "3C23C88575EDAD44E0630B18F80AA0F2",
-      "school_name": "基础学部",
+    "130508": {
+      "name": "数字媒体艺术",
+      "plan_ID": "52B5B5343C027923E0630C18F80A085E",
+      "school_name": "未来设计学院",
+      "majors": []
+    },
+    "060102S": {
+      "name": "城乡规划",
+      "plan_ID": "52B5B322353E9739E0630B18F80A3B6A",
+      "school_name": "建筑学院",
+      "majors": []
+    },
+    "080401": {
+      "name": "工程力学",
+      "plan_ID": "52A036192AFFCA77E0630B18F80AD8CE",
+      "school_name": "理学院",
       "majors": []
     },
     "030202": {
@@ -1211,15 +2029,48 @@
       "school_name": "经济管理学院",
       "majors": []
     },
-    "25L51": {
-      "name": "通信工程（中外合作办学）",
-      "plan_ID": "3C2A991E44AC3CBFE0630C18F80AF9B9",
-      "school_name": "基础学部",
-      "majors": []
-    },
     "0601": {
       "name": "建筑类",
       "plan_ID": "3C2A8AAD126EA0A2E0630B18F80ACCE6",
+      "school_name": "基础学部",
+      "majors": [
+        {
+          "name": "建筑学",
+          "major_ID": "060101",
+          "plan_ID": "52B5B5343B667923E0630C18F80A085E"
+        }
+      ]
+    },
+    "25L21": {
+      "name": "工科试验班（卓越优才计划）",
+      "plan_ID": "3C2A57135AFD02C6E0630B18F80AFFEB",
+      "school_name": "基础学部",
+      "majors": [
+        {
+          "name": "化学",
+          "major_ID": "080201",
+          "plan_ID": "52A03E1041823B3AE0630B18F80A4569"
+        },
+        {
+          "name": "环境工程",
+          "major_ID": "040201",
+          "plan_ID": "52D96BC2A1484371E0630B18F80A7757"
+        },
+        {
+          "name": "能源与动力工程",
+          "major_ID": "030401",
+          "plan_ID": "52B45EE196C0DE2CE0630C18F80A2ED3"
+        },
+        {
+          "name": "材料科学与工程",
+          "major_ID": "050101",
+          "plan_ID": "52D96A27A1812D88E0630B18F80A12FA"
+        }
+      ]
+    },
+    "23L01": {
+      "name": "工科试验班（计算机与电子通信）",
+      "plan_ID": "3C23C88575EDAD44E0630B18F80AA0F2",
       "school_name": "基础学部",
       "majors": []
     }

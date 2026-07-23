@@ -1,11 +1,11 @@
 [info]
-year = "2023"
-parent_major_code = "23L04"
-parent_major_name = "经济管理试验班"
 major_code = "070101"
 major_name = "经济学"
-school_name = "经济管理学院"
+parent_major_code = "23L04"
+parent_major_name = "经济管理试验班"
 plan_ID = "315EB3BE24B21199E0630B18F80A2724"
+school_name = "经济管理学院"
+year = "2023"
 
 [[courses]]
 course_code = "COMP1009"
@@ -195,7 +195,7 @@ course_name = "悦己人生—大学生心理健康"
 recommended_year_semester = "第一学年秋季"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "大学生心理健康教育与咨询中心"
+offering_college = "大学生心理健康教育与发展中心"
 total_hours = 32
 
 [courses.hours]
@@ -737,7 +737,7 @@ assessment_method = "考查"
 course_name = "写作与沟通"
 recommended_year_semester = "第二学年春季"
 course_nature = "必修"
-course_category = "世界文明与对话"
+course_category = "其他"
 offering_college = "人文与社会科学学院"
 total_hours = 24
 
@@ -1136,29 +1136,10 @@ exercise = 0
 computer = 0
 tutoring = 0
 [[courses]]
-course_code = "ECON3033"
+course_code = "ECON3008"
 credit = 2.0
 assessment_method = "考查"
-course_name = "信息经济学"
-recommended_year_semester = "第四学年秋季"
-track = "专业方向选修课"
-course_nature = "选修"
-course_category = "其他"
-offering_college = "经济管理学院"
-total_hours = 32
-
-[courses.hours]
-theory = 32
-lab = 0
-practice = 0
-exercise = 0
-computer = 0
-tutoring = 0
-[[courses]]
-course_code = "ECON3301"
-credit = 2.0
-assessment_method = "考查"
-course_name = "环境经济学"
+course_name = "公共经济学"
 recommended_year_semester = "第四学年秋季"
 track = "专业方向选修课"
 course_nature = "选修"

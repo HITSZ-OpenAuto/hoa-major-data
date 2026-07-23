@@ -1,9 +1,9 @@
 [info]
-year = "2025"
 major_code = "25L51"
 major_name = "通信工程（中外合作办学）"
-school_name = "基础学部"
 plan_ID = "3C2A991E44AC3CBFE0630C18F80AF9B9"
+school_name = "基础学部"
+year = "2025"
 
 [[courses]]
 course_code = "GEIP1014"
@@ -175,7 +175,7 @@ course_name = "悦己人生—大学生心理健康"
 recommended_year_semester = "第一学年秋季"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "大学生心理健康教育与咨询中心"
+offering_college = "大学生心理健康教育与发展中心"
 total_hours = 32
 
 [courses.hours]
@@ -379,6 +379,186 @@ total_hours = 24
 [courses.hours]
 theory = 2
 lab = 22
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ELEC1102"
+credit = 2.0
+assessment_method = "考查"
+course_name = "产业实践"
+recommended_year_semester = "第一学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "信息科学与技术学院"
+total_hours = 0
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 2
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ELEC2103K"
+credit = 3.0
+assessment_method = "考试"
+course_name = "电路理论1"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "信息科学与技术学院"
+total_hours = 48
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 16
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ELEC2108K"
+credit = 3.0
+assessment_method = "考查"
+course_name = "工程数学"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "信息科学与技术学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1011"
+credit = 3.0
+assessment_method = "考试"
+course_name = "马克思主义基本原理"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG1008"
+credit = 1.0
+assessment_method = "考查"
+course_name = "大学英语C"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "外语系"
+total_hours = 24
+
+[courses.hours]
+theory = 24
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH1005K"
+credit = 2.5
+assessment_method = "考查"
+course_name = "复变函数与积分变换"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "信息科学与技术学院"
+total_hours = 40
+
+[courses.hours]
+theory = 28
+lab = 12
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1002C"
+credit = 0.5
+assessment_method = "考查"
+course_name = "体育C"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 16
+[[courses]]
+course_code = "PHYS1005B"
+credit = 4.0
+assessment_method = "考试"
+course_name = "大学物理XB"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 64
+
+[courses.hours]
+theory = 64
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHYS1006B"
+credit = 1.0
+assessment_method = "考查"
+course_name = "大学物理实验B"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 24
+
+[courses.hours]
+theory = 0
+lab = 24
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "WRIT0001"
+credit = 1.0
+assessment_method = "考查"
+course_name = "写作与沟通"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文艺术学系"
+total_hours = 24
+
+[courses.hours]
+theory = 24
+lab = 0
 practice = 0
 exercise = 0
 computer = 0

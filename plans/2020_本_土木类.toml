@@ -1,0 +1,1390 @@
+[info]
+major_code = "0401"
+major_name = "土木类"
+plan_ID = "A20CCFBF617FED43E0530B18F80A25D4"
+school_name = "智能土木与海洋工程学院"
+year = "2020"
+
+[[courses]]
+course_code = "CIVL2001"
+credit = 1.0
+assessment_method = "考查"
+course_name = "土木工程专业导论"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1007"
+credit = 2.0
+assessment_method = "考查"
+course_name = "思想道德修养与法律基础"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1012"
+credit = 1.0
+assessment_method = "考查"
+course_name = "思想道德修养与法律基础实践课"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 16
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG1002"
+credit = 2.0
+assessment_method = "考查"
+course_name = "英语听说"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文与社会科学学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG1003"
+credit = 2.0
+assessment_method = "考查"
+course_name = "大学语文"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文与社会科学学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH1001A"
+credit = 5.0
+assessment_method = "考试"
+course_name = "高等数学A"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 80
+
+[courses.hours]
+theory = 80
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH1002"
+credit = 4.0
+assessment_method = "考试"
+course_name = "代数与几何"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 64
+
+[courses.hours]
+theory = 64
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MECH1003"
+credit = 3.0
+assessment_method = "考试"
+course_name = "工程制图基础"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 48
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 16
+tutoring = 0
+[[courses]]
+course_code = "MILT1002"
+credit = 2.0
+assessment_method = "考查"
+course_name = "军事理论"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）（基础学部）｜团委｜武装部"
+total_hours = 36
+
+[courses.hours]
+theory = 36
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MILT1003"
+credit = 2.0
+assessment_method = "考查"
+course_name = "军事技能"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）（基础学部）｜团委｜武装部"
+total_hours = 0
+
+[courses.hours]
+theory = 80
+lab = 0
+practice = 2
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1001A"
+credit = 1.0
+assessment_method = "考查"
+course_name = "体育A"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "人文与社会科学学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL1003"
+credit = 2.0
+assessment_method = "考试"
+course_name = "工程计算机程序设计"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+
+[courses.hours]
+theory = 24
+lab = 0
+practice = 0
+exercise = 0
+computer = 8
+tutoring = 0
+[[courses]]
+course_code = "COMP1001"
+credit = 2.0
+assessment_method = "考查"
+course_name = "大学计算机I"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EMEC1002"
+credit = 4.0
+assessment_method = "考试"
+course_name = "理论力学II"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 64
+
+[courses.hours]
+theory = 64
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EMEC1004"
+credit = 0.5
+assessment_method = "考查"
+course_name = "工程力学实验（理力）"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 8
+
+[courses.hours]
+theory = 0
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1008"
+credit = 3.0
+assessment_method = "考试"
+course_name = "中国近现代史纲要"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG1001"
+credit = 2.0
+assessment_method = "考查"
+course_name = "英语读写"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "英语"
+offering_college = "人文与社会科学学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH1001B"
+credit = 5.0
+assessment_method = "考试"
+course_name = "高等数学B"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 80
+
+[courses.hours]
+theory = 80
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1001B"
+credit = 1.0
+assessment_method = "考查"
+course_name = "体育B"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "人文与社会科学学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHYS1003"
+credit = 4.0
+assessment_method = "考试"
+course_name = "大学物理II"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 64
+
+[courses.hours]
+theory = 64
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL2002"
+credit = 1.0
+assessment_method = "考查"
+course_name = "认识实习"
+recommended_year_semester = "第一学年春季,第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 40
+
+[courses.hours]
+theory = 40
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CHEM1001"
+credit = 3.0
+assessment_method = "考试"
+course_name = "大学化学"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 48
+
+[courses.hours]
+theory = 32
+lab = 16
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL2003"
+credit = 3.0
+assessment_method = "考试"
+course_name = "房屋建筑学"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL2004"
+credit = 1.5
+assessment_method = "考查"
+course_name = "房屋建筑学课程设计"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "建筑学院"
+total_hours = 0
+
+[courses.hours]
+theory = 60
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EMEC1005"
+credit = 4.5
+assessment_method = "考试"
+course_name = "材料力学I"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 72
+
+[courses.hours]
+theory = 72
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EMEC1007"
+credit = 0.5
+assessment_method = "考查"
+course_name = "工程力学实验（材力）"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 12
+
+[courses.hours]
+theory = 0
+lab = 12
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1011"
+credit = 3.0
+assessment_method = "考试"
+course_name = "马克思主义基本原理"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH1004"
+credit = 2.5
+assessment_method = "考试"
+course_name = "概率论与数理统计"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1001C"
+credit = 1.0
+assessment_method = "考查"
+course_name = "体育C"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "人文与社会科学学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHYS1004"
+credit = 1.0
+assessment_method = "考查"
+course_name = "大学物理实验II"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 27
+
+[courses.hours]
+theory = 3
+lab = 24
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL1001"
+credit = 2.5
+assessment_method = "考查"
+course_name = "工程测量"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 40
+
+[courses.hours]
+theory = 30
+lab = 10
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL2005A"
+credit = 4.0
+assessment_method = "考试"
+course_name = "结构力学IA"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 64
+
+[courses.hours]
+theory = 64
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL2006"
+credit = 3.0
+assessment_method = "考试"
+course_name = "土木工程材料"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 48
+
+[courses.hours]
+theory = 40
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL2007"
+credit = 1.5
+assessment_method = "考试"
+course_name = "荷载与结构设计方法"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 24
+
+[courses.hours]
+theory = 24
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3005"
+credit = 2.0
+assessment_method = "考试"
+course_name = "工程地质"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+
+[courses.hours]
+theory = 28
+lab = 4
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3033"
+credit = 2.0
+assessment_method = "考试"
+course_name = "工程流体力学"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+
+[courses.hours]
+theory = 28
+lab = 4
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1003"
+credit = 4.0
+assessment_method = "考试"
+course_name = "毛泽东思想和中国特色社会主义理论体系概论"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 64
+
+[courses.hours]
+theory = 64
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1013"
+credit = 1.0
+assessment_method = "考查"
+course_name = "毛泽东思想和中国特色社会主义理论体系概论实践课"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）（基础学部）｜团委｜武装部"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 16
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1001D"
+credit = 1.0
+assessment_method = "考查"
+course_name = "体育D"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "人文与社会科学学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL1002"
+credit = 2.0
+assessment_method = "考查"
+course_name = "测量实习"
+recommended_year_semester = "第二学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 0
+
+[courses.hours]
+theory = 80
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL2005B"
+credit = 3.0
+assessment_method = "考试"
+course_name = "结构力学IB"
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3001"
+credit = 3.0
+assessment_method = "考试"
+course_name = "弹性力学与有限元法"
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3003"
+credit = 3.5
+assessment_method = "考试"
+course_name = "混凝土结构基本原理"
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 56
+
+[courses.hours]
+theory = 52
+lab = 4
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3004"
+credit = 1.5
+assessment_method = "考查"
+course_name = "混凝土结构课程设计"
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 0
+
+[courses.hours]
+theory = 60
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3006A"
+credit = 2.5
+assessment_method = "考试"
+course_name = "土力学与基础工程A"
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 40
+
+[courses.hours]
+theory = 32
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3021"
+credit = 2.0
+assessment_method = "考查"
+course_name = "智能材料与结构"
+recommended_year_semester = "第三学年秋季"
+track = "专业选修课"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3024"
+credit = 2.0
+assessment_method = "考查"
+course_name = "桥梁工程概论"
+recommended_year_semester = "第三学年秋季,第四学年秋季"
+track = "专业选修课"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+
+[courses.hours]
+theory = 30
+lab = 0
+practice = 0
+exercise = 0
+computer = 2
+tutoring = 0
+[[courses]]
+course_code = "CIVL3006B"
+credit = 2.0
+assessment_method = "考试"
+course_name = "土力学与基础工程B"
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+
+[courses.hours]
+theory = 26
+lab = 4
+practice = 0
+exercise = 0
+computer = 2
+tutoring = 0
+[[courses]]
+course_code = "CIVL3008"
+credit = 4.0
+assessment_method = "考试"
+course_name = "钢结构基本原理及设计"
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 64
+
+[courses.hours]
+theory = 64
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3009"
+credit = 3.0
+assessment_method = "考试"
+course_name = "土木工程施工技术"
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3010"
+credit = 2.5
+assessment_method = "考试"
+course_name = "混凝土与砌体结构设计"
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 40
+
+[courses.hours]
+theory = 40
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3011"
+credit = 1.5
+assessment_method = "考查"
+course_name = "混凝土与砌体结构课程设计"
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 0
+
+[courses.hours]
+theory = 60
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3013"
+credit = 1.5
+assessment_method = "考查"
+course_name = "钢结构课程设计"
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 0
+
+[courses.hours]
+theory = 60
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3031"
+credit = 2.0
+assessment_method = "考试"
+course_name = "工程结构抗震"
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1010"
+credit = 2.0
+assessment_method = "考查"
+course_name = "形势与政策"
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3007"
+credit = 1.0
+assessment_method = "考查"
+course_name = "基础工程课程设计"
+recommended_year_semester = "第三学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 0
+
+[courses.hours]
+theory = 40
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3012"
+credit = 3.0
+assessment_method = "考查"
+course_name = "生产实习"
+recommended_year_semester = "第三学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 0
+
+[courses.hours]
+theory = 120
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3002"
+credit = 2.0
+assessment_method = "考试"
+course_name = "工程结构试验"
+recommended_year_semester = "第四学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+
+[courses.hours]
+theory = 24
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3015"
+credit = 2.0
+assessment_method = "考试"
+course_name = "工程项目管理"
+recommended_year_semester = "第四学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3016"
+credit = 1.0
+assessment_method = "考查"
+course_name = "工程项目管理课程设计"
+recommended_year_semester = "第四学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 0
+
+[courses.hours]
+theory = 40
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3017"
+credit = 2.0
+assessment_method = "考查"
+course_name = "结构概念与体系"
+recommended_year_semester = "第四学年秋季"
+track = "专业选修课"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3018"
+credit = 2.0
+assessment_method = "考查"
+course_name = "城市地下空间开发"
+recommended_year_semester = "第四学年秋季"
+track = "专业选修课"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+
+[courses.hours]
+theory = 28
+lab = 4
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3020"
+credit = 1.5
+assessment_method = "考查"
+course_name = "结构健康监测"
+recommended_year_semester = "第四学年秋季"
+track = "专业选修课"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 24
+
+[courses.hours]
+theory = 24
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3022"
+credit = 2.0
+assessment_method = "考查"
+course_name = "大跨空间结构"
+recommended_year_semester = "第四学年秋季"
+track = "专业选修课"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3023"
+credit = 2.0
+assessment_method = "考查"
+course_name = "组合结构"
+recommended_year_semester = "第四学年秋季"
+track = "专业选修课"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3025"
+credit = 2.0
+assessment_method = "考查"
+course_name = "地基处理"
+recommended_year_semester = "第四学年秋季"
+track = "专业选修课"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+
+[courses.hours]
+theory = 28
+lab = 4
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3026"
+credit = 2.0
+assessment_method = "考查"
+course_name = "钢结构稳定理论"
+recommended_year_semester = "第四学年秋季"
+track = "专业选修课"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3027"
+credit = 1.5
+assessment_method = "考查"
+course_name = "结构振动控制"
+recommended_year_semester = "第四学年秋季"
+track = "专业选修课"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 24
+
+[courses.hours]
+theory = 24
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3028"
+credit = 2.0
+assessment_method = "考查"
+course_name = "模态分析与测试"
+recommended_year_semester = "第四学年秋季"
+track = "专业选修课"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+
+[courses.hours]
+theory = 24
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3029"
+credit = 0.5
+assessment_method = "考查"
+course_name = "交流专家专题课程"
+recommended_year_semester = "第四学年秋季"
+track = "专业选修课"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 8
+
+[courses.hours]
+theory = 8
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3032"
+credit = 2.0
+assessment_method = "考试"
+course_name = "高层建筑结构"
+recommended_year_semester = "第四学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3034"
+credit = 1.0
+assessment_method = "考查"
+course_name = "钢结构稳定原理"
+recommended_year_semester = "第四学年秋季"
+track = "专业选修课"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3030"
+credit = 2.0
+assessment_method = "考查"
+course_name = "土木工程复合材料"
+recommended_year_semester = "第四学年秋季,第三学年秋季"
+track = "专业选修课"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3098"
+credit = 2.0
+assessment_method = "考查"
+course_name = "毕业实习"
+recommended_year_semester = "第四学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 0
+
+[courses.hours]
+theory = 80
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3099"
+credit = 10.0
+assessment_method = "考查"
+course_name = "毕业设计（论文）"
+recommended_year_semester = "第四学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 0
+
+[courses.hours]
+theory = 560
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL3019"
+credit = 2.0
+assessment_method = "考查"
+course_name = "土木结构抗风设计"
+recommended_year_semester = "第四学年春季,第三学年春季"
+track = "专业选修课"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0

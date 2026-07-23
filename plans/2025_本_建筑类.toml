@@ -1,9 +1,9 @@
 [info]
-year = "2025"
 major_code = "0601"
 major_name = "建筑类"
-school_name = "基础学部"
 plan_ID = "3C2A8AAD126EA0A2E0630B18F80ACCE6"
+school_name = "基础学部"
+year = "2025"
 
 [[courses]]
 course_code = "ARCH2111"
@@ -247,7 +247,7 @@ course_name = "悦己人生—大学生心理健康"
 recommended_year_semester = "第一学年秋季"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "大学生心理健康教育与咨询中心"
+offering_college = "大学生心理健康教育与发展中心"
 total_hours = 32
 
 [courses.hours]
@@ -510,6 +510,24 @@ total_hours = 32
 theory = 32
 lab = 0
 practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "DMAM1006"
+credit = 2.0
+assessment_method = "考查"
+course_name = "专业认知实践"
+recommended_year_semester = "第一学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "未来设计学院"
+total_hours = 0
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 2
 exercise = 0
 computer = 0
 tutoring = 0

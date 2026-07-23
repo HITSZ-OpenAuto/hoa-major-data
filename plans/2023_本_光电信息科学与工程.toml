@@ -1,11 +1,11 @@
 [info]
-year = "2023"
-parent_major_code = "23L01"
-parent_major_name = "工科试验班（计算机与电子通信）"
 major_code = "020103"
 major_name = "光电信息科学与工程"
-school_name = "基础学部"
+parent_major_code = "23L01"
+parent_major_name = "工科试验班（计算机与电子通信）"
 plan_ID = "314E30153E394E98E0630C18F80A0F86"
+school_name = "基础学部"
+year = "2023"
 
 [[courses]]
 course_code = "COMP2021"
@@ -195,7 +195,7 @@ course_name = "悦己人生—大学生心理健康"
 recommended_year_semester = "第一学年秋季"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "大学生心理健康教育与咨询中心"
+offering_college = "大学生心理健康教育与发展中心"
 total_hours = 32
 
 [courses.hours]
@@ -867,7 +867,7 @@ assessment_method = "考查"
 course_name = "写作与沟通"
 recommended_year_semester = "第二学年春季"
 course_nature = "必修"
-course_category = "世界文明与对话"
+course_category = "其他"
 offering_college = "人文与社会科学学院"
 total_hours = 24
 
@@ -1029,6 +1029,7 @@ credit = 2.0
 assessment_method = "考查"
 course_name = "量子力学"
 recommended_year_semester = "第三学年秋季,第三学年春季"
+track = "专业方向选修课（含研究生课程）"
 course_nature = "选修"
 course_category = "其他"
 offering_college = "信息科学与技术学院"
@@ -1239,27 +1240,8 @@ offering_college = "信息科学与技术学院"
 total_hours = 32
 
 [courses.hours]
-theory = 32
-lab = 0
-practice = 0
-exercise = 0
-computer = 0
-tutoring = 0
-[[courses]]
-course_code = "ELEC3054"
-credit = 2.0
-assessment_method = "考查"
-course_name = "集成光学"
-recommended_year_semester = "第四学年秋季"
-track = "专业方向选修课（含研究生课程）"
-course_nature = "选修"
-course_category = "其他"
-offering_college = "信息科学与技术学院"
-total_hours = 32
-
-[courses.hours]
-theory = 24
-lab = 8
+theory = 16
+lab = 16
 practice = 0
 exercise = 0
 computer = 0

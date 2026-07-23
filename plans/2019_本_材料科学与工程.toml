@@ -1,11 +1,11 @@
 [info]
-year = "2019"
-parent_major_code = "0501"
-parent_major_name = "材料类"
 major_code = "050101"
 major_name = "材料科学与工程"
-school_name = "材料科学与工程学院"
+parent_major_code = "0501"
+parent_major_name = "材料类"
 plan_ID = "BEB8EEB58EEB06BFE0530C18F80A19DC"
+school_name = "材料科学与工程学院"
+year = "2019"
 
 [[courses]]
 course_code = "GEIP1007"

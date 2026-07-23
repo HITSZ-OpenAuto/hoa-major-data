@@ -1,11 +1,11 @@
 [info]
-year = "2022"
-parent_major_code = "0702"
-parent_major_name = "工商管理类"
 major_code = "070202"
 major_name = "会计学（大数据会计方向）"
-school_name = "经济管理学院"
+parent_major_code = "0702"
+parent_major_name = "工商管理类"
 plan_ID = "16E7A2E2673A1D17E0630B18F80A1F1D"
+school_name = "经济管理学院"
+year = "2022"
 
 [[courses]]
 course_code = "ACCT2001"
@@ -1167,10 +1167,10 @@ recommended_year_semester = "第四学年春季"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "经济管理学院"
-total_hours = 880
+total_hours = 0
 
 [courses.hours]
-theory = 480
+theory = 0
 lab = 0
 practice = 10
 exercise = 0

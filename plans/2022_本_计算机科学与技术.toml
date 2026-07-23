@@ -1,11 +1,11 @@
 [info]
-year = "2022"
-parent_major_code = "0101"
-parent_major_name = "计算机类"
 major_code = "010101"
 major_name = "计算机科学与技术"
-school_name = "计算机科学与技术学院"
+parent_major_code = "0101"
+parent_major_name = "计算机类"
 plan_ID = "16D472045E0F56BEE0630B18F80AF90B"
+school_name = "计算机科学与技术学院"
+year = "2022"
 
 [[courses]]
 course_code = "COMP2001"

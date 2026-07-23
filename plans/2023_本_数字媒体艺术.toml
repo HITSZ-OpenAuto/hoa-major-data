@@ -1,9 +1,9 @@
 [info]
-year = "2023"
 major_code = "130508"
 major_name = "数字媒体艺术"
-school_name = "国际设计学院"
 plan_ID = "038EDA212FB643EAE0630C18F80A8E14"
+school_name = "未来设计学院"
+year = "2023"
 
 [[courses]]
 course_code = "GEIP1014"
@@ -147,7 +147,7 @@ recommended_year_semester = "第一学年秋季"
 track = "公共基础课程-心理健康教育"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "大学生心理健康教育与咨询中心"
+offering_college = "大学生心理健康教育与发展中心"
 total_hours = 32
 
 [courses.hours]
@@ -166,7 +166,7 @@ recommended_year_semester = "第一学年秋季"
 track = "大类平台课程-专业集群基础课程"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "国际设计学院"
+offering_college = "未来设计学院"
 total_hours = 96
 
 [courses.hours]
@@ -280,7 +280,7 @@ recommended_year_semester = "第一学年春季"
 track = "大类平台课程-专业集群基础课程"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "国际设计学院"
+offering_college = "未来设计学院"
 total_hours = 24
 
 [courses.hours]
@@ -299,7 +299,7 @@ recommended_year_semester = "第一学年春季"
 track = "大类平台课程-专业集群基础课程"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "国际设计学院"
+offering_college = "未来设计学院"
 total_hours = 40
 
 [courses.hours]
@@ -318,7 +318,7 @@ recommended_year_semester = "第一学年春季"
 track = "大类平台课程-专业集群基础课程"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "国际设计学院"
+offering_college = "未来设计学院"
 total_hours = 64
 
 [courses.hours]
@@ -337,7 +337,7 @@ recommended_year_semester = "第一学年春季"
 track = "公共基础课程-信息科学基础"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "国际设计学院"
+offering_college = "未来设计学院"
 total_hours = 32
 
 [courses.hours]
@@ -356,7 +356,7 @@ recommended_year_semester = "第一学年春季"
 track = "大类平台课程-专业集群基础课程"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "国际设计学院"
+offering_college = "未来设计学院"
 total_hours = 40
 
 [courses.hours]
@@ -375,7 +375,7 @@ recommended_year_semester = "第一学年春季"
 track = "大类平台课程-专业集群基础课程"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "国际设计学院"
+offering_college = "未来设计学院"
 total_hours = 32
 
 [courses.hours]
@@ -432,7 +432,7 @@ recommended_year_semester = "第二学年秋季"
 track = "大类平台课程-大类专业基础课程"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "国际设计学院"
+offering_college = "未来设计学院"
 total_hours = 32
 
 [courses.hours]
@@ -451,7 +451,7 @@ recommended_year_semester = "第二学年秋季"
 track = "大类平台课程-大类专业基础课程"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "国际设计学院"
+offering_college = "未来设计学院"
 total_hours = 32
 
 [courses.hours]
@@ -470,7 +470,7 @@ recommended_year_semester = "第二学年秋季"
 track = "大类平台课程-大类专业基础课程"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "国际设计学院"
+offering_college = "未来设计学院"
 total_hours = 32
 
 [courses.hours]
@@ -489,7 +489,7 @@ recommended_year_semester = "第二学年秋季"
 track = "大类平台课程-大类专业基础课程"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "国际设计学院"
+offering_college = "未来设计学院"
 total_hours = 48
 
 [courses.hours]
@@ -508,7 +508,7 @@ recommended_year_semester = "第二学年秋季"
 track = "大类平台课程-大类专业基础课程"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "国际设计学院"
+offering_college = "未来设计学院"
 total_hours = 32
 
 [courses.hours]
@@ -584,7 +584,7 @@ recommended_year_semester = "第二学年春季"
 track = "专业方向课程-专业方向核心课程"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "国际设计学院"
+offering_college = "未来设计学院"
 total_hours = 32
 
 [courses.hours]
@@ -603,7 +603,7 @@ recommended_year_semester = "第二学年春季"
 track = "专业方向课程-专业方向核心课程"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "国际设计学院"
+offering_college = "未来设计学院"
 total_hours = 32
 
 [courses.hours]
@@ -622,7 +622,7 @@ recommended_year_semester = "第二学年春季"
 track = "专业方向课程-专业方向核心课程"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "国际设计学院"
+offering_college = "未来设计学院"
 total_hours = 32
 
 [courses.hours]
@@ -641,7 +641,7 @@ recommended_year_semester = "第二学年春季"
 track = "专业方向课程-专业方向核心课程"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "国际设计学院"
+offering_college = "未来设计学院"
 total_hours = 32
 
 [courses.hours]
@@ -660,7 +660,7 @@ recommended_year_semester = "第二学年春季"
 track = "专业方向课程-专业方向核心课程"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "国际设计学院"
+offering_college = "未来设计学院"
 total_hours = 32
 
 [courses.hours]
@@ -735,7 +735,7 @@ course_name = "写作与沟通"
 recommended_year_semester = "第二学年春季"
 track = "公共基础课程-写作与沟通"
 course_nature = "必修"
-course_category = "世界文明与对话"
+course_category = "其他"
 offering_college = "人文与社会科学学院"
 total_hours = 24
 
@@ -755,7 +755,7 @@ recommended_year_semester = "第二学年夏季"
 track = "专业方向课程-专业方向核心课程"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "国际设计学院"
+offering_college = "未来设计学院"
 total_hours = 40
 
 [courses.hours]
@@ -774,7 +774,7 @@ recommended_year_semester = "第二学年夏季"
 track = "专业方向课程-专业方向核心课程"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "国际设计学院"
+offering_college = "未来设计学院"
 total_hours = 40
 
 [courses.hours]
@@ -793,7 +793,7 @@ recommended_year_semester = "第二学年夏季"
 track = "专业方向课程-专业方向核心课程"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "国际设计学院"
+offering_college = "未来设计学院"
 total_hours = 40
 
 [courses.hours]
@@ -1126,6 +1126,24 @@ exercise = 0
 computer = 0
 tutoring = 0
 [[courses]]
+course_code = "DMAM3022"
+credit = 2.0
+assessment_method = "考查"
+course_name = "AIGC大模型技术原理与创意设计实践"
+recommended_year_semester = "第三学年春季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "国际设计学院"
+total_hours = 32
+
+[courses.hours]
+theory = 16
+lab = 16
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
 course_code = "GEIP1019-3"
 credit = 0.5
 assessment_method = "考查"
@@ -1179,24 +1197,6 @@ total_hours = 160
 theory = 0
 lab = 0
 practice = 4
-exercise = 0
-computer = 0
-tutoring = 0
-[[courses]]
-course_code = "ARCH5107"
-credit = 2.0
-assessment_method = "考查"
-course_name = "概念性结构设计"
-recommended_year_semester = "第四学年秋季"
-track = "专业方向课程-专业方向选修课程"
-course_nature = "选修"
-offering_college = "建筑学院"
-total_hours = 32
-
-[courses.hours]
-theory = 32
-lab = 0
-practice = 0
 exercise = 0
 computer = 0
 tutoring = 0

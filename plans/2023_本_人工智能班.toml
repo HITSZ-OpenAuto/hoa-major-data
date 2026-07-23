@@ -1,9 +1,9 @@
 [info]
-year = "2023"
 major_code = "0103"
 major_name = "人工智能班"
-school_name = "计算机科学与技术学院"
 plan_ID = "17D93F89463DEB95E0630C18F80A842E"
+school_name = "计算机科学与技术学院"
+year = "2023"
 
 [[courses]]
 course_code = "AISZ1005"
@@ -356,7 +356,7 @@ assessment_method = "考查"
 course_name = "写作与沟通"
 recommended_year_semester = "第二学年春季"
 course_nature = "必修"
-course_category = "世界文明与对话"
+course_category = "其他"
 offering_college = "人文与社会科学学院"
 total_hours = 24
 
@@ -650,7 +650,7 @@ tutoring = 0
 [[courses]]
 course_code = "COMP3001"
 credit = 4.0
-assessment_method = "考试"
+assessment_method = "考查"
 course_name = "操作系统"
 recommended_year_semester = "第三学年春季"
 track = "方向选修课-计算机科学与技术方向"
@@ -816,24 +816,6 @@ practice = 0
 exercise = 0
 computer = 0
 tutoring = 16
-[[courses]]
-course_code = "AISZ2008"
-credit = 2.0
-assessment_method = "考查"
-course_name = "产业创新实习"
-recommended_year_semester = "第三学年夏季"
-course_nature = "必修"
-course_category = "其他"
-offering_college = "计算机科学与技术学院"
-total_hours = 80
-
-[courses.hours]
-theory = 0
-lab = 0
-practice = 2
-exercise = 0
-computer = 0
-tutoring = 0
 [[courses]]
 course_code = "AISZ3099"
 credit = 8.0

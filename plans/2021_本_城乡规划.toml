@@ -1,9 +1,9 @@
 [info]
-year = "2021"
 major_code = "060102"
 major_name = "城乡规划"
-school_name = "建筑学院"
 plan_ID = "DC58F2A2EAEB4EB2E0530C18F80AACB9"
+school_name = "建筑学院"
+year = "2021"
 
 [[courses]]
 course_code = "ARCH2101"

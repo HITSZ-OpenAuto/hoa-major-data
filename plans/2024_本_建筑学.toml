@@ -1,11 +1,11 @@
 [info]
-year = "2024"
-parent_major_code = "24L02"
-parent_major_name = "建筑类（智慧人居类）"
 major_code = "060101"
 major_name = "建筑学"
-school_name = "基础学部"
+parent_major_code = "24L02"
+parent_major_name = "建筑类（智慧人居类）"
 plan_ID = "323FB98C6F2D2C7CE0630B18F80A232E"
+school_name = "基础学部"
+year = "2024"
 
 [[courses]]
 course_code = "ARCH2111"
@@ -231,7 +231,7 @@ course_name = "悦己人生—大学生心理健康"
 recommended_year_semester = "第一学年秋季"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "大学生心理健康教育与咨询中心"
+offering_college = "大学生心理健康教育与发展中心"
 total_hours = 32
 
 [courses.hours]

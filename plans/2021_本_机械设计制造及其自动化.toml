@@ -1,11 +1,11 @@
 [info]
-year = "2021"
-parent_major_code = "0301"
-parent_major_name = "机械类"
 major_code = "030101"
 major_name = "机械设计制造及其自动化"
-school_name = "机器人与先进制造学院"
+parent_major_code = "0301"
+parent_major_name = "机械类"
 plan_ID = "BEBD48B900D38C63E0530B18F80A75FD"
+school_name = "机器人与先进制造学院"
+year = "2021"
 
 [[courses]]
 course_code = "CHEM1001"

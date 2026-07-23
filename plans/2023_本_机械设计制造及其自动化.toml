@@ -1,11 +1,11 @@
 [info]
-year = "2023"
-parent_major_code = "23L03"
-parent_major_name = "工科试验班（机器人与智能装备）"
 major_code = "030101"
 major_name = "机械设计制造及其自动化"
-school_name = "机器人与先进制造学院"
+parent_major_code = "0103"
+parent_major_name = "人工智能班"
 plan_ID = "3163150628C6A349E0630B18F80A357F"
+school_name = "计算机科学与技术学院"
+year = "2023"
 
 [[courses]]
 course_code = "CHEM1007"
@@ -231,7 +231,7 @@ course_name = "悦己人生—大学生心理健康"
 recommended_year_semester = "第一学年秋季"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "大学生心理健康教育与咨询中心"
+offering_college = "大学生心理健康教育与发展中心"
 total_hours = 32
 
 [courses.hours]
@@ -608,7 +608,7 @@ assessment_method = "考查"
 course_name = "写作与沟通"
 recommended_year_semester = "第二学年秋季"
 course_nature = "必修"
-course_category = "世界文明与对话"
+course_category = "其他"
 offering_college = "人文与社会科学学院"
 total_hours = 24
 
@@ -881,7 +881,7 @@ credit = 1.0
 assessment_method = "考查"
 course_name = "机电科学与技术前沿"
 recommended_year_semester = "第二学年夏季"
-track = "专业方向选修课"
+track = "专业修读"
 course_nature = "限选"
 course_category = "其他"
 offering_college = "机器人与先进制造学院"
@@ -900,7 +900,7 @@ credit = 1.0
 assessment_method = "考查"
 course_name = "机器人与智能装备的工程化设计"
 recommended_year_semester = "第二学年夏季"
-track = "专业方向选修课"
+track = "专业修读"
 course_nature = "限选"
 course_category = "其他"
 offering_college = "机器人与先进制造学院"
@@ -1261,82 +1261,6 @@ exercise = 0
 computer = 0
 tutoring = 0
 [[courses]]
-course_code = "MECH3048"
-credit = 2.0
-assessment_method = "考查"
-course_name = "制造系统自动化技术"
-recommended_year_semester = "第四学年秋季"
-track = "专业方向选修课"
-course_nature = "限选"
-course_category = "其他"
-offering_college = "机器人与先进制造学院"
-total_hours = 32
-
-[courses.hours]
-theory = 24
-lab = 8
-practice = 0
-exercise = 0
-computer = 0
-tutoring = 0
-[[courses]]
-course_code = "MECH3052"
-credit = 2.0
-assessment_method = "考查"
-course_name = "增材制造装备与应用"
-recommended_year_semester = "第四学年秋季"
-track = "专业方向选修课"
-course_nature = "限选"
-course_category = "其他"
-offering_college = "机器人与先进制造学院"
-total_hours = 32
-
-[courses.hours]
-theory = 32
-lab = 0
-practice = 0
-exercise = 0
-computer = 0
-tutoring = 0
-[[courses]]
-course_code = "MECH3053"
-credit = 2.0
-assessment_method = "考查"
-course_name = "微机械电子系统"
-recommended_year_semester = "第四学年秋季"
-track = "专业方向选修课"
-course_nature = "限选"
-course_category = "其他"
-offering_college = "机器人与先进制造学院"
-total_hours = 32
-
-[courses.hours]
-theory = 32
-lab = 0
-practice = 0
-exercise = 0
-computer = 0
-tutoring = 0
-[[courses]]
-course_code = "MECH3057"
-credit = 2.0
-assessment_method = "考查"
-course_name = "精益生产与管理"
-recommended_year_semester = "第四学年秋季"
-track = "专业方向选修课"
-course_nature = "限选"
-course_category = "其他"
-offering_college = "机器人与先进制造学院"
-total_hours = 32
-
-[courses.hours]
-theory = 32
-lab = 0
-practice = 0
-exercise = 0
-computer = 0
-tutoring = 0
-[[courses]]
 course_code = "MECH3058"
 credit = 2.0
 assessment_method = "考查"
@@ -1369,6 +1293,24 @@ total_hours = 32
 
 [courses.hours]
 theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MECH3099"
+credit = 8.0
+assessment_method = "考查"
+course_name = "毕业论文（设计）"
+recommended_year_semester = "第四学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 0
+
+[courses.hours]
+theory = 600
 lab = 0
 practice = 0
 exercise = 0

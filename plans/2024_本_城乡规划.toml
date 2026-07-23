@@ -1,11 +1,11 @@
 [info]
-year = "2024"
-parent_major_code = "24L02"
-parent_major_name = "建筑类（智慧人居类）"
 major_code = "060102"
 major_name = "城乡规划"
-school_name = "基础学部"
+parent_major_code = "24L02"
+parent_major_name = "建筑类（智慧人居类）"
 plan_ID = "323FCD506B172736E0630B18F80A1A6D"
+school_name = "基础学部"
+year = "2024"
 
 [[courses]]
 course_code = "ARCH2111"
@@ -231,7 +231,7 @@ course_name = "悦己人生—大学生心理健康"
 recommended_year_semester = "第一学年秋季"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "大学生心理健康教育与咨询中心"
+offering_college = "大学生心理健康教育与发展中心"
 total_hours = 32
 
 [courses.hours]
@@ -876,25 +876,6 @@ exercise = 0
 computer = 0
 tutoring = 0
 [[courses]]
-course_code = "URBP3003"
-credit = 1.0
-assessment_method = "考查"
-course_name = "健康社区规划导论"
-recommended_year_semester = "第三学年秋季"
-track = "专业选修课"
-course_nature = "限选"
-course_category = "其他"
-offering_college = "建筑学院"
-total_hours = 16
-
-[courses.hours]
-theory = 16
-lab = 0
-practice = 0
-exercise = 0
-computer = 0
-tutoring = 0
-[[courses]]
 course_code = "URBP3004"
 credit = 2.0
 assessment_method = "考查"
@@ -944,25 +925,6 @@ total_hours = 24
 
 [courses.hours]
 theory = 24
-lab = 0
-practice = 0
-exercise = 0
-computer = 0
-tutoring = 0
-[[courses]]
-course_code = "URBP3604"
-credit = 2.0
-assessment_method = "考查"
-course_name = "城市绿地与景观规划"
-recommended_year_semester = "第三学年秋季"
-track = "专业选修课"
-course_nature = "选修"
-course_category = "其他"
-offering_college = "建筑学院"
-total_hours = 32
-
-[courses.hours]
-theory = 32
 lab = 0
 practice = 0
 exercise = 0

@@ -1,0 +1,929 @@
+[info]
+major_code = "010101E"
+major_name = "计算机科学与技术"
+plan_ID = "52EFDC9CDDB9534AE0630B18F80A89BC"
+school_name = "计算机科学与技术学院"
+year = "2024"
+
+[[courses]]
+course_code = "22MX44001"
+credit = 0.0
+assessment_method = "考查"
+course_name = "劳动教育概论"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[courses.hours]
+theory = 8
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP2030"
+credit = 4.0
+assessment_method = "考查"
+course_name = "离散数学"
+recommended_year_semester = "第二学年秋季"
+track = "计算机轨道（计划修读计算机专业选择此轨道内课程）"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 64
+
+[courses.hours]
+theory = 64
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP2053"
+credit = 3.5
+assessment_method = "考试"
+course_name = "数字逻辑设计"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 56
+
+[courses.hours]
+theory = 36
+lab = 20
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EE1018"
+credit = 4.0
+assessment_method = "考查"
+course_name = "电路与电子学I"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 64
+
+[courses.hours]
+theory = 64
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1011"
+credit = 3.0
+assessment_method = "考试"
+course_name = "马克思主义基本原理"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH1004"
+credit = 3.0
+assessment_method = "考试"
+course_name = "概率论与数理统计"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1002C"
+credit = 0.5
+assessment_method = "考查"
+course_name = "体育C"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "人文与社会科学学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 16
+[[courses]]
+course_code = "PHYS1004"
+credit = 1.0
+assessment_method = "考查"
+course_name = "大学物理实验II"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 24
+
+[courses.hours]
+theory = 2
+lab = 22
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHYS1005B"
+credit = 4.0
+assessment_method = "考试"
+course_name = "大学物理XB"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 64
+
+[courses.hours]
+theory = 64
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP2008"
+credit = 3.5
+assessment_method = "考查"
+course_name = "计算机组成原理"
+recommended_year_semester = "第二学年春季"
+track = "计算机轨道（计划修读计算机专业选择此轨道内课程）"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 56
+
+[courses.hours]
+theory = 40
+lab = 16
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP2052"
+credit = 3.5
+assessment_method = "考试"
+course_name = "数据结构与算法"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 56
+
+[courses.hours]
+theory = 40
+lab = 16
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP2054"
+credit = 3.0
+assessment_method = "考查"
+course_name = "机器学习"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 48
+
+[courses.hours]
+theory = 36
+lab = 12
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP3004"
+credit = 2.0
+assessment_method = "考查"
+course_name = "形式语言与自动机"
+recommended_year_semester = "第二学年春季"
+track = "计算机轨道（计划修读计算机专业选择此轨道内课程）"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP3059"
+credit = 2.5
+assessment_method = "考查"
+course_name = "软件构造"
+recommended_year_semester = "第二学年春季"
+track = "计算机轨道（计划修读计算机专业选择此轨道内课程）"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 40
+
+[courses.hours]
+theory = 24
+lab = 16
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ELEC2017"
+credit = 1.0
+assessment_method = "考查"
+course_name = "信息论导论"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "信息科学与技术学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENGG1003"
+credit = 2.0
+assessment_method = "考查"
+course_name = "工程训练（电子工艺实习）"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "实验与创新实践教育中心（分析测试中心）"
+total_hours = 0
+
+[courses.hours]
+theory = 80
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1018"
+credit = 2.5
+assessment_method = "考试"
+course_name = "毛泽东思想和中国特色社会主义理论体系概论"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[courses.hours]
+theory = 40
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1019-2"
+credit = 1.0
+assessment_method = "考查"
+course_name = "形势与政策-2"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1002D"
+credit = 0.5
+assessment_method = "考查"
+course_name = "体育D"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 16
+[[courses]]
+course_code = "WRIT0001"
+credit = 1.0
+assessment_method = "考查"
+course_name = "写作与沟通"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文艺术学系"
+total_hours = 24
+
+[courses.hours]
+theory = 24
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP2012"
+credit = 3.0
+assessment_method = "考查"
+course_name = "计算机设计与实践"
+recommended_year_semester = "第二学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 48
+
+[courses.hours]
+theory = 4
+lab = 44
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP2010"
+credit = 2.0
+assessment_method = "考查"
+course_name = "近世代数"
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP3001"
+credit = 4.0
+assessment_method = "考试"
+course_name = "操作系统"
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 64
+
+[courses.hours]
+theory = 40
+lab = 24
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP3002"
+credit = 2.0
+assessment_method = "考查"
+course_name = "软件工程"
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP3003"
+credit = 3.5
+assessment_method = "考试"
+course_name = "计算机网络"
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 56
+
+[courses.hours]
+theory = 44
+lab = 12
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP3007"
+credit = 2.0
+assessment_method = "考查"
+course_name = "模式识别"
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP3009"
+credit = 2.0
+assessment_method = "考查"
+course_name = "大数据导论"
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 28
+lab = 4
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP3011"
+credit = 3.0
+assessment_method = "考查"
+course_name = "计算机体系结构"
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 48
+
+[courses.hours]
+theory = 20
+lab = 28
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP3040"
+credit = 2.5
+assessment_method = "考查"
+course_name = "密码学基础"
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 40
+
+[courses.hours]
+theory = 32
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP3044"
+credit = 2.0
+assessment_method = "考查"
+course_name = "科研写作交流技巧"
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP3053"
+credit = 2.0
+assessment_method = "考查"
+course_name = "汇编语言与接口技术"
+recommended_year_semester = "第三学年秋季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 24
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP3060"
+credit = 1.0
+assessment_method = "考查"
+course_name = "软件构造实践"
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 24
+
+[courses.hours]
+theory = 0
+lab = 24
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1002E"
+credit = 0.5
+assessment_method = "考查"
+course_name = "体育E"
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "体育部"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 16
+[[courses]]
+course_code = "COMP3005"
+credit = 3.0
+assessment_method = "考查"
+course_name = "人工智能"
+recommended_year_semester = "第三学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 48
+
+[courses.hours]
+theory = 38
+lab = 10
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP3010"
+credit = 3.0
+assessment_method = "考试"
+course_name = "数据库系统"
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 48
+
+[courses.hours]
+theory = 32
+lab = 16
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP3013"
+credit = 3.0
+assessment_method = "考试"
+course_name = "编译原理"
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 48
+
+[courses.hours]
+theory = 32
+lab = 16
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP3017"
+credit = 2.0
+assessment_method = "考查"
+course_name = "服务计算"
+recommended_year_semester = "第三学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP3018"
+credit = 2.0
+assessment_method = "考查"
+course_name = "图像处理"
+recommended_year_semester = "第三学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP3019"
+credit = 2.0
+assessment_method = "考查"
+course_name = "生物信息学"
+recommended_year_semester = "第三学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP3021"
+credit = 2.0
+assessment_method = "考查"
+course_name = "自然语言处理"
+recommended_year_semester = "第三学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP3028"
+credit = 2.0
+assessment_method = "考查"
+course_name = "软件体系结构"
+recommended_year_semester = "第三学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 24
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP3029"
+credit = 2.0
+assessment_method = "考查"
+course_name = "计算机视觉"
+recommended_year_semester = "第三学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP3030"
+credit = 2.0
+assessment_method = "考查"
+course_name = "信息检索"
+recommended_year_semester = "第三学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP3039"
+credit = 2.0
+assessment_method = "考查"
+course_name = "嵌入式计算"
+recommended_year_semester = "第三学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 22
+lab = 10
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP3042"
+credit = 2.0
+assessment_method = "考查"
+course_name = "智能证券投资"
+recommended_year_semester = "第三学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 22
+lab = 10
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP3052"
+credit = 3.0
+assessment_method = "考查"
+course_name = "计算机系统"
+recommended_year_semester = "第三学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 48
+
+[courses.hours]
+theory = 40
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP3054"
+credit = 3.5
+assessment_method = "考查"
+course_name = "网络与系统安全"
+recommended_year_semester = "第三学年春季"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 56
+
+[courses.hours]
+theory = 38
+lab = 18
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1019-3"
+credit = 0.5
+assessment_method = "考查"
+course_name = "形势与政策-3"
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[courses.hours]
+theory = 8
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1002F"
+credit = 0.5
+assessment_method = "考查"
+course_name = "体育F"
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "体育部"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 16
+[[courses]]
+course_code = "COMP2029"
+credit = 2.0
+assessment_method = "考查"
+course_name = "面向领域的计算机系统设计与开发实践"
+recommended_year_semester = "第四学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 4
+lab = 28
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP3099"
+credit = 10.0
+assessment_method = "考查"
+course_name = "毕业论文（设计）"
+recommended_year_semester = "第四学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 0
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 16
+exercise = 0
+computer = 0
+tutoring = 0

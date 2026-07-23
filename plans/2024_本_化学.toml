@@ -1,9 +1,9 @@
 [info]
-year = "2024"
 major_code = "23L09"
 major_name = "化学"
-school_name = "理学院"
 plan_ID = "1EC473E38D2FA998E0630C18F80AE715"
+school_name = "理学院"
+year = "2024"
 
 [[courses]]
 course_code = "CHEM1013"
@@ -193,7 +193,7 @@ course_name = "悦己人生—大学生心理健康"
 recommended_year_semester = "第一学年秋季"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "大学生心理健康教育与咨询中心"
+offering_college = "大学生心理健康教育与发展中心"
 total_hours = 32
 
 [courses.hours]
@@ -768,7 +768,7 @@ assessment_method = "考查"
 course_name = "写作与沟通"
 recommended_year_semester = "第二学年春季"
 course_nature = "必修"
-course_category = "世界文明与对话"
+course_category = "其他"
 offering_college = "人文艺术学系"
 total_hours = 24
 

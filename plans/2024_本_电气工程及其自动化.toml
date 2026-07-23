@@ -1,9 +1,11 @@
 [info]
-year = "2024"
 major_code = "030301"
 major_name = "电气工程及其自动化"
-school_name = "机器人与先进制造学院"
+parent_major_code = "23L01"
+parent_major_name = "工科试验班（计算机与电子通信）"
 plan_ID = "1EC44D6CAFF5BEB1E0630C18F80A45FD"
+school_name = "信息学部"
+year = "2024"
 
 [[courses]]
 course_code = "BIO1002"
@@ -231,7 +233,7 @@ course_name = "悦己人生—大学生心理健康"
 recommended_year_semester = "第一学年秋季"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "大学生心理健康教育与咨询中心"
+offering_college = "大学生心理健康教育与发展中心"
 total_hours = 32
 
 [courses.hours]
@@ -832,6 +834,600 @@ total_hours = 80
 theory = 0
 lab = 0
 practice = 2
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EE3001"
+credit = 4.0
+assessment_method = "考试"
+course_name = "电机学"
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 64
+
+[courses.hours]
+theory = 52
+lab = 12
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EE3002"
+credit = 3.0
+assessment_method = "考试"
+course_name = "电力电子技术"
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 48
+
+[courses.hours]
+theory = 40
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EE3005"
+credit = 3.0
+assessment_method = "考试"
+course_name = "DSP的原理与应用"
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 48
+
+[courses.hours]
+theory = 30
+lab = 18
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EE3015"
+credit = 3.0
+assessment_method = "考试"
+course_name = "电力系统分析"
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 48
+
+[courses.hours]
+theory = 44
+lab = 4
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EE3041"
+credit = 2.0
+assessment_method = "考查"
+course_name = "专业综合实践I"
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 80
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 2
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1002E"
+credit = 0.5
+assessment_method = "考查"
+course_name = "体育E"
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "人文与社会科学学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 16
+[[courses]]
+course_code = "EE3004"
+credit = 2.0
+assessment_method = "考查"
+course_name = "电气传动自动控制系统"
+recommended_year_semester = "第三学年春季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 32
+
+[courses.hours]
+theory = 22
+lab = 10
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EE3011"
+credit = 2.0
+assessment_method = "考查"
+course_name = "开关电源原理与设计"
+recommended_year_semester = "第三学年春季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 32
+
+[courses.hours]
+theory = 22
+lab = 10
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EE3012"
+credit = 2.0
+assessment_method = "考查"
+course_name = "分布式电源与新能源发电"
+recommended_year_semester = "第三学年春季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 32
+
+[courses.hours]
+theory = 16
+lab = 16
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EE3016"
+credit = 2.0
+assessment_method = "考查"
+course_name = "智能电网"
+recommended_year_semester = "第三学年春季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 32
+
+[courses.hours]
+theory = 16
+lab = 12
+practice = 4
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EE3017"
+credit = 2.0
+assessment_method = "考查"
+course_name = "电力系统继电保护"
+recommended_year_semester = "第三学年春季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 32
+
+[courses.hours]
+theory = 20
+lab = 12
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EE3018"
+credit = 1.0
+assessment_method = "考查"
+course_name = "电力系统综合实验"
+recommended_year_semester = "第三学年春季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 24
+
+[courses.hours]
+theory = 0
+lab = 24
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EE3027"
+credit = 1.5
+assessment_method = "考查"
+course_name = "现代电机设计与CAD"
+recommended_year_semester = "第三学年春季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 24
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 8
+tutoring = 0
+[[courses]]
+course_code = "EE3038"
+credit = 1.5
+assessment_method = "考查"
+course_name = "发电厂电气系统"
+recommended_year_semester = "第三学年春季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 24
+
+[courses.hours]
+theory = 24
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EE3042"
+credit = 2.0
+assessment_method = "考查"
+course_name = "专业综合实践II"
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 80
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 2
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EE4001\u3000"
+credit = 1.0
+assessment_method = "考查"
+course_name = "电气前沿技术专题"
+recommended_year_semester = "第三学年春季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1019-3"
+credit = 0.5
+assessment_method = "考查"
+course_name = "形势与政策-3"
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[courses.hours]
+theory = 8
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1002F"
+credit = 0.5
+assessment_method = "考查"
+course_name = "体育F"
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 16
+[[courses]]
+course_code = "EE3007"
+credit = 2.0
+assessment_method = "考查"
+course_name = "生产实习"
+recommended_year_semester = "第三学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 80
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 2
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EE3021"
+credit = 1.0
+assessment_method = "考查"
+course_name = "智能控制基础"
+recommended_year_semester = "第四学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EE3022"
+credit = 1.5
+assessment_method = "考查"
+course_name = "电力电子系统建模与仿真"
+recommended_year_semester = "第四学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 24
+
+[courses.hours]
+theory = 8
+lab = 16
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EE3023"
+credit = 1.0
+assessment_method = "考查"
+course_name = "电磁兼容基础"
+recommended_year_semester = "第四学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EE3024"
+credit = 2.0
+assessment_method = "考查"
+course_name = "电机驱动控制系统设计"
+recommended_year_semester = "第四学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 32
+
+[courses.hours]
+theory = 24
+lab = 0
+practice = 0
+exercise = 0
+computer = 8
+tutoring = 0
+[[courses]]
+course_code = "EE3026"
+credit = 1.5
+assessment_method = "考查"
+course_name = "电气测量技术"
+recommended_year_semester = "第四学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 24
+
+[courses.hours]
+theory = 20
+lab = 4
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EE3028"
+credit = 1.0
+assessment_method = "考查"
+course_name = "电能质量分析"
+recommended_year_semester = "第四学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 16
+
+[courses.hours]
+theory = 12
+lab = 4
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EE3029"
+credit = 1.0
+assessment_method = "考查"
+course_name = "高电压技术"
+recommended_year_semester = "第四学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 16
+
+[courses.hours]
+theory = 12
+lab = 4
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EE3030"
+credit = 1.0
+assessment_method = "考查"
+course_name = "电力系统调度自动化"
+recommended_year_semester = "第四学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 16
+
+[courses.hours]
+theory = 12
+lab = 4
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EE3032"
+credit = 1.0
+assessment_method = "考查"
+course_name = "高压直流输电技术"
+recommended_year_semester = "第四学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EE3037"
+credit = 1.0
+assessment_method = "考查"
+course_name = "新型电机原理与应用"
+recommended_year_semester = "第四学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 16
+
+[courses.hours]
+theory = 8
+lab = 0
+practice = 0
+exercise = 0
+computer = 8
+tutoring = 0
+[[courses]]
+course_code = "EE3039"
+credit = 2.0
+assessment_method = "考查"
+course_name = "先进储能系统"
+recommended_year_semester = "第四学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 32
+
+[courses.hours]
+theory = 22
+lab = 10
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EE3040"
+credit = 1.5
+assessment_method = "考查"
+course_name = "电力市场概论"
+recommended_year_semester = "第四学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 24
+
+[courses.hours]
+theory = 12
+lab = 0
+practice = 6
+exercise = 0
+computer = 6
+tutoring = 0
+[[courses]]
+course_code = "EE3043"
+credit = 1.0
+assessment_method = "考查"
+course_name = "电学量的量子计量导论"
+recommended_year_semester = "第四学年秋季"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EE3099"
+credit = 8.0
+assessment_method = "考查"
+course_name = "毕业（论文）设计"
+recommended_year_semester = "第四学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 0
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 15
 exercise = 0
 computer = 0
 tutoring = 0

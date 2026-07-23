@@ -1,9 +1,9 @@
 [info]
-year = "2022"
 major_code = "0201"
 major_name = "电子信息类"
-school_name = "信息科学与技术学院"
 plan_ID = "E48466360FAA27A7E0530B18F80A4EA5"
+school_name = "信息科学与技术学院"
+year = "2022"
 
 [[courses]]
 course_code = "COMP2021"

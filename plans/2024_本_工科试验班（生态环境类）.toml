@@ -1,0 +1,1442 @@
+[info]
+major_code = "23L08"
+major_name = "工科试验班（生态环境类）"
+plan_ID = "1EC3DE753E5ACF61E0630C18F80A57B9"
+school_name = "生态环境学院"
+year = "2024"
+
+[[courses]]
+course_code = "ENVR2001"
+credit = 1.0
+assessment_method = "考查"
+course_name = "环境科学与工程专业导论"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR2013"
+credit = 2.0
+assessment_method = "考试"
+course_name = "无机与分析化学A"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1014"
+credit = 2.0
+assessment_method = "考查"
+course_name = "思想政治理论实践课"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）（基础学部）｜团委｜武装部"
+total_hours = 32
+
+[courses.hours]
+theory = 8
+lab = 0
+practice = 24
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1015"
+credit = 2.5
+assessment_method = "考查"
+course_name = "思想道德与法治"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[courses.hours]
+theory = 40
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1017"
+credit = 2.5
+assessment_method = "考试"
+course_name = "习近平新时代中国特色社会主义思想概论"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[courses.hours]
+theory = 40
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG1006"
+credit = 1.5
+assessment_method = "考查"
+course_name = "大学英语A"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文与社会科学学院"
+total_hours = 36
+
+[courses.hours]
+theory = 36
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH1017A"
+credit = 4.5
+assessment_method = "考试"
+course_name = "微积分IIIA"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 72
+
+[courses.hours]
+theory = 72
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH1018"
+credit = 3.0
+assessment_method = "考试"
+course_name = "代数与几何II"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MILT1002"
+credit = 2.0
+assessment_method = "考查"
+course_name = "军事理论"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）（基础学部）｜团委｜武装部"
+total_hours = 36
+
+[courses.hours]
+theory = 36
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MILT1003"
+credit = 2.0
+assessment_method = "考查"
+course_name = "军事技能"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "学生工作部（处）（基础学部）｜团委｜武装部"
+total_hours = 120
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 3
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1001A"
+credit = 1.0
+assessment_method = "考查"
+course_name = "体育A"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "人文与社会科学学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PSYC1001"
+credit = 2.0
+assessment_method = "考查"
+course_name = "悦己人生—大学生心理健康"
+recommended_year_semester = "第一学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL1004"
+credit = 3.0
+assessment_method = "考查"
+course_name = "土木制图基础"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 48
+
+[courses.hours]
+theory = 40
+lab = 0
+practice = 0
+exercise = 0
+computer = 8
+tutoring = 0
+[[courses]]
+course_code = "COMP1009"
+credit = 2.0
+assessment_method = "考查"
+course_name = "计算思维与人工智能"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "计算机科学与技术学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR1001"
+credit = 3.0
+assessment_method = "考试"
+course_name = "无机与分析化学B"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1016"
+credit = 2.5
+assessment_method = "考试"
+course_name = "中国近现代史纲要"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[courses.hours]
+theory = 40
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1019-1"
+credit = 0.5
+assessment_method = "考查"
+course_name = "形势与政策-1"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[courses.hours]
+theory = 8
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG1007"
+credit = 1.5
+assessment_method = "考查"
+course_name = "大学英语B"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "外语系"
+total_hours = 36
+
+[courses.hours]
+theory = 36
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH1017B"
+credit = 3.5
+assessment_method = "考试"
+course_name = "微积分IIIB"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 56
+
+[courses.hours]
+theory = 56
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "NESC1001"
+credit = 1.0
+assessment_method = "考查"
+course_name = "国家安全教育"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1001B"
+credit = 1.0
+assessment_method = "考查"
+course_name = "体育B"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHYS1003"
+credit = 4.0
+assessment_method = "考查"
+course_name = "大学物理II"
+recommended_year_semester = "第一学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 64
+
+[courses.hours]
+theory = 64
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "22MX44001"
+credit = 0.0
+assessment_method = "考查"
+course_name = "劳动教育概论"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[courses.hours]
+theory = 8
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EE1017"
+credit = 2.0
+assessment_method = "考查"
+course_name = "电工与电子技术II"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "机器人与先进制造学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR2007"
+credit = 2.5
+assessment_method = "考试"
+course_name = "物理化学"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 40
+
+[courses.hours]
+theory = 28
+lab = 12
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR2008"
+credit = 2.0
+assessment_method = "考查"
+course_name = "工程力学"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR2009"
+credit = 3.0
+assessment_method = "考试"
+course_name = "有机化学"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 48
+
+[courses.hours]
+theory = 32
+lab = 16
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR2010"
+credit = 2.5
+assessment_method = "考查"
+course_name = "生态学原理"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 40
+
+[courses.hours]
+theory = 24
+lab = 16
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR2011"
+credit = 1.0
+assessment_method = "考查"
+course_name = "无机与分析化学实验"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 24
+
+[courses.hours]
+theory = 0
+lab = 24
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1011"
+credit = 3.0
+assessment_method = "考试"
+course_name = "马克思主义基本原理"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG1008"
+credit = 1.0
+assessment_method = "考查"
+course_name = "大学英语C"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文与社会科学学院"
+total_hours = 24
+
+[courses.hours]
+theory = 24
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH1004"
+credit = 3.0
+assessment_method = "考试"
+course_name = "概率论与数理统计"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1002C"
+credit = 0.5
+assessment_method = "考查"
+course_name = "体育C"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "人文与社会科学学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 16
+[[courses]]
+course_code = "PHYS1004"
+credit = 1.0
+assessment_method = "考查"
+course_name = "大学物理实验II"
+recommended_year_semester = "第二学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "理学院"
+total_hours = 24
+
+[courses.hours]
+theory = 2
+lab = 22
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR2014"
+credit = 1.5
+assessment_method = "考查"
+course_name = "测量学D"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 24
+
+[courses.hours]
+theory = 16
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR2015"
+credit = 3.0
+assessment_method = "考试"
+course_name = "流体力学"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 48
+
+[courses.hours]
+theory = 40
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR2016"
+credit = 3.5
+assessment_method = "考试"
+course_name = "环境工程原理"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 56
+
+[courses.hours]
+theory = 40
+lab = 16
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR2017"
+credit = 1.0
+assessment_method = "考查"
+course_name = "环境化学"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR2018"
+credit = 3.5
+assessment_method = "考试"
+course_name = "污染控制微生物学"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 56
+
+[courses.hours]
+theory = 40
+lab = 16
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR2019"
+credit = 2.0
+assessment_method = "考试"
+course_name = "环境仪器分析"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 32
+
+[courses.hours]
+theory = 16
+lab = 16
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR2020"
+credit = 2.5
+assessment_method = "考查"
+course_name = "环境系统分析基础"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 40
+
+[courses.hours]
+theory = 24
+lab = 0
+practice = 0
+exercise = 0
+computer = 16
+tutoring = 0
+[[courses]]
+course_code = "GEIP1018"
+credit = 2.5
+assessment_method = "考试"
+course_name = "毛泽东思想和中国特色社会主义理论体系概论"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 40
+
+[courses.hours]
+theory = 40
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1019-2"
+credit = 1.0
+assessment_method = "考查"
+course_name = "形势与政策-2"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1002D"
+credit = 0.5
+assessment_method = "考查"
+course_name = "体育D"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 16
+[[courses]]
+course_code = "WRIT0001"
+credit = 1.0
+assessment_method = "考查"
+course_name = "写作与沟通"
+recommended_year_semester = "第二学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "人文艺术学系"
+total_hours = 24
+
+[courses.hours]
+theory = 24
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR3071"
+credit = 1.0
+assessment_method = "考查"
+course_name = "给水处理"
+recommended_year_semester = "第二学年夏季"
+track = "轨道选修课-轨道三：环境治理新技术"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR3007"
+credit = 3.0
+assessment_method = "考试"
+course_name = "环境监测"
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 48
+
+[courses.hours]
+theory = 28
+lab = 20
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR3017"
+credit = 2.0
+assessment_method = "考查"
+course_name = "环境学"
+recommended_year_semester = "第三学年秋季"
+track = "轨道选修课-轨道一：环境大数据"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR3018"
+credit = 2.0
+assessment_method = "考查"
+course_name = "应用生态学"
+recommended_year_semester = "第三学年秋季"
+track = "轨道选修课-轨道二：海绵城市建设"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR3032"
+credit = 1.0
+assessment_method = "考查"
+course_name = "环境生态工程"
+recommended_year_semester = "第三学年秋季"
+track = "轨道选修课-轨道二：海绵城市建设"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR3043"
+credit = 1.0
+assessment_method = "考查"
+course_name = "大气污染控制课程设计"
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 0
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 1
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR3052"
+credit = 2.0
+assessment_method = "考查"
+course_name = "碳污协同减排原理与实践"
+recommended_year_semester = "第三学年秋季"
+track = "轨道选修课-轨道三：环境治理新技术"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR3053"
+credit = 2.0
+assessment_method = "考查"
+course_name = "城市水系统智慧管控"
+recommended_year_semester = "第三学年秋季"
+track = "轨道选修课-轨道一：环境大数据"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR3067"
+credit = 2.5
+assessment_method = "考试"
+course_name = "环境影响评价与规划管理"
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 40
+
+[courses.hours]
+theory = 40
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR3073"
+credit = 1.0
+assessment_method = "考查"
+course_name = "城镇给排水系统工程课程设计"
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 0
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 1
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR3074"
+credit = 2.5
+assessment_method = "考试"
+course_name = "大气污染控制工程"
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 40
+
+[courses.hours]
+theory = 40
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR3075"
+credit = 3.0
+assessment_method = "考试"
+course_name = "城镇给排水系统工程"
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 48
+
+[courses.hours]
+theory = 44
+lab = 4
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR5033"
+credit = 2.0
+assessment_method = "考查"
+course_name = "大气环境与气候变化"
+recommended_year_semester = "第三学年秋季"
+track = "轨道选修课-轨道三：环境治理新技术"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR5060"
+credit = 1.5
+assessment_method = "考查"
+course_name = "生物信息学实战"
+recommended_year_semester = "第三学年秋季"
+track = "轨道选修课-轨道一：环境大数据"
+course_nature = "限选"
+offering_college = "生态环境学院"
+total_hours = 24
+
+[courses.hours]
+theory = 24
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1002E"
+credit = 0.5
+assessment_method = "考查"
+course_name = "体育E"
+recommended_year_semester = "第三学年秋季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "人文与社会科学学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 16
+[[courses]]
+course_code = "ENVR3012"
+credit = 2.0
+assessment_method = "考试"
+course_name = "固体废物处理与资源化"
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR3038"
+credit = 1.0
+assessment_method = "考查"
+course_name = "环境生物化学"
+recommended_year_semester = "第三学年春季"
+track = "轨道选修课-轨道三：环境治理新技术"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR3062"
+credit = 4.0
+assessment_method = "考试"
+course_name = "水污染控制工程（1）"
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 64
+
+[courses.hours]
+theory = 64
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR3063"
+credit = 2.0
+assessment_method = "考试"
+course_name = "水污染控制工程（2）"
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR3069"
+credit = 1.0
+assessment_method = "考查"
+course_name = "环境工程综合实验"
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 24
+
+[courses.hours]
+theory = 0
+lab = 24
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR3070"
+credit = 1.0
+assessment_method = "考查"
+course_name = "水污染控制工程实验"
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 24
+
+[courses.hours]
+theory = 0
+lab = 24
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP1019-3"
+credit = 0.5
+assessment_method = "考查"
+course_name = "形势与政策-3"
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "马克思主义学院"
+total_hours = 8
+
+[courses.hours]
+theory = 8
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PE1002F"
+credit = 0.5
+assessment_method = "考查"
+course_name = "体育F"
+recommended_year_semester = "第三学年春季"
+course_nature = "必修"
+course_category = "体育"
+offering_college = "体育部"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 16
+[[courses]]
+course_code = "ENVR3046"
+credit = 1.0
+assessment_method = "考查"
+course_name = "水污染控制工程课程设计"
+recommended_year_semester = "第三学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 40
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 1
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR3047"
+credit = 1.0
+assessment_method = "考查"
+course_name = "固体废物处理与资源化课程设计"
+recommended_year_semester = "第三学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 40
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 1
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR3049"
+credit = 2.0
+assessment_method = "考查"
+course_name = "生产实习"
+recommended_year_semester = "第三学年夏季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 0
+
+[courses.hours]
+theory = 80
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR3016"
+credit = 2.0
+assessment_method = "考查"
+course_name = "特种废水处理及资源化"
+recommended_year_semester = "第四学年秋季"
+track = "轨道选修课-轨道三：环境治理新技术"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR3023"
+credit = 1.0
+assessment_method = "考查"
+course_name = "环境伦理学"
+recommended_year_semester = "第四学年秋季"
+track = "轨道选修课-轨道一：环境大数据"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR3029"
+credit = 1.0
+assessment_method = "考查"
+course_name = "海绵城市建设与管理"
+recommended_year_semester = "第四学年秋季"
+track = "轨道选修课-轨道二：海绵城市建设"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 16
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR3040"
+credit = 2.0
+assessment_method = "考查"
+course_name = "环境生物学"
+recommended_year_semester = "第四学年秋季"
+track = "轨道选修课-轨道一：环境大数据"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR3068"
+credit = 2.0
+assessment_method = "考试"
+course_name = "环境工程土建施工与技术经济"
+recommended_year_semester = "第四学年秋季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR3072"
+credit = 3.0
+assessment_method = "考查"
+course_name = "污水处理设计计算与案例分析"
+recommended_year_semester = "第四学年春季"
+track = "轨道选修课-轨道二：海绵城市建设"
+course_nature = "限选"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 48
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR3098"
+credit = 2.0
+assessment_method = "考查"
+course_name = "毕业实习"
+recommended_year_semester = "第四学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 80
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 2
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ENVR3099"
+credit = 8.0
+assessment_method = "考查"
+course_name = "毕业设计（论文）"
+recommended_year_semester = "第四学年春季"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "生态环境学院"
+total_hours = 0
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 16
+exercise = 0
+computer = 0
+tutoring = 0

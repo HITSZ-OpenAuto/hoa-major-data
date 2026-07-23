@@ -1,9 +1,9 @@
 [info]
-year = "2023"
 major_code = "070201F"
 major_name = "工商管理"
-school_name = "经济管理学院"
 plan_ID = "037F0B9CC2442B20E0630B18F80A2FE4"
+school_name = "经济管理学院"
+year = "2023"
 
 [[courses]]
 course_code = "HUMA1110E"
@@ -861,21 +861,135 @@ exercise = 0
 computer = 0
 tutoring = 0
 [[courses]]
-course_code = "ECON2035E"
+course_code = "HUMA1138E"
+credit = 2.0
+assessment_method = "考查"
+course_name = "当代中国社会与文化：粤港澳大湾区文化景观"
+recommended_year_semester = "第三学年春季"
+track = "公共基础课程-国情类课程"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "粤港澳大湾区高校在线开放课程联盟"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "HUMA1139E"
+credit = 2.0
+assessment_method = "考查"
+course_name = "当代中国外交"
+recommended_year_semester = "第三学年春季"
+track = "公共基础课程-国情类课程"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "粤港澳大湾区高校在线开放课程联盟"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "HUMA1140E"
+credit = 2.0
+assessment_method = "考查"
+course_name = "粤港澳大湾区概论"
+recommended_year_semester = "第三学年春季"
+track = "公共基础课程-国情类课程"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "粤港澳大湾区高校在线开放课程联盟"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "HUMA1141E"
+credit = 2.0
+assessment_method = "考查"
+course_name = "中国当代经济理论与实践"
+recommended_year_semester = "第三学年春季"
+track = "公共基础课程-国情类课程"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "粤港澳大湾区高校在线开放课程联盟"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "HUMA1142E"
+credit = 2.0
+assessment_method = "考查"
+course_name = "一带一路与中国企业社会责任"
+recommended_year_semester = "第三学年春季"
+track = "公共基础课程-国情类课程"
+course_nature = "选修"
+course_category = "其他"
+offering_college = "粤港澳大湾区高校在线开放课程联盟"
+total_hours = 32
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ACCT2008E"
 credit = 3.0
 assessment_method = "考查"
-course_name = "夏季暑期实习（实践实习）"
+course_name = "夏季学期实习（实践实习）"
 recommended_year_semester = "第三学年夏季"
 track = "大类平台课程（大类专业基础课）"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "经济管理学院"
-total_hours = 120
+total_hours = 0
 
 [courses.hours]
 theory = 0
 lab = 0
 practice = 3
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ACCT2006E"
+credit = 6.0
+assessment_method = "考查"
+course_name = "专业实习"
+recommended_year_semester = "第四学年秋季"
+track = "专业方向课程-专业方向核心课程（必修）"
+course_nature = "必修"
+course_category = "其他"
+offering_college = "经济管理学院"
+total_hours = 0
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 6
 exercise = 0
 computer = 0
 tutoring = 0
@@ -895,25 +1009,6 @@ total_hours = 32
 theory = 32
 lab = 0
 practice = 0
-exercise = 0
-computer = 0
-tutoring = 0
-[[courses]]
-course_code = "ECON2036E"
-credit = 6.0
-assessment_method = "考查"
-course_name = "专业实习"
-recommended_year_semester = "第四学年秋季"
-track = "专业方向课程-专业方向核心课程（必修）"
-course_nature = "必修"
-course_category = "其他"
-offering_college = "经济管理学院"
-total_hours = 240
-
-[courses.hours]
-theory = 0
-lab = 0
-practice = 6
 exercise = 0
 computer = 0
 tutoring = 0

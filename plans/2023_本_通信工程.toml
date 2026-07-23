@@ -1,11 +1,11 @@
 [info]
-year = "2023"
-parent_major_code = "23L01"
-parent_major_name = "工科试验班（计算机与电子通信）"
 major_code = "020101"
 major_name = "通信工程"
-school_name = "基础学部"
+parent_major_code = "23L01"
+parent_major_name = "工科试验班（计算机与电子通信）"
 plan_ID = "314E30153D2B4E98E0630C18F80A0F86"
+school_name = "基础学部"
+year = "2023"
 
 [[courses]]
 course_code = "COMP2021"
@@ -195,7 +195,7 @@ course_name = "悦己人生—大学生心理健康"
 recommended_year_semester = "第一学年秋季"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "大学生心理健康教育与咨询中心"
+offering_college = "大学生心理健康教育与发展中心"
 total_hours = 32
 
 [courses.hours]
@@ -867,7 +867,7 @@ assessment_method = "考查"
 course_name = "写作与沟通"
 recommended_year_semester = "第二学年春季"
 course_nature = "必修"
-course_category = "世界文明与对话"
+course_category = "其他"
 offering_college = "人文与社会科学学院"
 total_hours = 24
 
@@ -887,11 +887,11 @@ recommended_year_semester = "第二学年夏季"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "信息科学与技术学院"
-total_hours = 0
+total_hours = 48
 
 [courses.hours]
-theory = 0
-lab = 0
+theory = 4
+lab = 44
 practice = 2
 exercise = 0
 computer = 0
@@ -1314,11 +1314,11 @@ recommended_year_semester = "第三学年夏季"
 course_nature = "必修"
 course_category = "其他"
 offering_college = "信息科学与技术学院"
-total_hours = 0
+total_hours = 48
 
 [courses.hours]
-theory = 0
-lab = 0
+theory = 4
+lab = 44
 practice = 2
 exercise = 0
 computer = 0

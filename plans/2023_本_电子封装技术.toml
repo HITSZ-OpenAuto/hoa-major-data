@@ -1,11 +1,11 @@
 [info]
-year = "2023"
-parent_major_code = "23L03"
-parent_major_name = "工科试验班（机器人与智能装备）"
 major_code = "050102"
 major_name = "电子封装技术"
-school_name = "机器人与先进制造学院"
+parent_major_code = "23L01"
+parent_major_name = "工科试验班（计算机与电子通信）"
 plan_ID = "3250363110037AB1E0630B18F80AD4EC"
+school_name = "基础学部"
+year = "2023"
 
 [[courses]]
 course_code = "CHEM1007"
@@ -231,7 +231,7 @@ course_name = "悦己人生—大学生心理健康"
 recommended_year_semester = "第一学年秋季"
 course_nature = "必修"
 course_category = "其他"
-offering_college = "大学生心理健康教育与咨询中心"
+offering_college = "大学生心理健康教育与发展中心"
 total_hours = 32
 
 [courses.hours]
@@ -608,7 +608,7 @@ assessment_method = "考查"
 course_name = "写作与沟通"
 recommended_year_semester = "第二学年秋季"
 course_nature = "必修"
-course_category = "世界文明与对话"
+course_category = "其他"
 offering_college = "人文与社会科学学院"
 total_hours = 24
 

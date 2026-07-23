@@ -1,11 +1,11 @@
 [info]
-year = "2019"
-parent_major_code = "0402"
-parent_major_name = "环境科学与工程类"
 major_code = "040201"
 major_name = "环境工程"
-school_name = "生态环境学院"
+parent_major_code = "0402"
+parent_major_name = "环境科学与工程类"
 plan_ID = "BE67E4353FE92E3FE0530B18F80A1BEF"
+school_name = "生态环境学院"
+year = "2019"
 
 [[courses]]
 course_code = "CHEM1002"
