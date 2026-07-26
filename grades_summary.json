@@ -1107,11 +1107,11 @@
       },
       {
         "name": "上机实验",
-        "percent": "30%"
+        "percent": "40%"
       },
       {
         "name": "期末考试",
-        "percent": "60%"
+        "percent": "50%"
       }
     ],
     "default": [
