@@ -1,0 +1,536 @@
+[info]
+entry_year = "2025"
+major_code = "1405"
+major_name = "智能科学与技术"
+school_name = "智能科学与工程学院"
+source_plan_IDs = [ "3DA4682A3F3304AAE0630B18F80AED17",]
+source_plan_names = [ "202509【1405】智能科学与技术-学术学位-博士生培养方案",]
+study_level = "postgrad"
+year_month = "202509"
+
+[[courses]]
+course_code = "AI5001"
+credit = 2.0
+course_name = "深度学习技术"
+recommended_year_semester = "春季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "3DA4682A3F3304AAE0630B18F80AED17",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "AI5002"
+credit = 2.0
+course_name = "大模型技术与原理"
+recommended_year_semester = "春季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "3DA4682A3F3304AAE0630B18F80AED17",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "AI5003"
+credit = 2.0
+course_name = "生成式人工智能"
+recommended_year_semester = "春季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "3DA4682A3F3304AAE0630B18F80AED17",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "AI6990"
+credit = 1.0
+course_name = "综合考评"
+recommended_year_semester = "秋季,春季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "智能科学与工程学院"
+total_hours = 0
+source_plan_IDs = [ "3DA4682A3F3304AAE0630B18F80AED17",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "AI6991"
+credit = 1.0
+course_name = "开题报告"
+recommended_year_semester = "春季,秋季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "智能科学与工程学院"
+total_hours = 0
+source_plan_IDs = [ "3DA4682A3F3304AAE0630B18F80AED17",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "AI6992"
+credit = 1.0
+course_name = "中期检查"
+recommended_year_semester = "秋季,春季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "智能科学与工程学院"
+total_hours = 16
+source_plan_IDs = [ "3DA4682A3F3304AAE0630B18F80AED17",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "AI6993"
+credit = 1.0
+course_name = "学术活动"
+recommended_year_semester = "春季,秋季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "智能科学与工程学院"
+total_hours = 0
+source_plan_IDs = [ "3DA4682A3F3304AAE0630B18F80AED17",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP4006"
+credit = 3.0
+course_name = "组合优化与凸优化"
+recommended_year_semester = "春季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "计算机科学与技术学院"
+total_hours = 48
+source_plan_IDs = [ "3DA4682A3F3304AAE0630B18F80AED17",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP5001"
+credit = 2.0
+course_name = "人工智能"
+recommended_year_semester = "秋季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "计算机科学与技术学院"
+total_hours = 32
+source_plan_IDs = [ "3DA4682A3F3304AAE0630B18F80AED17",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP5003"
+credit = 2.0
+assessment_method = "考查"
+course_name = "高级算法设计与分析"
+recommended_year_semester = "春季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "计算机科学与技术学院"
+total_hours = 32
+source_plan_IDs = [ "3DA4682A3F3304AAE0630B18F80AED17",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP5024"
+credit = 2.0
+course_name = "机器学习"
+recommended_year_semester = "秋季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "计算机科学与技术学院"
+total_hours = 32
+source_plan_IDs = [ "3DA4682A3F3304AAE0630B18F80AED17",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EBA7006"
+credit = 3.0
+course_name = "高级行为与实验经济学"
+recommended_year_semester = "秋季"
+track = "西丽湖科教城共享课清单"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "南方科技大学"
+total_hours = 48
+source_plan_IDs = [ "3DA4682A3F3304AAE0630B18F80AED17",]
+source_tracks = [ "西丽湖科教城共享课清单",]
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "FIN5026"
+credit = 3.0
+course_name = "高级微观经济学"
+recommended_year_semester = "秋季"
+track = "西丽湖科教城共享课清单"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "南方科技大学"
+total_hours = 48
+source_plan_IDs = [ "3DA4682A3F3304AAE0630B18F80AED17",]
+source_tracks = [ "西丽湖科教城共享课清单",]
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP4003"
+credit = 2.0
+assessment_method = "考试"
+course_name = "中国马克思主义与当代"
+recommended_year_semester = "秋季"
+track = "公共学位课（博）"
+course_nature = "学位课"
+course_category = "公共学位课"
+offering_college = "马克思主义学院"
+total_hours = 32
+source_plan_IDs = [ "3DA4682A3F3304AAE0630B18F80AED17",]
+source_tracks = [ "公共学位课（博）",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GX04710202"
+credit = 2.0
+course_name = "化学反应机理研究"
+recommended_year_semester = "秋季"
+track = "西丽湖科教城共享课清单"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "北京大学深圳研究生院"
+total_hours = 32
+source_plan_IDs = [ "3DA4682A3F3304AAE0630B18F80AED17",]
+source_tracks = [ "西丽湖科教城共享课清单",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GX04710342"
+credit = 3.0
+assessment_method = "考查"
+course_name = "生命科学实验设计"
+recommended_year_semester = "秋季"
+track = "西丽湖科教城共享课清单"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "北京大学深圳研究生院"
+total_hours = 48
+source_plan_IDs = [ "3DA4682A3F3304AAE0630B18F80AED17",]
+source_tracks = [ "西丽湖科教城共享课清单",]
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GX04710352"
+credit = 3.0
+assessment_method = "考查"
+course_name = "组学数据及实际应用"
+recommended_year_semester = "秋季"
+track = "西丽湖科教城共享课清单"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "北京大学深圳研究生院"
+total_hours = 48
+source_plan_IDs = [ "3DA4682A3F3304AAE0630B18F80AED17",]
+source_tracks = [ "西丽湖科教城共享课清单",]
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GX04712284"
+credit = 2.0
+assessment_method = "考查"
+course_name = "分子细胞生物学"
+recommended_year_semester = "秋季"
+track = "西丽湖科教城共享课清单"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "北京大学深圳研究生院"
+total_hours = 32
+source_plan_IDs = [ "3DA4682A3F3304AAE0630B18F80AED17",]
+source_tracks = [ "西丽湖科教城共享课清单",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GX04713232"
+credit = 3.0
+course_name = "数据可视化与分析方法"
+recommended_year_semester = "秋季"
+track = "西丽湖科教城共享课清单"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "北京大学深圳研究生院"
+total_hours = 48
+source_plan_IDs = [ "3DA4682A3F3304AAE0630B18F80AED17",]
+source_tracks = [ "西丽湖科教城共享课清单",]
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GX04713786"
+credit = 3.0
+course_name = "城市系统优化理论与方法"
+recommended_year_semester = "秋季"
+track = "西丽湖科教城共享课清单"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "北京大学深圳研究生院"
+total_hours = 48
+source_plan_IDs = [ "3DA4682A3F3304AAE0630B18F80AED17",]
+source_tracks = [ "西丽湖科教城共享课清单",]
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG4016"
+credit = 2.0
+course_name = "博士英语——英文科技论文写作"
+recommended_year_semester = "秋季,春季"
+track = "博士英语"
+course_nature = "选修课"
+course_category = "博士英语"
+offering_college = "人文与社会科学学院"
+total_hours = 32
+source_plan_IDs = [ "3DA4682A3F3304AAE0630B18F80AED17",]
+source_tracks = [ "博士英语",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MAE5011"
+credit = 2.0
+course_name = "力学前沿研究讲座"
+recommended_year_semester = "秋季"
+track = "西丽湖科教城共享课清单"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "南方科技大学"
+total_hours = 32
+source_plan_IDs = [ "3DA4682A3F3304AAE0630B18F80AED17",]
+source_tracks = [ "西丽湖科教城共享课清单",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH4001"
+credit = 2.0
+course_name = "矩阵分析"
+recommended_year_semester = "秋季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "3DA4682A3F3304AAE0630B18F80AED17",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH4008"
+credit = 2.0
+assessment_method = "考试"
+course_name = "随机过程"
+recommended_year_semester = "秋季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "3DA4682A3F3304AAE0630B18F80AED17",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MIS5006"
+credit = 3.0
+course_name = "管理信息系统大数据高级研究专题"
+recommended_year_semester = "秋季"
+track = "西丽湖科教城共享课清单"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "南方科技大学"
+total_hours = 48
+source_plan_IDs = [ "3DA4682A3F3304AAE0630B18F80AED17",]
+source_tracks = [ "西丽湖科教城共享课清单",]
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "SME5037"
+credit = 3.0
+course_name = "具身智能入门"
+recommended_year_semester = "秋季"
+track = "西丽湖科教城共享课清单"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "南方科技大学"
+total_hours = 48
+source_plan_IDs = [ "3DA4682A3F3304AAE0630B18F80AED17",]
+source_tracks = [ "西丽湖科教城共享课清单",]
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
