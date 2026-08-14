@@ -1,18 +1,27 @@
 # Shared categories; add repo_ids to repos_list.txt to include in output.
 # Repo IDs listed here are index pages (many courses); CourseInfo is not added.
-no_course_info_repo_ids = ["GeneralKnowledge", "CrossSpecialty"]
+no_course_info_repo_ids = ["GeneralKnowledge", "CrossSpecialty", "PostgradElectives"]
 
 [[categories]]
 id = "cross-specialty"
 title = "跨专业选修"
 repo_ids = ["CrossSpecialty", "Cross-ECON","Cross-SPST","Cross-Science","Cross-ENER","Cross-CEEV","Cross-EIE","Cross-ARCH"]
+study_levels = ["undergrad"]
 
 [[categories]]
 id = "general-knowledge"
 title = "文理通识与 MOOC"
 repo_ids = ["GeneralKnowledge", "MOOC"]
+study_levels = ["undergrad"]
 
 [[categories]]
 id = "innovation-and-proctice"
 title = "创新创业与社会实践"
 repo_ids = ["Innovation", "SocialPractice"]
+study_levels = ["undergrad"]
+
+[[categories]]
+id = "postgrad-electives"
+title = "研究生专业选修"
+repo_ids = ["PostgradElectives"]
+study_levels = ["postgrad"]
