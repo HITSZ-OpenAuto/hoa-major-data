@@ -23,5 +23,5 @@ study_levels = ["undergrad"]
 [[categories]]
 id = "postgrad-electives"
 title = "研究生专业选修"
-repo_ids = ["PostgradElectives"]
+repo_ids = ["PostgradElectives", "Postgrad-Control", "Postgrad-ComputerScience"]
 study_levels = ["postgrad"]
