@@ -1989,5 +1989,37 @@
       "study_level": "postgrad",
       "majors": []
     }
+  },
+  "2026": {
+    "140012TKE": {
+      "name": "具身智能（大湾区班）",
+      "plan_ID": "58D56D3278956CE3E0630B18F80ACE05",
+      "school_name": "基础学部",
+      "majors": []
+    },
+    "25L51": {
+      "name": "通信工程（中外合作办学）",
+      "plan_ID": "58D56D3278906CE3E0630B18F80ACE05",
+      "school_name": "基础学部",
+      "majors": []
+    },
+    "26L07": {
+      "name": "经济管理试验班（智能社会治理）",
+      "plan_ID": "58D5468E684515FDE0630C18F80A50C9",
+      "school_name": "基础学部",
+      "majors": []
+    },
+    "26L02": {
+      "name": "工科试验班（自主智能）",
+      "plan_ID": "58D530AFF8B8B450E0630C18F80A61A0",
+      "school_name": "基础学部",
+      "majors": []
+    },
+    "26L01": {
+      "name": "工科试验班（未来信息）",
+      "plan_ID": "58D50A68DECF8A1CE0630B18F80A50CC",
+      "school_name": "基础学部",
+      "majors": []
+    }
   }
 }
