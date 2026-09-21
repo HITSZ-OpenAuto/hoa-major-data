@@ -767,6 +767,26 @@
       }
     ]
   },
+  "COMP3003": {
+    "default": [
+      {
+        "name": "课堂表现",
+        "percent": "10%"
+      },
+      {
+        "name": "作业",
+        "percent":"20%"
+      },
+      {
+        "name":"实验",
+        "percent":"20%"
+      },
+      {
+        "name": "期末考试",
+        "percent": "50%"
+      }
+    ]
+  },
   "COMP3004": {
     "default": [
       {
