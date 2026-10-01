@@ -1,0 +1,1732 @@
+[info]
+entry_year = "2026"
+major_code = "0892"
+major_name = "低空技术与工程"
+school_name = "智能科学与工程学院"
+source_plan_IDs = [ "4F69007FD05DB4A2E0630C18F80A94A2", "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_plan_names = [ "202609【9902】低空技术与工程-学术学位-博士生培养方案", "202609【9902】低空技术与工程-直接攻博-学术学位-博士生培养方案", "202609【9902】低空技术与工程-硕博贯通-学术学位-硕士生培养方案", "202609【9902】低空技术与工程-硕博连读-学术学位-博士生培养方案",]
+study_level = "postgrad"
+year_month = "202609"
+
+[[courses]]
+course_code = "AA5145"
+credit = 2.0
+course_name = "人工智能及应用"
+recommended_year_semester = "秋季"
+track = "选修课中必修课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "空天科技学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "选修课中必修课",]
+
+[courses.hours]
+theory = 26
+lab = 6
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "AE4040"
+credit = 2.0
+course_name = "学术英语"
+recommended_year_semester = "秋季"
+track = "公共学位课（硕博连读）"
+course_nature = "学位课"
+course_category = "公共学位课"
+offering_college = "智能科学与工程学院"
+total_hours = 0
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "公共学位课（硕博连读）", "公共学位课（硕）",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH5016"
+credit = 1.0
+course_name = "城市交通"
+recommended_year_semester = "春季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "建筑学院"
+total_hours = 16
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARTS4001"
+credit = 2.0
+course_name = "中国音乐赏析"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "人文艺术学系"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "AUTO5012"
+credit = 2.0
+course_name = "人工神经网络与控制"
+recommended_year_semester = "春季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "AUTO5014"
+credit = 2.0
+course_name = "机器学习"
+recommended_year_semester = "春季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "4F69007FD05DB4A2E0630C18F80A94A2", "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "学科核心课", "博士层次核心课",]
+
+[courses.hours]
+theory = 28
+lab = 4
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "AUTO5028"
+credit = 2.0
+course_name = "多模态感知与理解"
+recommended_year_semester = "春季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 24
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "AUTO5993"
+credit = 1.0
+course_name = "学位论文开题"
+recommended_year_semester = "秋季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "智能科学与工程学院"
+total_hours = 16
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "AUTO5994"
+credit = 1.0
+course_name = "学位论文中期"
+recommended_year_semester = "春季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "智能科学与工程学院"
+total_hours = 16
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "AUTO6007"
+credit = 2.0
+course_name = "强化学习"
+recommended_year_semester = "春季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科学位课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "4F69007FD05DB4A2E0630C18F80A94A2", "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "学科核心课", "博士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "AUTO6990"
+credit = 1.0
+course_name = "综合考评"
+recommended_year_semester = "秋季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "智能科学与工程学院"
+total_hours = 0
+source_plan_IDs = [ "4F69007FD05DB4A2E0630C18F80A94A2",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "AUTO6991"
+credit = 1.0
+course_name = "开题报告"
+recommended_year_semester = "春季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "智能科学与工程学院"
+total_hours = 0
+source_plan_IDs = [ "4F69007FD05DB4A2E0630C18F80A94A2",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "AUTO6992"
+credit = 1.0
+course_name = "中期检查"
+recommended_year_semester = "秋季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "智能科学与工程学院"
+total_hours = 16
+source_plan_IDs = [ "4F69007FD05DB4A2E0630C18F80A94A2",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "AUTO6993"
+credit = 1.0
+course_name = "学术活动"
+recommended_year_semester = "春季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "智能科学与工程学院"
+total_hours = 0
+source_plan_IDs = [ "4F69007FD05DB4A2E0630C18F80A94A2", "59CCA1F5FFFC9AA2E0630B18F80A062F", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL5008"
+credit = 2.0
+assessment_method = "考试"
+course_name = "结构可靠度理论与应用"
+recommended_year_semester = "秋季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL5032"
+credit = 2.0
+assessment_method = "考试"
+course_name = "风工程"
+recommended_year_semester = "春季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL5043"
+credit = 2.0
+course_name = "高等结构可靠度与风险分析"
+recommended_year_semester = "秋季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CIVL6001"
+credit = 2.0
+assessment_method = "考试"
+course_name = "高等计算动力学"
+recommended_year_semester = "秋季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+source_plan_IDs = [ "4F69007FD05DB4A2E0630C18F80A94A2", "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "学科核心课", "博士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COTR6201"
+credit = 2.0
+course_name = "交通规划理论与方法"
+recommended_year_semester = "春季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "建筑学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COTR6202"
+credit = 2.0
+course_name = "城市交通运输系统工程"
+recommended_year_semester = "秋季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "建筑学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CSWR4031"
+credit = 2.0
+course_name = "博士英语——英文科技论文写作"
+recommended_year_semester = "春季"
+track = "博士英语"
+course_nature = "选修课"
+course_category = "博士英语"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "4F69007FD05DB4A2E0630C18F80A94A2",]
+source_tracks = [ "博士英语",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ELEC5107"
+credit = 2.0
+course_name = "移动通信"
+recommended_year_semester = "秋季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "信息科学与技术学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP4002"
+credit = 1.0
+assessment_method = "考试"
+course_name = "自然辩证法概论"
+recommended_year_semester = "春季"
+track = "选修课中必修课"
+course_nature = "选修课"
+course_category = "选修课"
+offering_college = "马克思主义学院"
+total_hours = 16
+source_plan_IDs = [ "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "选修课中必修课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP4004"
+credit = 2.0
+assessment_method = "考试"
+course_name = "新时代中国特色社会主义理论与实践"
+recommended_year_semester = "秋季"
+track = "公共学位课（硕博连读）"
+course_nature = "学位课"
+course_category = "公共学位课"
+offering_college = "马克思主义学院"
+total_hours = 32
+source_plan_IDs = [ "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "公共学位课（硕博连读）",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP4005"
+credit = 2.0
+course_name = "中国式现代化理论与实践"
+recommended_year_semester = "秋季"
+track = "公共学位课（硕博连读）"
+course_nature = "学位课"
+course_category = "公共学位课"
+offering_college = "马克思主义学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454",]
+source_tracks = [ "公共学位课（硕博连读）", "公共学位课（硕）",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP4006"
+credit = 1.0
+course_name = "马克思主义与当代科技"
+recommended_year_semester = "春季"
+track = "选修课中必修课"
+course_nature = "选修课"
+course_category = "选修课"
+offering_college = "马克思主义学院"
+total_hours = 16
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454",]
+source_tracks = [ "选修课中必修课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP4007"
+credit = 2.0
+course_name = "习近平著作选读"
+recommended_year_semester = "秋季"
+track = "公共学位课（博）"
+course_nature = "学位课"
+course_category = "公共学位课"
+offering_college = "马克思主义学院"
+total_hours = 32
+source_plan_IDs = [ "4F69007FD05DB4A2E0630C18F80A94A2", "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "公共学位课（博）", "公共学位课（硕博连读）", "公共学位课（硕）",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GESC4002"
+credit = 1.0
+assessment_method = "考查"
+course_name = "科研信息素养与实践"
+recommended_year_semester = "秋季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学城图书馆"
+total_hours = 16
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 12
+lab = 4
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "HUMA4001"
+credit = 2.0
+assessment_method = "考查"
+course_name = "中国古代文学经典导读"
+recommended_year_semester = "秋季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "人文艺术学系"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG4002"
+credit = 1.0
+assessment_method = "考查"
+course_name = "英美文学赏析"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "外语系"
+total_hours = 16
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG4008"
+credit = 1.0
+assessment_method = "考查"
+course_name = "电子游戏赏析与游戏化开发"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "未来设计学院"
+total_hours = 16
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG4011"
+credit = 1.0
+assessment_method = "考查"
+course_name = "希腊罗马神话"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "外语系"
+total_hours = 16
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG4012"
+credit = 1.0
+assessment_method = "考查"
+course_name = "心理学与生活"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "未来设计学院"
+total_hours = 16
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG4020"
+credit = 1.0
+assessment_method = "考查"
+course_name = "西方音乐简史"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "人文艺术学系"
+total_hours = 16
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LATE5001"
+credit = 2.0
+course_name = "低空技术概论与产业生态"
+recommended_year_semester = "秋季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LATE5002"
+credit = 2.0
+course_name = "低空飞行器系统工程导论"
+recommended_year_semester = "秋季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LATE5003"
+credit = 1.0
+course_name = "低空法规与空域管理"
+recommended_year_semester = "秋季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 16
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LATE5004"
+credit = 2.0
+course_name = "低空动力学与飞行器设计"
+recommended_year_semester = "秋季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 28
+lab = 4
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LATE5005"
+credit = 2.0
+course_name = "低空飞行器推进技术"
+recommended_year_semester = "春季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 28
+lab = 4
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LATE5006"
+credit = 2.0
+course_name = "无人机系统设计与实践 A"
+recommended_year_semester = "秋季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 40
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 16
+lab = 24
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LATE5007"
+credit = 2.0
+course_name = "无人机系统设计与实践 B"
+recommended_year_semester = "春季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 40
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 16
+lab = 24
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LATE5008"
+credit = 2.0
+course_name = "低空飞行器感知定位技术"
+recommended_year_semester = "春季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 28
+lab = 4
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LATE5009"
+credit = 2.0
+course_name = "自主无人机导航控制"
+recommended_year_semester = "秋季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 28
+lab = 4
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LATE5010"
+credit = 2.0
+course_name = "无人机群自主协同控制"
+recommended_year_semester = "秋季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 28
+lab = 4
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LATE5011"
+credit = 2.0
+course_name = "无人机反制技术"
+recommended_year_semester = "春季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 28
+lab = 4
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LATE5012"
+credit = 2.0
+course_name = "低空数字孪生与人工智能"
+recommended_year_semester = "春季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 28
+lab = 4
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LATE5013"
+credit = 2.0
+course_name = "低空安全与风险管理"
+recommended_year_semester = "春季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LATE5014"
+credit = 2.0
+course_name = "低空气象学"
+recommended_year_semester = "秋季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LATE5015"
+credit = 2.0
+course_name = "低空智能组网通信技术"
+recommended_year_semester = "春季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LATE5016"
+credit = 2.0
+course_name = "低空雷达感知技术"
+recommended_year_semester = "秋季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LATE5017"
+credit = 2.0
+course_name = "低空高精度遥感技术"
+recommended_year_semester = "秋季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LATE5018"
+credit = 2.0
+course_name = "低空平台天线与射频系统"
+recommended_year_semester = "春季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LATE5019"
+credit = 2.0
+course_name = "低空运行与空域管理"
+recommended_year_semester = "秋季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LATE5020"
+credit = 2.0
+course_name = "低空交通规划"
+recommended_year_semester = "春季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LATE5021"
+credit = 2.0
+course_name = "交通运输经济学与系统分析"
+recommended_year_semester = "春季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LATE5027"
+credit = 2.0
+assessment_method = "考试"
+course_name = "低空流场分析与计算方法"
+recommended_year_semester = "秋季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 24
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LATE5028"
+credit = 2.0
+assessment_method = "考试"
+course_name = "动力电池系统设计与仿真建模"
+recommended_year_semester = "秋季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LATE5029"
+credit = 2.0
+assessment_method = "考试"
+course_name = "氢动力无人机原理"
+recommended_year_semester = "春季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LATE5030"
+credit = 2.0
+assessment_method = "考试"
+course_name = "低空流体力学中的数据驱动建模与智能控制"
+recommended_year_semester = "秋季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LATE6001"
+credit = 2.0
+course_name = "低空大数据解析与应用"
+recommended_year_semester = "秋季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "4F69007FD05DB4A2E0630C18F80A94A2", "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "学科核心课", "博士层次核心课",]
+
+[courses.hours]
+theory = 24
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LATE6002"
+credit = 2.0
+course_name = "低空通信抗干扰理论与技术"
+recommended_year_semester = "秋季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "4F69007FD05DB4A2E0630C18F80A94A2", "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "学科核心课", "博士层次核心课",]
+
+[courses.hours]
+theory = 24
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LATE6003"
+credit = 2.0
+course_name = "航空运输经济与政策"
+recommended_year_semester = "秋季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "4F69007FD05DB4A2E0630C18F80A94A2", "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "学科核心课", "博士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LATE6004"
+credit = 2.0
+course_name = "低空动力学与非线性控制"
+recommended_year_semester = "秋季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 32
+source_plan_IDs = [ "4F69007FD05DB4A2E0630C18F80A94A2", "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "学科核心课", "博士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH4001"
+credit = 2.0
+course_name = "矩阵分析"
+recommended_year_semester = "秋季"
+track = "数理类课"
+course_nature = "学位课"
+course_category = "数理类"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "数理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH4002"
+credit = 2.0
+course_name = "优化算法"
+recommended_year_semester = "秋季"
+track = "数理类课"
+course_nature = "学位课"
+course_category = "数理类"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "数理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH4004"
+credit = 2.0
+course_name = "数值分析"
+recommended_year_semester = "秋季"
+track = "数理类课"
+course_nature = "学位课"
+course_category = "数理类"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "数理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH4008"
+credit = 2.0
+course_name = "随机过程"
+recommended_year_semester = "秋季"
+track = "数理类课"
+course_nature = "学位课"
+course_category = "数理类"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "数理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH5004"
+credit = 2.0
+course_name = "实分析"
+recommended_year_semester = "春季"
+track = "数理类课"
+course_nature = "学位课"
+course_category = "数理类"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "数理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PETP5002"
+credit = 2.0
+course_name = "湍流I"
+recommended_year_semester = "春季"
+track = "博士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "机器人与先进制造学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "博士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PETP5014"
+credit = 2.0
+course_name = "湍流测量原理与方法"
+recommended_year_semester = "秋季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "机器人与先进制造学院"
+total_hours = 32
+source_plan_IDs = [ "4F69007FD05DB4A2E0630C18F80A94A2", "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "学科核心课", "博士层次核心课",]
+
+[courses.hours]
+theory = 20
+lab = 12
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PETP5021"
+credit = 2.0
+course_name = "高等空气动力学"
+recommended_year_semester = "秋季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "机器人与先进制造学院"
+total_hours = 32
+source_plan_IDs = [ "4F69007FD05DB4A2E0630C18F80A94A2", "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "学科核心课", "博士层次核心课",]
+
+[courses.hours]
+theory = 26
+lab = 6
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PETP6004"
+credit = 2.0
+course_name = "人工智能流动控制前沿技术"
+recommended_year_semester = "春季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "机器人与先进制造学院"
+total_hours = 32
+source_plan_IDs = [ "4F69007FD05DB4A2E0630C18F80A94A2", "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "学科核心课", "博士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1004"
+credit = 1.0
+assessment_method = "考查"
+course_name = "婚恋与性健康教育"
+recommended_year_semester = "秋季,春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1005"
+credit = 1.0
+course_name = "大学生人际关系心理学"
+recommended_year_semester = "秋季,春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1006"
+credit = 1.0
+assessment_method = "考查"
+course_name = "性科学与性艺术教育"
+recommended_year_semester = "秋季,春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1011"
+credit = 1.0
+assessment_method = "考查"
+course_name = "大学生心理素质提升团体辅导"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1012"
+credit = 1.0
+assessment_method = "考查"
+course_name = "自我与生命探索"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1013"
+credit = 1.5
+assessment_method = "考查"
+course_name = "青年成长与发展心理"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 24
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1024"
+credit = 1.0
+course_name = "东方文化心理与压力进化论"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET4007"
+credit = 1.0
+course_name = "研究生心理健康"
+recommended_year_semester = "秋季,春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PQ4001"
+credit = 1.0
+course_name = "职业伦理"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "马克思主义学院"
+total_hours = 16
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "SEIN1051"
+credit = 1.0
+course_name = "知识产权法"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "科学探索与创新"
+offering_college = "马克思主义学院"
+total_hours = 16
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "SEIN1137"
+credit = 2.0
+course_name = "航空技术概论"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "实验与创新实践教育中心（分析测试中心）"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 26
+lab = 6
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "SOCC1014"
+credit = 2.0
+assessment_method = "考查"
+course_name = "可持续发展时代（英）"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "WRCO4024"
+credit = 1.0
+course_name = "学术规范及论文写作"
+recommended_year_semester = "春季"
+track = "博士层次核心课"
+course_nature = "必修环节"
+course_category = "学科核心课"
+offering_college = "智能科学与工程学院"
+total_hours = 16
+source_plan_IDs = [ "59CCA1F5FFFC9AA2E0630B18F80A062F", "50690F9D836446BBE0630C18F80A1454", "4F6902DBA64F4843E0630B18F80AE33C",]
+source_tracks = [ "博士层次核心课", "硕士层次核心课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0

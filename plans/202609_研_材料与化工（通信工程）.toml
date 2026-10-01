@@ -1,0 +1,4099 @@
+[info]
+entry_year = "2026"
+major_code = "085602"
+major_name = "材料与化工（通信工程）"
+school_name = "理学院"
+source_plan_IDs = [ "4F6995EEB0F7F84CE0630B18F80AA8BF", "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_plan_names = [ "202609[0856]材料与化工（化学工程）-专业学位-博士生培养方案", "202609[0856]材料与化工（化学）-直接攻博-专业学位-博士生培养方案", "202609[0856]材料与化工（化学）-直接攻博-专业学位-博士生培养方案(工程硕博士培养改革专项)", "202609[0856]材料与化工（化学）-硕博连读-专业学位-博士生培养方案", "202609[0856]材料与化工（化学）-硕博连读-专业学位-博士生培养方案(工程硕博士培养改革专项)",]
+study_level = "postgrad"
+year_month = "202609"
+
+[[courses]]
+course_code = "AE4090"
+credit = 2.0
+assessment_method = "考试"
+course_name = "学术英语"
+recommended_year_semester = "秋季,春季"
+track = "公共学位课（硕博连读）"
+course_nature = "学位课"
+course_category = "公共学位课"
+offering_college = "理学院"
+total_hours = 0
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "公共学位课（硕博连读）",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARTS4001"
+credit = 2.0
+course_name = "中国音乐赏析"
+recommended_year_semester = "春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "人文艺术学系"
+total_hours = 32
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CHEM5002"
+credit = 2.0
+course_name = "高等分析化学"
+recommended_year_semester = "秋季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CHEM5004"
+credit = 2.0
+course_name = "物理有机化学"
+recommended_year_semester = "秋季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CHEM5005"
+credit = 2.0
+course_name = "有机合成化学"
+recommended_year_semester = "秋季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CHEM5034"
+credit = 2.0
+course_name = "波谱学原理与应用"
+recommended_year_semester = "秋季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CHEM5036"
+credit = 2.0
+course_name = "高等高分子化学"
+recommended_year_semester = "秋季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CHEM5037"
+credit = 2.0
+course_name = "材料化学与物理"
+recommended_year_semester = "秋季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CHEM5038"
+credit = 2.0
+course_name = "高等分子生物学"
+recommended_year_semester = "秋季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CHEM5039"
+credit = 2.0
+course_name = "高等无机化学"
+recommended_year_semester = "春季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CHEM5040"
+credit = 2.0
+course_name = "高分子凝聚态物理"
+recommended_year_semester = "秋季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CHEM5041"
+credit = 2.0
+course_name = "高分子研究方法"
+recommended_year_semester = "秋季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CHEM5042"
+credit = 2.0
+course_name = "功能材料制备工艺基础"
+recommended_year_semester = "春季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CHEM5046"
+credit = 2.0
+course_name = "高等有机化学"
+recommended_year_semester = "秋季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CHEM5996"
+credit = 3.0
+course_name = "专业实践"
+recommended_year_semester = "春季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "理学院"
+total_hours = 0
+source_plan_IDs = [ "4F6995EEB0F7F84CE0630B18F80AA8BF", "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CHEM6006"
+credit = 2.0
+course_name = "高等物理化学"
+recommended_year_semester = "秋季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "4F6995EEB0F7F84CE0630B18F80AA8BF", "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "学科核心课", "博士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CHEM6007"
+credit = 2.0
+course_name = "量子化学基础"
+recommended_year_semester = "秋季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "4F6995EEB0F7F84CE0630B18F80AA8BF", "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "学科核心课", "博士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CHEM6008"
+credit = 2.0
+course_name = "理论和计算化学"
+recommended_year_semester = "春季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "4F6995EEB0F7F84CE0630B18F80AA8BF", "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "学科核心课", "博士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CHEM6009"
+credit = 2.0
+course_name = "生物分析化学"
+recommended_year_semester = "秋季"
+track = "博士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "博士层次核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CHEM6990"
+credit = 1.0
+course_name = "综合考评"
+recommended_year_semester = "春季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "理学院"
+total_hours = 16
+source_plan_IDs = [ "4F6995EEB0F7F84CE0630B18F80AA8BF",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CHEM6991"
+credit = 1.0
+course_name = "开题报告"
+recommended_year_semester = "春季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "理学院"
+total_hours = 0
+source_plan_IDs = [ "4F6995EEB0F7F84CE0630B18F80AA8BF", "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CHEM6992"
+credit = 1.0
+course_name = "中期检查"
+recommended_year_semester = "春季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "理学院"
+total_hours = 0
+source_plan_IDs = [ "4F6995EEB0F7F84CE0630B18F80AA8BF", "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CHEM6993"
+credit = 1.0
+course_name = "学术活动"
+recommended_year_semester = "春季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "理学院"
+total_hours = 0
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "CHEM6999"
+credit = 1.0
+course_name = "学术与技术交流"
+recommended_year_semester = "春季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "理学院"
+total_hours = 0
+source_plan_IDs = [ "4F6995EEB0F7F84CE0630B18F80AA8BF",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ECON1002"
+credit = 2.0
+course_name = "技术管理"
+recommended_year_semester = "春季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F6995EEB0F7F84CE0630B18F80AA8BF", "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ECON5029"
+credit = 2.0
+assessment_method = "考查"
+course_name = "气候变化与低碳发展"
+recommended_year_semester = "秋季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F6995EEB0F7F84CE0630B18F80AA8BF", "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ECON5031"
+credit = 2.0
+assessment_method = "考查"
+course_name = "公司战略与风险管理"
+recommended_year_semester = "秋季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F6995EEB0F7F84CE0630B18F80AA8BF", "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "EMEC5040"
+credit = 2.0
+course_name = "面向科学与工程的人工智能"
+recommended_year_semester = "秋季"
+track = "选修课中必修课"
+course_nature = "选修课"
+course_category = "选修课"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "选修课中必修课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP4002"
+credit = 1.0
+assessment_method = "考试"
+course_name = "自然辩证法概论"
+recommended_year_semester = "春季"
+track = "选修课中必修课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "马克思主义学院"
+total_hours = 16
+source_plan_IDs = [ "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "选修课中必修课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP4004"
+credit = 2.0
+assessment_method = "考试"
+course_name = "新时代中国特色社会主义理论与实践"
+recommended_year_semester = "秋季"
+track = "公共学位课（硕博连读）"
+course_nature = "学位课"
+course_category = "公共学位课"
+offering_college = "马克思主义学院"
+total_hours = 32
+source_plan_IDs = [ "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "公共学位课（硕博连读）",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP4005"
+credit = 2.0
+course_name = "中国式现代化理论与实践"
+recommended_year_semester = "秋季"
+track = "公共学位课（硕博连读）"
+course_nature = "学位课"
+course_category = "公共学位课"
+offering_college = "马克思主义学院"
+total_hours = 32
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D",]
+source_tracks = [ "公共学位课（硕博连读）",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP4006"
+credit = 1.0
+course_name = "马克思主义与当代科技"
+recommended_year_semester = "春季"
+track = "选修课中必修课"
+course_nature = "选修课"
+course_category = "选修课"
+offering_college = "马克思主义学院"
+total_hours = 16
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D",]
+source_tracks = [ "选修课中必修课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP4007"
+credit = 2.0
+course_name = "习近平著作选读"
+recommended_year_semester = "秋季"
+track = "公共学位课（博）"
+course_nature = "学位课"
+course_category = "公共学位课"
+offering_college = "马克思主义学院"
+total_hours = 32
+source_plan_IDs = [ "4F6995EEB0F7F84CE0630B18F80AA8BF", "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "公共学位课（博）", "公共学位课（硕博连读）",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GESC4002"
+credit = 1.0
+assessment_method = "考查"
+course_name = "科研信息素养与实践"
+recommended_year_semester = "秋季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学城图书馆"
+total_hours = 16
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 12
+lab = 4
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66001MAI"
+credit = 2.0
+course_name = "人工智能辅助科学研究"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66001MAT"
+credit = 2.0
+course_name = "数字化精密测量与智能化"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 23
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66001MBM"
+credit = 2.0
+course_name = "药品医疗器械监管科学"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66001MCS"
+credit = 2.0
+course_name = "软件可靠性工程"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66001MCY"
+credit = 2.0
+course_name = "网络安全技术与实践"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66001MET"
+credit = 3.0
+course_name = "高速旋转机械动力学"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66001MIC"
+credit = 3.0
+course_name = "数字大规模集成电路：设计与实践"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66001MMT"
+credit = 2.0
+course_name = "优化设计方法与实践"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66001MNC"
+credit = 3.0
+course_name = "信息通信中的矩阵论"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66001MNM"
+credit = 3.0
+course_name = "高等材料化学"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66001MNS"
+credit = 3.0
+course_name = "核工程实验和虚拟仿真"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66001MSE"
+credit = 3.0
+course_name = "工程数值计算方法"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66002MAI"
+credit = 2.0
+course_name = "大模型算法与实践"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66002MAT"
+credit = 2.5
+course_name = "先进试验数据处理"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 40
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66002MBM"
+credit = 1.5
+course_name = "生物芯片与体外诊断"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 20
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66002MCS"
+credit = 2.0
+course_name = "高级软件分析与测试"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66002MCY"
+credit = 2.0
+course_name = "网络安全测量与行为学"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66002MET"
+credit = 2.0
+course_name = "叶轮机械多学科耦合设计"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66002MIC"
+credit = 3.0
+course_name = "集成电路材料与装备"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 52
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66002MMT"
+credit = 2.0
+course_name = "制造过程技术与实践"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66002MNC"
+credit = 3.0
+course_name = "现代通信网理论与技术"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66002MNM"
+credit = 3.0
+course_name = "材料基因工程与机器学习"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66002MNS"
+credit = 2.0
+course_name = "核化工与后处理"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 36
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66002MSE"
+credit = 2.0
+course_name = "先进电工材料与智能装备"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66003MAI"
+credit = 2.0
+course_name = "人工智能系统架构"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66003MAT"
+credit = 2.0
+course_name = "故障预测与智能维护"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66003MBM"
+credit = 3.0
+course_name = "生物材料与再生医学工程"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 40
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66003MCS"
+credit = 2.0
+course_name = "系统工程"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66003MCY"
+credit = 2.0
+course_name = "社交网络分析"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66003MET"
+credit = 1.5
+course_name = "燃气涡轮发动机设计"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 24
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66003MIC"
+credit = 2.0
+course_name = "集成电路先进封装与系统集成"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 40
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66003MMT"
+credit = 2.0
+course_name = "控制与智能工程学"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66003MNC"
+credit = 2.0
+course_name = "现代数字通信"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66003MNM"
+credit = 3.0
+course_name = "先进生物材料及应用技术"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66003MNS"
+credit = 4.0
+course_name = "磁约束聚变：原理与实践"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 64
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66003MSE"
+credit = 2.0
+course_name = "能源系统仿真与分析"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66004MAI"
+credit = 2.0
+course_name = "人工智能大数据与超算融合系统"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 36
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66004MAT"
+credit = 3.0
+course_name = "智能感知技术"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66004MBM"
+credit = 2.0
+course_name = "精准医学与新药创制"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66004MCS"
+credit = 2.0
+course_name = "现代软件开发方法"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 36
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66004MCY"
+credit = 2.0
+course_name = "云计算安全"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66004MET"
+credit = 1.0
+course_name = "燃气涡轮发动机结构完整性"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 16
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66004MIC"
+credit = 2.0
+course_name = "功率半导体器件与电路"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 40
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66004MMT"
+credit = 4.0
+course_name = "先进制造工程学"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 64
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 64
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66004MNC"
+credit = 2.0
+course_name = "无线光通信与感知"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66004MNM"
+credit = 3.0
+course_name = "先进成形技术"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66004MNS"
+credit = 4.0
+course_name = "辐射成像算法与工程应用"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 64
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66004MSE"
+credit = 3.0
+course_name = "工程计算流体力学"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66005MAI"
+credit = 2.0
+course_name = "人工智能算法与系统"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66005MAT"
+credit = 2.0
+course_name = "先进光电测试技术"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66005MBM"
+credit = 2.0
+course_name = "纳米医药技术"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66005MCS"
+credit = 2.0
+course_name = "高级软件工程管理"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66005MCY"
+credit = 2.0
+course_name = "高级网络安全与前沿研究"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66005MET"
+credit = 2.0
+course_name = "内流气动热力学"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66005MIC"
+credit = 2.0
+course_name = "集成电路前沿技术"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66005MMT"
+credit = 2.0
+course_name = "数值方法与计算力学"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66005MNC"
+credit = 2.0
+course_name = "无线通信中的信息超材料"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 26
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66005MNM"
+credit = 2.0
+course_name = "计算材料学及应用"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66005MNS"
+credit = 3.0
+course_name = "核工程与核技术前沿讲座"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66005MSE"
+credit = 3.0
+course_name = "高等工程传热学"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66006MAI"
+credit = 2.0
+course_name = "大模型：理论与架构"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66006MAT"
+credit = 2.0
+course_name = "视觉检测与智能图像处理"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66006MBM"
+credit = 2.5
+course_name = "医学图像与智能信息处理"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 35
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66006MCS"
+credit = 3.0
+course_name = "软件安全"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66006MCY"
+credit = 3.0
+course_name = "计算机系统安全"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66006MET"
+credit = 3.0
+course_name = "高等工程传热传质学"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66006MIC"
+credit = 3.0
+course_name = "现代半导体物理与器件"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66006MMT"
+credit = 3.0
+course_name = "数字信号分析理论与实践"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 48
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66006MNC"
+credit = 2.0
+course_name = "5G移动通信系统设计"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66006MNM"
+credit = 3.0
+course_name = "高性能复合材料与应用"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66006MNS"
+credit = 4.0
+course_name = "工程应用中的辐射防护"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 64
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66006MSE"
+credit = 2.0
+course_name = "高等工程电磁场"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66007MAI"
+credit = 2.0
+course_name = "智能内容合成与数字创意"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66007MAT"
+credit = 2.0
+course_name = "微弱信号检测及处理"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 34
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66007MBM"
+credit = 3.25
+course_name = "生物医学成像"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 36
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66007MCS"
+credit = 2.0
+course_name = "云计算技术原理"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66007MCY"
+credit = 3.0
+course_name = "人工智能安全（网络安全）"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66007MET"
+credit = 2.0
+course_name = "航空发动机研制系统工程概论与实践"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66007MIC"
+credit = 3.0
+course_name = "模拟大规模集成电路：设计与实践"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66007MMT"
+credit = 2.0
+course_name = "数控技术与实践"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66007MNC"
+credit = 3.0
+course_name = "现代光通信与光网络"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66007MNM"
+credit = 3.0
+course_name = "先进金属材料及应用技术"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66007MNS"
+credit = 3.0
+course_name = "加速器技术与工程"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 61
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66007MSE"
+credit = 2.0
+course_name = "专业实践课程—能源产生"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66008MAI"
+credit = 2.0
+course_name = "类脑智能：原理、算法与系统"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66008MAT"
+credit = 2.0
+course_name = "测量机器人及系统"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66008MBM"
+credit = 3.0
+course_name = "康复工程与医疗机器人"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66008MCS"
+credit = 1.0
+course_name = "高级数据库系统"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 16
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66008MCY"
+credit = 2.0
+course_name = "数据安全与隐私保护"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66008MET"
+credit = 3.0
+course_name = "航空发动机智能控制"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66008MIC"
+credit = 3.0
+course_name = "宽禁带半导体材料与器件"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66008MMT"
+credit = 2.0
+course_name = "先进工程材料学"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66008MNC"
+credit = 1.5
+course_name = "卫星通信与星间互联网"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 24
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66008MNM"
+credit = 3.0
+course_name = "先进表征技术及应用"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66008MNS"
+credit = 3.0
+course_name = "核技术应用案例与实践"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66008MSE"
+credit = 2.0
+course_name = "专业实践课程—能源控制"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66009MAI"
+credit = 2.0
+course_name = "云原生智能：技术与架构"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 24
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66009MAT"
+credit = 2.0
+course_name = "复杂装备自动测试与故障诊断技术"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66009MBM"
+credit = 2.0
+course_name = "合成生物学与生物制药"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66009MCS"
+credit = 2.0
+course_name = "软件需求工程"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66009MCY"
+credit = 3.0
+course_name = "内生安全赋能网络弹性工程"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 20
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66009MET"
+credit = 2.0
+course_name = "高温结构力学"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66009MIC"
+credit = 3.0
+course_name = "混合信号模拟集成电路：设计与实践"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66009MNC"
+credit = 3.0
+course_name = "信息通信中的随机数学"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66009MNM"
+credit = 3.0
+course_name = "电子信息材料及应用技术"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66009MNS"
+credit = 3.0
+course_name = "核材料与关键设备制造"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66009MSE"
+credit = 2.0
+course_name = "综合能源与先进储能技术"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66010MAI"
+credit = 2.0
+course_name = "人工智能伦理与法律导论"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66010MAT"
+credit = 2.0
+course_name = "先进试验理论与技术"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66010MBM"
+credit = 2.0
+course_name = "神经工程与脑机接口"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66010MCS"
+credit = 3.0
+course_name = "高级操作系统"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66010MCY"
+credit = 2.0
+course_name = "密码设计分析与实现"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 40
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66010MET"
+credit = 2.0
+course_name = "航空燃气轮机虚实融合设计和数字化工程"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66010MMT"
+credit = 2.0
+course_name = "机电系统动力学分析与控制"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66010MNC"
+credit = 3.0
+course_name = "信息论与编码技术"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66010MNM"
+credit = 2.0
+course_name = "先进无机非金属材料及应用"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66010MNS"
+credit = 4.0
+course_name = "工程应用中的核辐射物理及探测"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 64
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66010MSE"
+credit = 3.0
+course_name = "数据科学"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66011MAI"
+credit = 3.0
+course_name = "人工智能安全（人工智能）"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66011MAT"
+credit = 2.0
+course_name = "量子化测量理论与技术"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66011MBM"
+credit = 2.0
+course_name = "高端医疗电子设备"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66011MCS"
+credit = 3.0
+course_name = "大型软件体系结构"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66011MCY"
+credit = 3.0
+course_name = "软件安全分析"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66011MET"
+credit = 2.0
+course_name = "航空智能电推进技术"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66011MNC"
+credit = 3.0
+course_name = "现代射频与天线"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66011MNM"
+credit = 3.0
+course_name = "先进能源材料及应用"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66012MAT"
+credit = 3.0
+course_name = "可靠性与环境试验技术"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66012MBM"
+credit = 2.0
+course_name = "现代生物制药工艺与装备"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66012MCS"
+credit = 2.0
+course_name = "智能计算系统"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 40
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66012MCY"
+credit = 2.0
+course_name = "无线与物联网安全"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66012MNC"
+credit = 2.0
+course_name = "智能通信理论与工程实践"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66012MNM"
+credit = 2.0
+course_name = "极端条件材料与应用技术"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 32
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66013MNC"
+credit = 3.0
+course_name = "现代信号处理（新一代信息通信技术）"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66013MNM"
+credit = 2.0
+course_name = "高分子材料及应用技术"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 36
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GS66014MNM"
+credit = 3.0
+course_name = "工程前沿材料"
+recommended_year_semester = "秋季,春季"
+track = "卓越工程师核心课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "卓越工程师核心课程学习平台"
+total_hours = 48
+source_plan_IDs = [ "59CC4B98FE18B19BE0630C18F80A0C3D", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "卓越工程师核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "HUMA4001"
+credit = 2.0
+assessment_method = "考查"
+course_name = "中国古代文学经典导读"
+recommended_year_semester = "秋季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "人文艺术学系"
+total_hours = 32
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "INGP1001"
+credit = 2.0
+course_name = "技术创新驱动的精益创业"
+recommended_year_semester = "秋季,春季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F6995EEB0F7F84CE0630B18F80AA8BF", "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 24
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG4002"
+credit = 1.0
+assessment_method = "考查"
+course_name = "英美文学赏析"
+recommended_year_semester = "春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "外语系"
+total_hours = 16
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG4008"
+credit = 1.0
+assessment_method = "考查"
+course_name = "电子游戏赏析与游戏化开发"
+recommended_year_semester = "春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "未来设计学院"
+total_hours = 16
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG4011"
+credit = 1.0
+assessment_method = "考查"
+course_name = "希腊罗马神话"
+recommended_year_semester = "春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "外语系"
+total_hours = 16
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG4012"
+credit = 1.0
+assessment_method = "考查"
+course_name = "心理学与生活"
+recommended_year_semester = "春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "未来设计学院"
+total_hours = 16
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG4020"
+credit = 1.0
+assessment_method = "考查"
+course_name = "西方音乐简史"
+recommended_year_semester = "春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "人文艺术学系"
+total_hours = 16
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT5029"
+credit = 2.0
+assessment_method = "考查"
+course_name = "企业风险量化建模与案例分析"
+recommended_year_semester = "秋季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F6995EEB0F7F84CE0630B18F80AA8BF", "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT5030"
+credit = 2.0
+assessment_method = "考查"
+course_name = "企业管理导论"
+recommended_year_semester = "春季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F6995EEB0F7F84CE0630B18F80AA8BF", "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT5031"
+credit = 2.0
+assessment_method = "考查"
+course_name = "公司并购"
+recommended_year_semester = "秋季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F6995EEB0F7F84CE0630B18F80AA8BF", "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT5032"
+credit = 2.0
+assessment_method = "考查"
+course_name = "内部控制学"
+recommended_year_semester = "春季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F6995EEB0F7F84CE0630B18F80AA8BF", "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT5061"
+credit = 2.0
+course_name = "货币、银行与金融市场"
+recommended_year_semester = "秋季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F6995EEB0F7F84CE0630B18F80AA8BF", "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT5062"
+credit = 2.0
+assessment_method = "考查"
+course_name = "战略管理与商业模式"
+recommended_year_semester = "秋季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F6995EEB0F7F84CE0630B18F80AA8BF", "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT5063"
+credit = 2.0
+assessment_method = "考查"
+course_name = "证券分析与投资"
+recommended_year_semester = "春季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F6995EEB0F7F84CE0630B18F80AA8BF", "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT5064"
+credit = 2.0
+assessment_method = "考查"
+course_name = "碳排放权交易原理与实践"
+recommended_year_semester = "秋季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F6995EEB0F7F84CE0630B18F80AA8BF", "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1004"
+credit = 1.0
+assessment_method = "考查"
+course_name = "婚恋与性健康教育"
+recommended_year_semester = "秋季,春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1005"
+credit = 1.0
+course_name = "大学生人际关系心理学"
+recommended_year_semester = "秋季,春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1006"
+credit = 1.0
+assessment_method = "考查"
+course_name = "性科学与性艺术教育"
+recommended_year_semester = "秋季,春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1007"
+credit = 1.0
+course_name = "大学生常见心理困扰与应对"
+recommended_year_semester = "秋季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1008"
+credit = 1.0
+course_name = "就业生涯规划心理"
+recommended_year_semester = "春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1009"
+credit = 1.0
+assessment_method = "考查"
+course_name = "情绪管理案例学习"
+recommended_year_semester = "春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1010"
+credit = 1.0
+assessment_method = "考查"
+course_name = "犯罪心理学案例分析"
+recommended_year_semester = "春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1011"
+credit = 1.0
+assessment_method = "考查"
+course_name = "大学生心理素质提升团体辅导"
+recommended_year_semester = "春季,秋季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1012"
+credit = 1.0
+assessment_method = "考查"
+course_name = "自我与生命探索"
+recommended_year_semester = "春季,秋季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1013"
+credit = 1.5
+assessment_method = "考查"
+course_name = "青年成长与发展心理"
+recommended_year_semester = "春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 24
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1014"
+credit = 1.0
+assessment_method = "考查"
+course_name = "高效学习与积极心理"
+recommended_year_semester = "春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1024"
+credit = 1.0
+course_name = "东方文化心理与压力进化论"
+recommended_year_semester = "春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET4007"
+credit = 1.0
+course_name = "研究生心理健康"
+recommended_year_semester = "秋季,春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PQ4012"
+credit = 1.0
+course_name = "工程伦理"
+recommended_year_semester = "春季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "机器人与先进制造学院"
+total_hours = 16
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "SEIN1032"
+credit = 1.0
+assessment_method = "考查"
+course_name = "实验室安全"
+recommended_year_semester = "秋季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "实验与创新实践教育中心（分析测试中心）"
+total_hours = 16
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 12
+lab = 4
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "SEIN1051"
+credit = 1.0
+course_name = "知识产权法"
+recommended_year_semester = "春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "科学探索与创新"
+offering_college = "马克思主义学院"
+total_hours = 16
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "SEIN1137"
+credit = 2.0
+course_name = "航空技术概论"
+recommended_year_semester = "春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "实验与创新实践教育中心（分析测试中心）"
+total_hours = 32
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 26
+lab = 6
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "SOCC1014"
+credit = 2.0
+assessment_method = "考查"
+course_name = "可持续发展时代（英）"
+recommended_year_semester = "春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "WRCO4032"
+credit = 1.0
+course_name = "研究生科学素养"
+recommended_year_semester = "秋季"
+track = "硕士层次核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "理学院"
+total_hours = 16
+source_plan_IDs = [ "59CC4F6FB0CF118FE0630B18F80A94D3", "59CC4B98FE18B19BE0630C18F80A0C3D", "4F6988667AB1CB41E0630B18F80A0BBA", "58492467D51561BEE0630B18F80A44C3",]
+source_tracks = [ "硕士层次核心课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0

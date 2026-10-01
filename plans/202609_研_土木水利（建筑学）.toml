@@ -1,0 +1,1618 @@
+[info]
+entry_year = "2026"
+major_code = "085903"
+major_name = "土木水利（建筑学）"
+school_name = "智能土木与海洋工程学院"
+source_plan_IDs = [ "4F69CCBFE0A48ED7E0630C18F80AEB62", "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_plan_names = [ "202609[0859]土木水利（建筑学）-专业学位-博士生培养方案", "202609【0859】土木水利（海洋工程）-专业学位-硕士生培养方案",]
+study_level = "postgrad"
+year_month = "202609"
+
+[[courses]]
+course_code = "AE4060"
+credit = 2.0
+course_name = "学术英语"
+recommended_year_semester = "秋季,春季"
+track = "公共学位课（硕）"
+course_nature = "学位课"
+course_category = "公共学位课"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 0
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "公共学位课（硕）",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH5992"
+credit = 3.0
+course_name = "专业实践"
+recommended_year_semester = "秋季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "建筑学院"
+total_hours = 0
+source_plan_IDs = [ "4F69CCBFE0A48ED7E0630C18F80AEB62",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH5999"
+credit = 1.0
+course_name = "学术与技术交流"
+recommended_year_semester = "秋季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "建筑学院"
+total_hours = 0
+source_plan_IDs = [ "4F69CCBFE0A48ED7E0630C18F80AEB62",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH6002"
+credit = 1.0
+course_name = "城市乌托邦思想与实践"
+recommended_year_semester = "秋季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "建筑学院"
+total_hours = 16
+source_plan_IDs = [ "4F69CCBFE0A48ED7E0630C18F80AEB62",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH6003"
+credit = 1.0
+course_name = "城市化过程"
+recommended_year_semester = "春季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "建筑学院"
+total_hours = 16
+source_plan_IDs = [ "4F69CCBFE0A48ED7E0630C18F80AEB62",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH6004"
+credit = 1.0
+course_name = "建成环境更新理论与评价方法"
+recommended_year_semester = "秋季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "建筑学院"
+total_hours = 16
+source_plan_IDs = [ "4F69CCBFE0A48ED7E0630C18F80AEB62",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH6006"
+credit = 1.0
+course_name = "城市人文遥感方法与理论"
+recommended_year_semester = "秋季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "建筑学院"
+total_hours = 16
+source_plan_IDs = [ "4F69CCBFE0A48ED7E0630C18F80AEB62",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH6007"
+credit = 2.0
+course_name = "空间分析与大数据高级研究"
+recommended_year_semester = "春季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "建筑学院"
+total_hours = 32
+source_plan_IDs = [ "4F69CCBFE0A48ED7E0630C18F80AEB62",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH6101"
+credit = 1.0
+course_name = "建筑计算性设计方法与技术"
+recommended_year_semester = "秋季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "建筑学院"
+total_hours = 16
+source_plan_IDs = [ "4F69CCBFE0A48ED7E0630C18F80AEB62",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH6102"
+credit = 1.0
+course_name = "二十世纪以来的建筑理论图景"
+recommended_year_semester = "秋季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "建筑学院"
+total_hours = 16
+source_plan_IDs = [ "4F69CCBFE0A48ED7E0630C18F80AEB62",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH6104"
+credit = 1.0
+course_name = "建筑与城市遗产保护前沿"
+recommended_year_semester = "春季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "建筑学院"
+total_hours = 16
+source_plan_IDs = [ "4F69CCBFE0A48ED7E0630C18F80AEB62",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH6107"
+credit = 1.0
+course_name = "建筑技术科学研究专题"
+recommended_year_semester = "春季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "建筑学院"
+total_hours = 16
+source_plan_IDs = [ "4F69CCBFE0A48ED7E0630C18F80AEB62",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH6108"
+credit = 2.0
+course_name = "环境行为学"
+recommended_year_semester = "秋季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "建筑学院"
+total_hours = 32
+source_plan_IDs = [ "4F69CCBFE0A48ED7E0630C18F80AEB62",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH6990"
+credit = 1.0
+course_name = "综合考评"
+recommended_year_semester = "春季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "建筑学院"
+total_hours = 16
+source_plan_IDs = [ "4F69CCBFE0A48ED7E0630C18F80AEB62",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH6991"
+credit = 1.0
+course_name = "开题报告"
+recommended_year_semester = "秋季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "建筑学院"
+total_hours = 16
+source_plan_IDs = [ "4F69CCBFE0A48ED7E0630C18F80AEB62",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH6992"
+credit = 1.0
+course_name = "中期检查"
+recommended_year_semester = "秋季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "建筑学院"
+total_hours = 16
+source_plan_IDs = [ "4F69CCBFE0A48ED7E0630C18F80AEB62",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARTS4001"
+credit = 2.0
+course_name = "中国音乐赏析"
+recommended_year_semester = "春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "人文艺术学系"
+total_hours = 32
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ECON1002"
+credit = 2.0
+course_name = "技术管理"
+recommended_year_semester = "春季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F69CCBFE0A48ED7E0630C18F80AEB62", "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ECON5029"
+credit = 2.0
+assessment_method = "考查"
+course_name = "气候变化与低碳发展"
+recommended_year_semester = "秋季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F69CCBFE0A48ED7E0630C18F80AEB62", "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ECON5031"
+credit = 2.0
+assessment_method = "考查"
+course_name = "公司战略与风险管理"
+recommended_year_semester = "秋季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F69CCBFE0A48ED7E0630C18F80AEB62", "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP4005"
+credit = 2.0
+course_name = "中国式现代化理论与实践"
+recommended_year_semester = "秋季"
+track = "公共学位课（硕）"
+course_nature = "学位课"
+course_category = "公共学位课"
+offering_college = "马克思主义学院"
+total_hours = 32
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "公共学位课（硕）",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP4006"
+credit = 1.0
+course_name = "马克思主义与当代科技"
+recommended_year_semester = "春季"
+track = "选修课中必修课"
+course_nature = "选修课"
+course_category = "选修课"
+offering_college = "马克思主义学院"
+total_hours = 16
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "选修课中必修课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP4007"
+credit = 2.0
+course_name = "习近平著作选读"
+recommended_year_semester = "秋季"
+track = "公共学位课（博）"
+course_nature = "学位课"
+course_category = "公共学位课"
+offering_college = "马克思主义学院"
+total_hours = 32
+source_plan_IDs = [ "4F69CCBFE0A48ED7E0630C18F80AEB62",]
+source_tracks = [ "公共学位课（博）",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GESC4002"
+credit = 1.0
+assessment_method = "考查"
+course_name = "科研信息素养与实践"
+recommended_year_semester = "秋季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学城图书馆"
+total_hours = 16
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 12
+lab = 4
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "HUMA4001"
+credit = 2.0
+assessment_method = "考查"
+course_name = "中国古代文学经典导读"
+recommended_year_semester = "秋季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "人文艺术学系"
+total_hours = 32
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "INGP1001"
+credit = 2.0
+course_name = "技术创新驱动的精益创业"
+recommended_year_semester = "秋季,春季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F69CCBFE0A48ED7E0630C18F80AEB62", "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 24
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG4002"
+credit = 1.0
+assessment_method = "考查"
+course_name = "英美文学赏析"
+recommended_year_semester = "春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "外语系"
+total_hours = 16
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG4008"
+credit = 1.0
+assessment_method = "考查"
+course_name = "电子游戏赏析与游戏化开发"
+recommended_year_semester = "春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "未来设计学院"
+total_hours = 16
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG4011"
+credit = 1.0
+assessment_method = "考查"
+course_name = "希腊罗马神话"
+recommended_year_semester = "春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "外语系"
+total_hours = 16
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG4012"
+credit = 1.0
+assessment_method = "考查"
+course_name = "心理学与生活"
+recommended_year_semester = "春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "未来设计学院"
+total_hours = 16
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG4020"
+credit = 1.0
+assessment_method = "考查"
+course_name = "西方音乐简史"
+recommended_year_semester = "春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "人文艺术学系"
+total_hours = 16
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH4001"
+credit = 2.0
+course_name = "矩阵分析"
+recommended_year_semester = "秋季"
+track = "数理类课程"
+course_nature = "学位课"
+course_category = "数理类"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "数理类课程",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH4002"
+credit = 2.0
+course_name = "优化算法"
+recommended_year_semester = "秋季"
+track = "数理类课程"
+course_nature = "学位课"
+course_category = "数理类"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "数理类课程",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH4003"
+credit = 2.0
+assessment_method = "考试"
+course_name = "数理方程"
+recommended_year_semester = "秋季"
+track = "数理类课程"
+course_nature = "学位课"
+course_category = "数理类"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "数理类课程",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH4004"
+credit = 2.0
+course_name = "数值分析"
+recommended_year_semester = "秋季"
+track = "数理类课程"
+course_nature = "学位课"
+course_category = "数理类"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "数理类课程",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH4005"
+credit = 2.0
+assessment_method = "考查"
+course_name = "张量分析"
+recommended_year_semester = "秋季"
+track = "数理类课程"
+course_nature = "学位课"
+course_category = "数理类"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "数理类课程",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH4009"
+credit = 2.0
+course_name = "偏微分方程数值解"
+recommended_year_semester = "春季"
+track = "数理类课程"
+course_nature = "学位课"
+course_category = "数理类"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "数理类课程",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH4010"
+credit = 2.0
+course_name = "数理统计"
+recommended_year_semester = "春季"
+track = "数理类课程"
+course_nature = "学位课"
+course_category = "数理类"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "数理类课程",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT5029"
+credit = 2.0
+assessment_method = "考查"
+course_name = "企业风险量化建模与案例分析"
+recommended_year_semester = "秋季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F69CCBFE0A48ED7E0630C18F80AEB62", "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT5030"
+credit = 2.0
+assessment_method = "考查"
+course_name = "企业管理导论"
+recommended_year_semester = "春季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F69CCBFE0A48ED7E0630C18F80AEB62", "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT5031"
+credit = 2.0
+assessment_method = "考查"
+course_name = "公司并购"
+recommended_year_semester = "秋季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F69CCBFE0A48ED7E0630C18F80AEB62", "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT5032"
+credit = 2.0
+assessment_method = "考查"
+course_name = "内部控制学"
+recommended_year_semester = "春季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F69CCBFE0A48ED7E0630C18F80AEB62", "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT5061"
+credit = 2.0
+course_name = "货币、银行与金融市场"
+recommended_year_semester = "秋季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F69CCBFE0A48ED7E0630C18F80AEB62", "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT5062"
+credit = 2.0
+assessment_method = "考查"
+course_name = "战略管理与商业模式"
+recommended_year_semester = "秋季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F69CCBFE0A48ED7E0630C18F80AEB62", "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT5063"
+credit = 2.0
+assessment_method = "考查"
+course_name = "证券分析与投资"
+recommended_year_semester = "春季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F69CCBFE0A48ED7E0630C18F80AEB62", "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT5064"
+credit = 2.0
+assessment_method = "考查"
+course_name = "碳排放权交易原理与实践"
+recommended_year_semester = "秋季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F69CCBFE0A48ED7E0630C18F80AEB62", "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "OE5001"
+credit = 2.0
+course_name = "海洋工程计算结构力学"
+recommended_year_semester = "秋季"
+track = "专业学位类别核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "专业学位类别核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "OE5003"
+credit = 2.0
+course_name = "工程优化设计原理与方法"
+recommended_year_semester = "秋季"
+track = "专业学位类别核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "专业学位类别核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "OE5004"
+credit = 2.0
+course_name = "高等结构动力学"
+recommended_year_semester = "春季"
+track = "专业学位类别核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "专业学位类别核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "OE5009"
+credit = 2.0
+course_name = "海洋工程计算流体力学"
+recommended_year_semester = "秋季"
+track = "专业学位类别核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "专业学位类别核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "OE5010"
+credit = 2.0
+course_name = "结构振动噪声控制技术"
+recommended_year_semester = "春季"
+track = "专业学位类别核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "专业学位类别核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "OE5011"
+credit = 2.0
+course_name = "钢结构材性与构造设计"
+recommended_year_semester = "秋季"
+track = "专业学位类别核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "专业学位类别核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "OE5016"
+credit = 2.0
+course_name = "智能结构动力学"
+recommended_year_semester = "春季"
+track = "选修课中必修课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "选修课中必修课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "OE5023"
+credit = 2.0
+course_name = "海洋环境载荷与结构响应"
+recommended_year_semester = "春季"
+track = "专业学位类别核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "专业学位类别核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "OE5026"
+credit = 2.0
+course_name = "海洋岩土工程"
+recommended_year_semester = "春季"
+track = "专业学位类别核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "专业学位类别核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "OE5032"
+credit = 2.0
+course_name = "工程岩体力学"
+recommended_year_semester = "秋季"
+track = "专业学位类别核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 32
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "专业学位类别核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "OE5991"
+credit = 1.0
+course_name = "开题报告"
+recommended_year_semester = "秋季,春季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 16
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "OE5992"
+credit = 1.0
+course_name = "学位论文中期"
+recommended_year_semester = "秋季,春季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 0
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "OE5998"
+credit = 6.0
+course_name = "专业实践"
+recommended_year_semester = "秋季,春季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 0
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "OE5999"
+credit = 1.0
+course_name = "学术与技术交流"
+recommended_year_semester = "秋季,春季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 0
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1004"
+credit = 1.0
+assessment_method = "考查"
+course_name = "婚恋与性健康教育"
+recommended_year_semester = "秋季,春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1005"
+credit = 1.0
+course_name = "大学生人际关系心理学"
+recommended_year_semester = "秋季,春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1006"
+credit = 1.0
+assessment_method = "考查"
+course_name = "性科学与性艺术教育"
+recommended_year_semester = "秋季,春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1007"
+credit = 1.0
+course_name = "大学生常见心理困扰与应对"
+recommended_year_semester = "秋季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1008"
+credit = 1.0
+course_name = "就业生涯规划心理"
+recommended_year_semester = "春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1009"
+credit = 1.0
+assessment_method = "考查"
+course_name = "情绪管理案例学习"
+recommended_year_semester = "春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1010"
+credit = 1.0
+assessment_method = "考查"
+course_name = "犯罪心理学案例分析"
+recommended_year_semester = "春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1011"
+credit = 1.0
+assessment_method = "考查"
+course_name = "大学生心理素质提升团体辅导"
+recommended_year_semester = "春季,秋季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1012"
+credit = 1.0
+assessment_method = "考查"
+course_name = "自我与生命探索"
+recommended_year_semester = "春季,秋季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1013"
+credit = 1.5
+assessment_method = "考查"
+course_name = "青年成长与发展心理"
+recommended_year_semester = "春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 24
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1014"
+credit = 1.0
+assessment_method = "考查"
+course_name = "高效学习与积极心理"
+recommended_year_semester = "春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1024"
+credit = 1.0
+course_name = "东方文化心理与压力进化论"
+recommended_year_semester = "春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET4007"
+credit = 1.0
+course_name = "研究生心理健康"
+recommended_year_semester = "秋季,春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PQ4013"
+credit = 1.0
+course_name = "工程伦理"
+recommended_year_semester = "春季"
+track = "专业学位类别核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 16
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "专业学位类别核心课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "SEIN1032"
+credit = 1.0
+assessment_method = "考查"
+course_name = "实验室安全"
+recommended_year_semester = "秋季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "实验与创新实践教育中心（分析测试中心）"
+total_hours = 16
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 12
+lab = 4
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "SEIN1051"
+credit = 1.0
+course_name = "知识产权法"
+recommended_year_semester = "春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "科学探索与创新"
+offering_college = "马克思主义学院"
+total_hours = 16
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "SEIN1137"
+credit = 2.0
+course_name = "航空技术概论"
+recommended_year_semester = "春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "实验与创新实践教育中心（分析测试中心）"
+total_hours = 32
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 26
+lab = 6
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "SOCC1014"
+credit = 2.0
+assessment_method = "考查"
+course_name = "可持续发展时代（英）"
+recommended_year_semester = "春季"
+track = "素质提升课"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "素质提升课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "WRCO4030"
+credit = 1.0
+course_name = "学术规范及论文写作"
+recommended_year_semester = "秋季,春季"
+track = "专业学位类别核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "智能土木与海洋工程学院"
+total_hours = 16
+source_plan_IDs = [ "51863D6E9D2D601AE0630B18F80AFCC0",]
+source_tracks = [ "专业学位类别核心课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0

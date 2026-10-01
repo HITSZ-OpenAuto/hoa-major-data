@@ -1,0 +1,796 @@
+[info]
+entry_year = "2026"
+major_code = "0305"
+major_name = "马克思主义理论"
+school_name = "马克思主义学院"
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_plan_names = [ "202609【0305】马克思主义理论-学术学位-硕士生培养方案",]
+study_level = "postgrad"
+year_month = "202609"
+
+[[courses]]
+course_code = "AE4160"
+credit = 2.0
+assessment_method = "考试"
+course_name = "学术英语"
+recommended_year_semester = "春季"
+track = "公共学位课（硕）"
+course_nature = "学位课"
+course_category = "公共学位课"
+offering_college = "马克思主义学院"
+total_hours = 0
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "公共学位课（硕）",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARTS4001"
+credit = 2.0
+course_name = "中国音乐赏析"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "人文艺术学系"
+total_hours = 32
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP4005"
+credit = 2.0
+course_name = "中国式现代化理论与实践"
+recommended_year_semester = "秋季"
+track = "公共学位课（硕）"
+course_nature = "学位课"
+course_category = "公共学位课"
+offering_college = "马克思主义学院"
+total_hours = 32
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "公共学位课（硕）",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP4006"
+credit = 1.0
+course_name = "马克思主义与当代科技"
+recommended_year_semester = "春季"
+track = "选修课中必修课"
+course_nature = "选修课"
+course_category = "选修课"
+offering_college = "马克思主义学院"
+total_hours = 16
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "选修课中必修课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GESC4002"
+credit = 1.0
+assessment_method = "考查"
+course_name = "科研信息素养与实践"
+recommended_year_semester = "秋季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学城图书馆"
+total_hours = 16
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 12
+lab = 4
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "HUMA4001"
+credit = 2.0
+assessment_method = "考查"
+course_name = "中国古代文学经典导读"
+recommended_year_semester = "秋季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "人文艺术学系"
+total_hours = 32
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG4002"
+credit = 1.0
+assessment_method = "考查"
+course_name = "英美文学赏析"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "外语系"
+total_hours = 16
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG4008"
+credit = 1.0
+assessment_method = "考查"
+course_name = "电子游戏赏析与游戏化开发"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "未来设计学院"
+total_hours = 16
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG4011"
+credit = 1.0
+assessment_method = "考查"
+course_name = "希腊罗马神话"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "外语系"
+total_hours = 16
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG4012"
+credit = 1.0
+assessment_method = "考查"
+course_name = "心理学与生活"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "未来设计学院"
+total_hours = 16
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG4020"
+credit = 1.0
+assessment_method = "考查"
+course_name = "西方音乐简史"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "人文艺术学系"
+total_hours = 16
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MX5001"
+credit = 2.0
+assessment_method = "考试"
+course_name = "马克思主义经典著作导读"
+recommended_year_semester = "春季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "马克思主义学院"
+total_hours = 32
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MX5002"
+credit = 2.0
+assessment_method = "考试"
+course_name = "马克思主义发展史"
+recommended_year_semester = "春季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "马克思主义学院"
+total_hours = 32
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MX5003"
+credit = 2.0
+assessment_method = "考试"
+course_name = "马克思主义基本原理专题研究"
+recommended_year_semester = "秋季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "马克思主义学院"
+total_hours = 32
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MX5006"
+credit = 2.0
+assessment_method = "考试"
+course_name = "马克思主义中国化研究专题"
+recommended_year_semester = "春季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "马克思主义学院"
+total_hours = 32
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MX5007"
+credit = 2.0
+course_name = "习近平新时代中国特色社会主义思想专题研究"
+recommended_year_semester = "春季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "马克思主义学院"
+total_hours = 32
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MX5023"
+credit = 1.0
+assessment_method = "考查"
+course_name = "数智人文素养提升专题"
+recommended_year_semester = "秋季"
+track = "选修课中必修课"
+course_nature = "选修课"
+course_category = "学科选修课"
+offering_college = "马克思主义学院"
+total_hours = 16
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "选修课中必修课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MX5992"
+credit = 1.0
+assessment_method = "考查"
+course_name = "学位论文开题"
+recommended_year_semester = "秋季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "马克思主义学院"
+total_hours = 0
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MX5993"
+credit = 1.0
+assessment_method = "考查"
+course_name = "学位论文中期"
+recommended_year_semester = "春季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "马克思主义学院"
+total_hours = 0
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1004"
+credit = 1.0
+assessment_method = "考查"
+course_name = "婚恋与性健康教育"
+recommended_year_semester = "秋季,春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1005"
+credit = 1.0
+course_name = "大学生人际关系心理学"
+recommended_year_semester = "秋季,春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1006"
+credit = 1.0
+assessment_method = "考查"
+course_name = "性科学与性艺术教育"
+recommended_year_semester = "秋季,春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1007"
+credit = 1.0
+course_name = "大学生常见心理困扰与应对"
+recommended_year_semester = "秋季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1008"
+credit = 1.0
+course_name = "就业生涯规划心理"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1009"
+credit = 1.0
+assessment_method = "考查"
+course_name = "情绪管理案例学习"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1010"
+credit = 1.0
+assessment_method = "考查"
+course_name = "犯罪心理学案例分析"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1011"
+credit = 1.0
+assessment_method = "考查"
+course_name = "大学生心理素质提升团体辅导"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1012"
+credit = 1.0
+assessment_method = "考查"
+course_name = "自我与生命探索"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1013"
+credit = 1.5
+assessment_method = "考查"
+course_name = "青年成长与发展心理"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 24
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 8
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1014"
+credit = 1.0
+assessment_method = "考查"
+course_name = "高效学习与积极心理"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET1024"
+credit = 1.0
+course_name = "东方文化心理与压力进化论"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PHET4007"
+credit = 1.0
+course_name = "研究生心理健康"
+recommended_year_semester = "秋季,春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "大学生心理健康教育与发展中心"
+total_hours = 16
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "PQ4001"
+credit = 1.0
+course_name = "职业伦理"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "马克思主义学院"
+total_hours = 16
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "SEIN1032"
+credit = 1.0
+assessment_method = "考查"
+course_name = "实验室安全"
+recommended_year_semester = "秋季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "实验与创新实践教育中心（分析测试中心）"
+total_hours = 16
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 12
+lab = 4
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "SEIN1051"
+credit = 1.0
+course_name = "知识产权法"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "科学探索与创新"
+offering_college = "马克思主义学院"
+total_hours = 16
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "SEIN1137"
+credit = 2.0
+course_name = "航空技术概论"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "实验与创新实践教育中心（分析测试中心）"
+total_hours = 32
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 26
+lab = 6
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "SOCC1014"
+credit = 2.0
+assessment_method = "考查"
+course_name = "可持续发展时代（英）"
+recommended_year_semester = "春季"
+track = "素质提升课（学术学位）"
+course_nature = "选修课"
+course_category = "素质提升课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "素质提升课（学术学位）",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "WRCO4029"
+credit = 1.0
+assessment_method = "考试"
+course_name = "学术规范及论文写作"
+recommended_year_semester = "秋季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "马克思主义学院"
+total_hours = 16
+source_plan_IDs = [ "4F68A6098E37CBB4E0630B18F80A5155",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0

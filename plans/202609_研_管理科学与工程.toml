@@ -1,0 +1,190 @@
+[info]
+entry_year = "2026"
+major_code = "1201"
+major_name = "管理科学与工程"
+school_name = "经济管理学院"
+source_plan_IDs = [ "4F69D1F0F6EEBA6AE0630C18F80A490F",]
+source_plan_names = [ "202609[1201]-管理科学与工程-学术学位-博士生培养方案",]
+study_level = "postgrad"
+year_month = "202609"
+
+[[courses]]
+course_code = "GEIP4007"
+credit = 2.0
+course_name = "习近平著作选读"
+recommended_year_semester = "秋季"
+track = "公共学位课（博）"
+course_nature = "学位课"
+course_category = "公共学位课"
+offering_college = "马克思主义学院"
+total_hours = 32
+source_plan_IDs = [ "4F69D1F0F6EEBA6AE0630C18F80A490F",]
+source_tracks = [ "公共学位课（博）",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "LANG4016"
+credit = 2.0
+course_name = "博士英语——英文科技论文写作"
+recommended_year_semester = "秋季,春季"
+track = "博士英语"
+course_nature = "选修课"
+course_category = "博士英语"
+offering_college = "人文与社会科学学院"
+total_hours = 32
+source_plan_IDs = [ "4F69D1F0F6EEBA6AE0630C18F80A490F",]
+source_tracks = [ "博士英语",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT6008"
+credit = 1.5
+course_name = "高级计量经济学"
+recommended_year_semester = "春季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "经济管理学院"
+total_hours = 24
+source_plan_IDs = [ "4F69D1F0F6EEBA6AE0630C18F80A490F",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 24
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT6009"
+credit = 2.0
+course_name = "定量研究方法"
+recommended_year_semester = "秋季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F69D1F0F6EEBA6AE0630C18F80A490F",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT6010"
+credit = 1.5
+course_name = "管理科学模型研究方法"
+recommended_year_semester = "春季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "经济管理学院"
+total_hours = 24
+source_plan_IDs = [ "4F69D1F0F6EEBA6AE0630C18F80A490F",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 24
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT6990"
+credit = 1.0
+course_name = "综合考评"
+recommended_year_semester = "秋季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "经济管理学院"
+total_hours = 16
+source_plan_IDs = [ "4F69D1F0F6EEBA6AE0630C18F80A490F",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT6991"
+credit = 1.0
+course_name = "学位论文开题"
+recommended_year_semester = "秋季,春季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "经济管理学院"
+total_hours = 16
+source_plan_IDs = [ "4F69D1F0F6EEBA6AE0630C18F80A490F",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT6992"
+credit = 1.0
+course_name = "学位论文中期"
+recommended_year_semester = "春季,秋季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "经济管理学院"
+total_hours = 16
+source_plan_IDs = [ "4F69D1F0F6EEBA6AE0630C18F80A490F",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT6993"
+credit = 1.0
+course_name = "学术活动"
+recommended_year_semester = "秋季,春季,夏季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "经济管理学院"
+total_hours = 16
+source_plan_IDs = [ "4F69D1F0F6EEBA6AE0630C18F80A490F",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0

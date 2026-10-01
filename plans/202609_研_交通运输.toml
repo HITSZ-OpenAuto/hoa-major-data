@@ -1,0 +1,499 @@
+[info]
+entry_year = "2026"
+major_code = "0861"
+major_name = "交通运输"
+school_name = "建筑学院"
+source_plan_IDs = [ "4F69C85E066932BCE0630C18F80A4958",]
+source_plan_names = [ "202609[0861]交通运输-专业学位-博士生培养方案",]
+study_level = "postgrad"
+year_month = "202609"
+
+[[courses]]
+course_code = "ARCH5992"
+credit = 3.0
+course_name = "专业实践"
+recommended_year_semester = "秋季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "建筑学院"
+total_hours = 0
+source_plan_IDs = [ "4F69C85E066932BCE0630C18F80A4958",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH5999"
+credit = 1.0
+course_name = "学术与技术交流"
+recommended_year_semester = "秋季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "建筑学院"
+total_hours = 16
+source_plan_IDs = [ "4F69C85E066932BCE0630C18F80A4958",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH6003"
+credit = 1.0
+course_name = "城市化过程"
+recommended_year_semester = "春季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "建筑学院"
+total_hours = 16
+source_plan_IDs = [ "4F69C85E066932BCE0630C18F80A4958",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH6007"
+credit = 2.0
+course_name = "空间分析与大数据高级研究"
+recommended_year_semester = "春季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "建筑学院"
+total_hours = 32
+source_plan_IDs = [ "4F69C85E066932BCE0630C18F80A4958",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH6990"
+credit = 1.0
+course_name = "综合考评"
+recommended_year_semester = "春季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "建筑学院"
+total_hours = 16
+source_plan_IDs = [ "4F69C85E066932BCE0630C18F80A4958",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH6991"
+credit = 1.0
+course_name = "开题报告"
+recommended_year_semester = "秋季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "建筑学院"
+total_hours = 16
+source_plan_IDs = [ "4F69C85E066932BCE0630C18F80A4958",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ARCH6992"
+credit = 1.0
+course_name = "中期检查"
+recommended_year_semester = "秋季"
+track = "必修环节"
+course_nature = "必修环节"
+course_category = "必修环节"
+offering_college = "建筑学院"
+total_hours = 16
+source_plan_IDs = [ "4F69C85E066932BCE0630C18F80A4958",]
+source_tracks = [ "必修环节",]
+
+[courses.hours]
+theory = 16
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COMP4003"
+credit = 2.0
+course_name = "复杂网络建模"
+recommended_year_semester = "秋季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "计算机科学与技术学院"
+total_hours = 32
+source_plan_IDs = [ "4F69C85E066932BCE0630C18F80A4958",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COTR6201"
+credit = 2.0
+course_name = "交通规划理论与方法"
+recommended_year_semester = "春季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "建筑学院"
+total_hours = 32
+source_plan_IDs = [ "4F69C85E066932BCE0630C18F80A4958",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "COTR6203"
+credit = 2.0
+course_name = "智慧交通前沿进展"
+recommended_year_semester = "秋季,春季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "建筑学院"
+total_hours = 32
+source_plan_IDs = [ "4F69C85E066932BCE0630C18F80A4958",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 0
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ECON1002"
+credit = 2.0
+course_name = "技术管理"
+recommended_year_semester = "春季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F69C85E066932BCE0630C18F80A4958",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ECON5029"
+credit = 2.0
+assessment_method = "考查"
+course_name = "气候变化与低碳发展"
+recommended_year_semester = "秋季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F69C85E066932BCE0630C18F80A4958",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "ECON5031"
+credit = 2.0
+assessment_method = "考查"
+course_name = "公司战略与风险管理"
+recommended_year_semester = "秋季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F69C85E066932BCE0630C18F80A4958",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "GEIP4007"
+credit = 2.0
+course_name = "习近平著作选读"
+recommended_year_semester = "秋季"
+track = "公共学位课（博）"
+course_nature = "学位课"
+course_category = "公共学位课"
+offering_college = "马克思主义学院"
+total_hours = 32
+source_plan_IDs = [ "4F69C85E066932BCE0630C18F80A4958",]
+source_tracks = [ "公共学位课（博）",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "INGP1001"
+credit = 2.0
+course_name = "技术创新驱动的精益创业"
+recommended_year_semester = "秋季,春季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F69C85E066932BCE0630C18F80A4958",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 24
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MATH4008"
+credit = 2.0
+course_name = "随机过程"
+recommended_year_semester = "秋季"
+track = "学科核心课"
+course_nature = "学位课"
+course_category = "学科核心课"
+offering_college = "理学院"
+total_hours = 32
+source_plan_IDs = [ "4F69C85E066932BCE0630C18F80A4958",]
+source_tracks = [ "学科核心课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT5029"
+credit = 2.0
+assessment_method = "考查"
+course_name = "企业风险量化建模与案例分析"
+recommended_year_semester = "秋季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F69C85E066932BCE0630C18F80A4958",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT5030"
+credit = 2.0
+assessment_method = "考查"
+course_name = "企业管理导论"
+recommended_year_semester = "春季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F69C85E066932BCE0630C18F80A4958",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT5031"
+credit = 2.0
+assessment_method = "考查"
+course_name = "公司并购"
+recommended_year_semester = "秋季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F69C85E066932BCE0630C18F80A4958",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT5032"
+credit = 2.0
+assessment_method = "考查"
+course_name = "内部控制学"
+recommended_year_semester = "春季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F69C85E066932BCE0630C18F80A4958",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT5061"
+credit = 2.0
+course_name = "货币、银行与金融市场"
+recommended_year_semester = "秋季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F69C85E066932BCE0630C18F80A4958",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT5062"
+credit = 2.0
+assessment_method = "考查"
+course_name = "战略管理与商业模式"
+recommended_year_semester = "秋季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F69C85E066932BCE0630C18F80A4958",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT5063"
+credit = 2.0
+assessment_method = "考查"
+course_name = "证券分析与投资"
+recommended_year_semester = "春季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F69C85E066932BCE0630C18F80A4958",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
+[[courses]]
+course_code = "MGT5064"
+credit = 2.0
+assessment_method = "考查"
+course_name = "碳排放权交易原理与实践"
+recommended_year_semester = "秋季"
+track = "管理类课"
+course_nature = "选修课"
+course_category = "管理类课"
+offering_college = "经济管理学院"
+total_hours = 32
+source_plan_IDs = [ "4F69C85E066932BCE0630C18F80A4958",]
+source_tracks = [ "管理类课",]
+
+[courses.hours]
+theory = 32
+lab = 0
+practice = 0
+exercise = 0
+computer = 0
+tutoring = 0
