@@ -1,4 +1,12 @@
 {
+  "SOCC1007": {
+    "2023_default": [
+      {
+        "name": "结课论文",
+        "percent": "100%"
+      }
+    ]
+  },
   "AUTO1001": {
     "default": [
       {
@@ -96,6 +104,13 @@
     ]
   },
   "AUTO3001B": {
+    "2023_default": [
+      { "name": "课堂表现", "percent": "5%" },
+      { "name": "平时作业", "percent": "12%" },
+      { "name": "实验", "percent": "8%" },
+      { "name": "上机", "percent": "5%" },
+      { "name": "期末考试", "percent": "70%" }
+    ],
     "default": [
       {
         "name": "作业",
@@ -152,16 +167,16 @@
     ],
     "2023_default": [
       {
-        "name": "作业",
+        "name": "平时作业",
         "percent": "10%"
       },
       {
-        "name": "实验",
-        "percent": "30%"
+        "name": "实验报告",
+        "percent": "25%"
       },
       {
         "name": "期末考试",
-        "percent": "60%"
+        "percent": "65%"
       }
     ],
     "default": [
@@ -216,6 +231,12 @@
     ]
   },
   "AUTO3005": {
+    "2023_default": [
+      { "name": "平时成绩", "percent": "10%" },
+      { "name": "实验成绩", "percent": "20%" },
+      { "name": "课程设计", "percent": "20%" },
+      { "name": "期末考试", "percent": "50%" }
+    ],
     "default": [
       {
         "name": "作业",
@@ -236,6 +257,11 @@
     ]
   },
   "AUTO3006": {
+    "2023_default": [
+      { "name": "平时作业", "percent": "20%" },
+      { "name": "实验成绩", "percent": "30%" },
+      { "name": "课程设计", "percent": "50%" }
+    ],
     "default": [
       {
         "name": "考勤",
@@ -690,6 +716,11 @@
     ]
   },
   "COMP2050": {
+    "2023_default": [
+      { "name": "考试成绩", "percent": "70%" },
+      { "name": "平时表现", "percent": "10%" },
+      { "name": "实验成绩", "percent": "20%" }
+    ],
     "2021_default": [
       {
         "name": "作业",
