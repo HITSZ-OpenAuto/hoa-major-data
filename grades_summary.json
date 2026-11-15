@@ -72,6 +72,16 @@
     ]
   },
   "AUTO3001A": {
+    "2023_default": [
+      {
+        "name": "作业成绩",
+        "percent": "30%"
+      },
+      {
+        "name": "期末成绩",
+        "percent": "70%"
+      }
+    ],
     "default": [
       {
         "name": "作业",
@@ -120,6 +130,20 @@
     ]
   },
   "AUTO3002A": {
+    "2023_default": [
+      {
+        "name": "提问与作业",
+        "percent": "10%"
+      },
+      {
+        "name": "课内实验",
+        "percent": "25%"
+      },
+      {
+        "name": "期末考试",
+        "percent": "65%"
+      }
+    ],
     "default": [
       {
         "name": "作业",
@@ -180,6 +204,24 @@
     ]
   },
   "AUTO3003": {
+    "2023_default": [
+      {
+        "name": "笔试",
+        "percent": "45%"
+      },
+      {
+        "name": "实验",
+        "percent": "20%"
+      },
+      {
+        "name": "课程设计",
+        "percent": "25%"
+      },
+      {
+        "name": "作业成绩",
+        "percent": "10%"
+      }
+    ],
     "default": [
       {
         "name": "作业",
@@ -200,6 +242,20 @@
     ]
   },
   "AUTO3004": {
+    "2023_default": [
+      {
+        "name": "平时成绩",
+        "percent": "15%"
+      },
+      {
+        "name": "实验成绩",
+        "percent": "25%"
+      },
+      {
+        "name": "期末成绩",
+        "percent": "60%"
+      }
+    ],
     "default": [
       {
         "name": "作业",
@@ -414,8 +470,20 @@
     ],
     "2023_default": [
       {
-        "name": "作业",
-        "percent": "40%"
+        "name": "平时作业1",
+        "percent": "10%"
+      },
+      {
+        "name": "平时作业2",
+        "percent": "10%"
+      },
+      {
+        "name": "平时作业3",
+        "percent": "10%"
+      },
+      {
+        "name": "平时上机测试",
+        "percent": "10%"
       },
       {
         "name": "期末考试",
@@ -650,6 +718,20 @@
     ]
   },
   "COMP2014": {
+    "2023_default": [
+      {
+        "name": "课后作业",
+        "percent": "20%"
+      },
+      {
+        "name": "实验成绩",
+        "percent": "40%"
+      },
+      {
+        "name": "期末考试",
+        "percent": "40%"
+      }
+    ],
     "default": [
       {
         "name": "作业",
